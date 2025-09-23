@@ -11,8 +11,8 @@ A full explanation of the cross-referencing process can be found [here](https://
 ### Repository structure
 This repository contains the following components for each dataset incorporated into the Global Ecosystems Atlas:
 
-1. Membership matrix template. See p31 of the guidelines for more information on how these are completed
-2. Completed membership matrix.
+1. Membership matrix templates. See p31 of the guidelines for more information on how these are completed. Templates are available [here](https://github.com/Global-Ecosystems-Atlas/cross-referencing/tree/main/tables/01-membership-matrix-templates)
+2. Complete membership matrices. Once membership assignments have been made, these will be available [here](https://github.com/Global-Ecosystems-Atlas/cross-referencing/tree/main/tables/02-membership-matrix-complete)
 3. Global Ecosystems Atlas cross-walking tables (in development: code snippets to generate these will be added in future)
 4. Metadata to track the cross-referencing process
 
