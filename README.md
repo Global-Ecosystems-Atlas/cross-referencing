@@ -9,7 +9,7 @@ Dataset cross-referencing for the Global Ecosystems Atlas follows the [standards
 A full explanation of the cross-referencing process can be found [here](https://portals.iucn.org/library/sites/library/files/documents/2025-026-En.pdf)
 
 ### Repository structure
-This repository contains the code and resources required to incorporated datasets into the Global Ecosystems Atlas:
+This repository contains the code and resources required to incorporate datasets into the Global Ecosystems Atlas:
 
 * Membership matrix templates. See p31 of the guidelines for more information on how these are completed. Templates are available [here](https://github.com/Global-Ecosystems-Atlas/cross-referencing/tree/main/resources/01-membership-matrix-templates).
 * Complete membership matrices. Once membership assignments have been made, these will be available [here](https://github.com/Global-Ecosystems-Atlas/cross-referencing/tree/main/resources/02-membership-matrix-complete)
