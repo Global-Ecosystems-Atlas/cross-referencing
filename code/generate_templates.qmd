@@ -38,10 +38,21 @@ This file takes information from the main database and generates templates for t
 # Load required libraries
 library(glue) #for string manipulation
 library(fs) #for file system operations
-library(readxl)  #for reading excel files)
+library(readxl)  #for reading excel files
 library(googlesheets4) #for reading google sheets
 library(tidyverse)  #for data wrangling etc
 rm(list=ls())
+```
+
+# Authenticate with the Google Service Account if available in the environment variables
+```{r}
+gsa_json <- Sys.getenv("GOOGLE_SERVICE_ACCOUNT_JSON", unset = NA)
+
+if (!is.na(gsa_json) && nchar(gsa_json) > 0) {
+  temp_json <- tempfile(fileext = ".json")
+  writeLines(gsa_json, temp_json)
+  gs4_auth(path = temp_json)
+}
 ```
 
 # Load main database/catalogue and subset source data
@@ -49,8 +60,11 @@ Notes:
 * This is for datasets that have moved to GEA_pass
 * Want to switch the function to purrr-based method
 ```{r}
-source_data <- read_sheet("https://docs.google.com/spreadsheets/d/1P-xus66mTxY-9-a8jZgzwh3KVlL2Yvh6HzJ8rbmT1bY/edit?gid=396521023#gid=396521023", 
-                        sheet = "Data_Review_MASTER", trim_ws = TRUE, col_types = "c") |> 
+source_data <- read_sheet(
+  "https://docs.google.com/spreadsheets/d/1P-xus66mTxY-9-a8jZgzwh3KVlL2Yvh6HzJ8rbmT1bY", 
+  sheet = "Data_Review_MASTER", 
+  trim_ws = TRUE, 
+  col_types = "c") |> 
   filter(QAQC_pass == TRUE) |> 
   filter(!is.na(n_map_classes))
 ```
@@ -58,7 +72,7 @@ source_data <- read_sheet("https://docs.google.com/spreadsheets/d/1P-xus66mTxY-9
 # Load efg codes
 ```{r}
 efg_codes <- read_csv(
-  here::here("../metadata/pixel-values/efg_pixelvalues.csv")) |> 
+  "https://raw.githubusercontent.com/Global-Ecosystems-Atlas/metadata/refs/heads/main/pixel-values/efg_pixelvalues.csv") |> 
   pull(2) |> 
   unique() |> 
   replace_na("NA") |> 
