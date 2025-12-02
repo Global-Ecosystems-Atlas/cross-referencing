@@ -49,7 +49,7 @@ rm(list=ls())
 ### Pixel values
 ```{r}
 efg_pixelvalues <- read_csv(
-  here::here("../metadata/gea-style/pixel-values/efg_pixelvalues.csv"),
+  here::here("../metadata/pixel-values/efg_pixelvalues.csv"),
   show_col_types = FALSE) |>
   rename(efg_code = EFG_Code,
          efg_name = EFG_Name,
@@ -68,7 +68,7 @@ efg_codes <- efg_pixelvalues |>
 ```
 
 
-# Specifiy input and output directories
+# Specify input and output directories
 ```{r}
 input_folder <- here::here("resources/02-membership-matrix-complete")
 output_folder <- here::here("resources/03_cw_tables_GEA")
