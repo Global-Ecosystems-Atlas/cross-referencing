@@ -38,7 +38,7 @@ This file converts completed membership matrix templates into crosswalk tables f
 # Load required libraries
 library(glue) #for string manipulation
 library(fs) #for file system operations
-library(readxl)  #for reading excel files)
+library(readxl)  #for reading excel files
 library(googlesheets4) #for reading google sheets
 library(tidyverse)  #for data wrangling etc
 rm(list=ls())
@@ -49,7 +49,7 @@ rm(list=ls())
 ### Pixel values
 ```{r}
 efg_pixelvalues <- read_csv(
-  here::here("../metadata/pixel-values/efg_pixelvalues.csv"),
+  "https://raw.githubusercontent.com/Global-Ecosystems-Atlas/metadata/refs/heads/main/pixel-values/efg_pixelvalues.csv",
   show_col_types = FALSE) |>
   rename(efg_code = EFG_Code,
          efg_name = EFG_Name,
