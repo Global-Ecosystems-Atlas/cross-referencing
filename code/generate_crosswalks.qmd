@@ -48,23 +48,17 @@ rm(list=ls())
 # Load efg information
 ### Pixel values
 ```{r}
-efg_pixelvalues <- read_csv(
+efg_codes <- read_csv(
   "https://raw.githubusercontent.com/Global-Ecosystems-Atlas/metadata/refs/heads/main/pixel-values/efg_pixelvalues.csv",
   show_col_types = FALSE) |>
   rename(efg_code = EFG_Code,
          efg_name = EFG_Name,
          efg_description = EFG,
-         pixel_value = PixelValue)
-```
-
-
-### EFG codes
-```{r}
-efg_codes <- efg_pixelvalues |> 
-  pull(2) |> 
-  unique() |> 
-  replace_na("NA") |> 
-  as.character()
+         pixel_value = PixelValue) |> 
+  mutate(efg_code = as.character(efg_code)) |> 
+  mutate(efg_code = replace_na(efg_code, "NA")) |> 
+  pull(efg_code) |> 
+  unique()
 ```
 
 
@@ -116,7 +110,7 @@ process_membmat <- function(file_path) {
       efg_description,
       pixel_value
     ) |>
-    arrange(data_id_code, band_layer_name, efg_code)
+    arrange(data_id_code, band_layer_name, in_class_value)
   
   # Define output subdir and ensure it exists
   sub_dir <- path(output_folder, data_id)
