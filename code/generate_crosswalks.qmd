@@ -46,9 +46,10 @@ rm(list=ls())
 
 
 # Load efg information
+Need both pixel values and efg codes as separate objects for pipeline
 ### Pixel values
 ```{r}
-efg_codes <- read_csv(
+efg_pixelvalues <- read_csv(
   "https://raw.githubusercontent.com/Global-Ecosystems-Atlas/metadata/refs/heads/main/pixel-values/efg_pixelvalues.csv",
   show_col_types = FALSE) |>
   rename(efg_code = EFG_Code,
@@ -56,10 +57,17 @@ efg_codes <- read_csv(
          efg_description = EFG,
          pixel_value = PixelValue) |> 
   mutate(efg_code = as.character(efg_code)) |> 
-  mutate(efg_code = replace_na(efg_code, "NA")) |> 
+  mutate(efg_code = replace_na(efg_code, "NA"))
+```
+
+
+### EFG codes
+```{r}
+efg_codes <- efg_pixelvalues |>
   pull(efg_code) |> 
   unique()
 ```
+
 
 
 # Specify input and output directories
