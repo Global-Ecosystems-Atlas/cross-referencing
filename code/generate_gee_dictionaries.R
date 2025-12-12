@@ -37,21 +37,19 @@ process_csv_file <- function(file_path) {
   efg_names <- df$efg_name
   efg_codes <- df$efg_code
   
-  # --- Generate the JavaScript dictionary content using glue ---
+#  --- Generate the JavaScript dictionary content using glue ---
   js_content <- glue::glue(
     "//{data_id_code}\n",
     "var {data_id_code} = {{\n",
     "  data_id_code: '{data_id_code}',\n",
-    "  ee_asset_id: {ee_asset_id_js_literal},\n", # NOTE: No single quotes here!
+    "  ee_asset_id: {ee_asset_id_js_literal},\n",
     "  in_class_field_name: [{paste0(\"'\", in_class_field_name, \"'\", collapse = \", \")}],\n",
-    "  in_value: [{paste0(in_value, collapse = \", \")}],\n",
+    "  in_value: [{paste0(\"'\", in_value, \"'\", collapse = \", \")}],\n",
     "  out_class_value: [{paste0(out_value, collapse = \", \")}],\n",
     "  efg_names: [{paste0(\"'\", efg_names, \"'\", collapse = \", \")}],\n",
     "  efg_codes: [{paste0(\"'\", efg_codes, \"'\", collapse = \", \")}]\n",
-    "}};
-"
+    "}};\n"
   )
-  
   return(as.character(js_content))
 }
 
