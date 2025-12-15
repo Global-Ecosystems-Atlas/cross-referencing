@@ -80,8 +80,7 @@ dir_create(output_folder)
 
 # Function to process membership matrix template for one dataset
 ```{r}
-# Function to process one membership matrix file
-process_membmat <- function(file_path) {
+process_membmat <- function(file_path, membership_threshold = 0.5) { # Set membership threshold here. Currently 0.5 (50%)
   
   # Derive data_id_code from folder name
   data_id <- basename(dirname(file_path))
@@ -94,14 +93,58 @@ process_membmat <- function(file_path) {
     pivot_longer(
       cols = all_of(efg_codes),
       names_to = "efg_code",
-      values_to = "value"
-    ) |>
-    filter(value == 1) |>
-    select(-value)
+      values_to = "membership"
+    )
   
-  # Join with metadata
-  dat_long <- dat_long |>
+  # Split into majority and no-majority cases
+  dat_majority <- dat_long |>
+    filter(!is.na(membership), membership > membership_threshold)
+  
+  dat_no_majority <- dat_long |>
+    group_by(
+      crossref_date,
+      crossref_by,
+      GET_vsn,
+      Source_ID,
+      data_id_code,
+      band_layer_name,
+      in_class_field_name,
+      in_class_value,
+      in_class_description,
+      in_class_description_detail
+    ) |>
+    summarise(
+      has_majority = any(membership > membership_threshold, na.rm = TRUE),
+      .groups = "drop"
+    ) |>
+    filter(!has_majority) |>
+    mutate(
+      efg_code   = NA_character_,
+      membership = NA_real_
+    )
+  
+  # Combine
+  dat_out <- bind_rows(
+    dat_majority,
+    dat_no_majority
+  )
+  
+  # Join with metadata (will yield NA for EFG fields)
+  dat_out <- dat_out |>
     left_join(efg_pixelvalues, by = "efg_code") |>
+    mutate(
+      pixel_value = if_else(is.na(efg_code), 255L, pixel_value),
+      efg_name = if_else(
+        is.na(efg_code),
+        "No Data",
+        efg_name
+      ),
+      efg_description = if_else(
+        is.na(efg_code),
+        "NA No Data",
+        efg_description
+      )
+    )  |>
     select(
       crossref_date,
       crossref_by,
@@ -126,16 +169,19 @@ process_membmat <- function(file_path) {
   
   # Save
   save_path <- path(sub_dir, glue::glue("{data_id}_GEA_crosswalk_table.csv"))
-  write_csv(dat_long, save_path)
+  write_csv(dat_out, save_path)
   
   message("Processed: ", data_id)
 }
-
 ```
 
 # Process all membership matrix files
 ```{r}
 dir_ls(input_folder, recurse = TRUE, regexp = "-membmat-complete\\.csv$") |>
   walk(process_membmat)
+```
+
+```{r}
+# END
 ```
 
