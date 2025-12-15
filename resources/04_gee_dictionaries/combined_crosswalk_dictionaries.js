@@ -37,11 +37,11 @@ var aca_global_reef_2022 = {
 var airi_seasia_ricepaddy_2019 = {
   data_id_code: 'airi_seasia_ricepaddy_2019',
   ee_asset_id: repository.assets.data_catalogue.airi_seasia_ricepaddy_2019,
-  in_class_field_name: ['raster code'],
-  in_value: ['0'],
-  out_class_value: [0],
-  efg_names: ['No Data'],
-  efg_codes: ['0']
+  in_class_field_name: ['raster code', 'raster code'],
+  in_value: ['0', '255'],
+  out_class_value: [0, 109],
+  efg_names: ['No Data', 'Rice paddies'],
+  efg_codes: ['0', 'F3.3']
 };
 
 //cambridge_global_saltmarsh_2023
@@ -400,11 +400,11 @@ var syke_finland_eco_2018b = {
 var syke_finland_forest_2021 = {
   data_id_code: 'syke_finland_forest_2021',
   ee_asset_id: repository.assets.data_catalogue.syke_finland_forest_2021,
-  in_class_field_name: ['raster code'],
-  in_value: ['1'],
-  out_class_value: [255],
-  efg_names: ['No Data'],
-  efg_codes: ['NA']
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
+  in_value: ['1', '2', '3', '4', '5', '6'],
+  out_class_value: [255, 7, 255, 7, 7, 7],
+  efg_names: ['No Data', 'Boreal and temperate high montane forests and woodlands', 'No Data', 'Boreal and temperate high montane forests and woodlands', 'Boreal and temperate high montane forests and woodlands', 'Boreal and temperate high montane forests and woodlands'],
+  efg_codes: ['NA', 'T2.1', 'NA', 'T2.1', 'T2.1', 'T2.1']
 };
 
 //ubonn_chile_veg_2022
