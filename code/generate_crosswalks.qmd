@@ -86,8 +86,20 @@ process_membmat <- function(file_path, membership_threshold = 0.5) { # Set membe
   data_id <- basename(dirname(file_path))
   
   # Read membership matrix
-  dat <- read_csv(file_path, show_col_types = FALSE)
-  
+  # Trying to coerce these all to the same var types for downstream work but fails on reload, so need a fix there...
+dat <- read_csv(file_path, show_col_types = FALSE) |>
+  mutate(
+    crossref_date               = as.character(crossref_date),
+    crossref_by                 = as.character(crossref_by),
+    data_id_code                = as.character(data_id_code),
+    band_layer_name             = as.character(band_layer_name),
+    in_class_field_name         = as.character(in_class_field_name),
+    in_class_value              = as.character(in_class_value),
+    in_class_description        = as.character(in_class_description),
+    in_class_description_detail = as.character(in_class_description_detail),
+    GET_vsn                     = as.double(GET_vsn),
+    Source_ID                   = as.double(Source_ID)
+  )  
   # Pivot longer across all EFG codes
   dat_long <- dat |>
     pivot_longer(
@@ -162,6 +174,8 @@ process_membmat <- function(file_path, membership_threshold = 0.5) { # Set membe
       pixel_value
     ) |>
     arrange(data_id_code, band_layer_name, in_class_value)
+  
+  
   
   # Define output subdir and ensure it exists
   sub_dir <- path(output_folder, data_id)

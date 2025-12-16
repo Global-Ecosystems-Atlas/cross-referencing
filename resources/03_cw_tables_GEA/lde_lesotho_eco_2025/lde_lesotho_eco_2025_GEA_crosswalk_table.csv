@@ -1,8 +1,8 @@
 crossref_date,crossref_by,GET_vsn,Source_ID,data_id_code,band_layer_name,in_class_field_name,in_class_value,in_class_description,in_class_description_detail,efg_code,efg_name,efg_description,pixel_value
-10-Dec-25,Lesotho Department of Environment,v2.1,300,lde_lesotho_eco_2025,Lesotho Raster 100m,NA,0,NA,NA,0,No Data,No Data,0
-10-Dec-25,Lesotho Department of Environment,v2.1,300,lde_lesotho_eco_2025,Lesotho Raster 100m,NA,1,NA,NA,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
-10-Dec-25,Lesotho Department of Environment,v2.1,300,lde_lesotho_eco_2025,Lesotho Raster 100m,NA,2,NA,NA,T7.1,Annual croplands,T7.1 Annual croplands,46
-10-Dec-25,Lesotho Department of Environment,v2.1,300,lde_lesotho_eco_2025,Lesotho Raster 100m,NA,3,NA,NA,T4.5,Temperate subhumid grasslands,T4.5 Temperate subhumid grasslands,26
-10-Dec-25,Lesotho Department of Environment,v2.1,300,lde_lesotho_eco_2025,Lesotho Raster 100m,NA,4,NA,NA,F2.3,Seasonal freshwater lakes,F2.3 Seasonal freshwater lakes,94
-10-Dec-25,Lesotho Department of Environment,v2.1,300,lde_lesotho_eco_2025,Lesotho Raster 100m,NA,5,NA,NA,F3.1,Large reservoirs,F3.1 Large reservoirs,107
-10-Dec-25,Lesotho Department of Environment,v2.1,300,lde_lesotho_eco_2025,Lesotho Raster 100m,NA,6,NA,NA,F3.2,Constructed lacustrine wetlands,F3.2 Constructed lacustrine wetlands,108
+10-Dec-25,Lesotho Department of Environment,NA,300,lde_lesotho_eco_2025,Lesotho Raster 100m,NA,0,NA,NA,0,No Data,No Data,0
+10-Dec-25,Lesotho Department of Environment,NA,300,lde_lesotho_eco_2025,Lesotho Raster 100m,NA,1,NA,NA,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
+10-Dec-25,Lesotho Department of Environment,NA,300,lde_lesotho_eco_2025,Lesotho Raster 100m,NA,2,NA,NA,T7.1,Annual croplands,T7.1 Annual croplands,46
+10-Dec-25,Lesotho Department of Environment,NA,300,lde_lesotho_eco_2025,Lesotho Raster 100m,NA,3,NA,NA,T4.5,Temperate subhumid grasslands,T4.5 Temperate subhumid grasslands,26
+10-Dec-25,Lesotho Department of Environment,NA,300,lde_lesotho_eco_2025,Lesotho Raster 100m,NA,4,NA,NA,F2.3,Seasonal freshwater lakes,F2.3 Seasonal freshwater lakes,94
+10-Dec-25,Lesotho Department of Environment,NA,300,lde_lesotho_eco_2025,Lesotho Raster 100m,NA,5,NA,NA,F3.1,Large reservoirs,F3.1 Large reservoirs,107
+10-Dec-25,Lesotho Department of Environment,NA,300,lde_lesotho_eco_2025,Lesotho Raster 100m,NA,6,NA,NA,F3.2,Constructed lacustrine wetlands,F3.2 Constructed lacustrine wetlands,108
