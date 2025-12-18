@@ -3,7 +3,7 @@ var repository = require('users/murrnick/geo-atlas-prod:modules/central_reposito
 //aad_macqis_veg_2015
 var aad_macqis_veg_2015 = {
   data_id_code: 'aad_macqis_veg_2015',
-  ee_asset_id: repository.assets.data_catalogue.aad_macqis_veg_2015,
+  ee_asset_id: repository.data_catalogue.aad_macqis_veg_2015,
   in_class_field_name: ['STORAGE_TY', 'VEG_TYPE_N', 'VEG_TYPE_N', 'VEG_TYPE_N', 'VEG_TYPE_N', 'VEG_TYPE_N', 'VEG_TYPE_N', 'VEG_TYPE_N', 'VEG_TYPE_N'],
   in_value: ['Lake', 'Closed  vegetation', 'Closed short herb vegetation', 'Closed tall herb vegetation', 'Durvillaea', 'Mire', 'None', 'Open short herb vegetation', 'Vegetation complex'],
   out_class_value: [93, 158, 41, 163, 121, 75, 164, 41, 41],
@@ -14,7 +14,7 @@ var aad_macqis_veg_2015 = {
 //aberuni_wales_eco_2024
 var aberuni_wales_eco_2024 = {
   data_id_code: 'aberuni_wales_eco_2024',
-  ee_asset_id: repository.assets.data_catalogue.aberuni_wales_eco_2024,
+  ee_asset_id: repository.data_catalogue.aberuni_wales_eco_2024,
   in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
   in_value: ['0', '10', '106', '107', '119', '12', '128', '130', '131', '132', '134', '135', '142', '143', '155', '159', '16', '200', '201', '202', '23', '3', '35', '38', '4', '41', '44', '45', '5', '50', '58', '61', '70', '71', '72', '78', '85', '86', '9', '90'],
   out_class_value: [0, 8, 255, 159, 170, 8, 163, 163, 163, 163, 163, 163, 19, 19, 49, 46, 48, 49, 255, 50, 255, 255, 50, 47, 255, 255, 47, 255, 255, 255, 18, 18, 75, 75, 75, 76, 75, 76, 48, 255],
@@ -25,7 +25,7 @@ var aberuni_wales_eco_2024 = {
 //aca_global_reef_2022
 var aca_global_reef_2022 = {
   data_id_code: 'aca_global_reef_2022',
-  ee_asset_id: repository.assets.data_catalogue.aca_global_reef_2022,
+  ee_asset_id: repository.data_catalogue.aca_global_reef_2022,
   in_class_field_name: ['benthic_class_names', 'benthic_class_names', 'benthic_class_names', 'benthic_class_names', 'benthic_class_names', 'benthic_class_names', 'benthic_class_names'],
   in_value: ['0', '1', '2', '3', '4', '5', '6'],
   out_class_value: [0, 255, 255, 255, 255, 122, 255],
@@ -36,7 +36,7 @@ var aca_global_reef_2022 = {
 //airi_seasia_ricepaddy_2019
 var airi_seasia_ricepaddy_2019 = {
   data_id_code: 'airi_seasia_ricepaddy_2019',
-  ee_asset_id: repository.assets.data_catalogue.airi_seasia_ricepaddy_2019,
+  ee_asset_id: repository.data_catalogue.airi_seasia_ricepaddy_2019,
   in_class_field_name: ['raster code', 'raster code'],
   in_value: ['0', '255'],
   out_class_value: [0, 109],
@@ -47,7 +47,7 @@ var airi_seasia_ricepaddy_2019 = {
 //cambridge_global_saltmarsh_2023
 var cambridge_global_saltmarsh_2023 = {
   data_id_code: 'cambridge_global_saltmarsh_2023',
-  ee_asset_id: repository.assets.data_catalogue.cambridge_global_saltmarsh_2023,
+  ee_asset_id: repository.data_catalogue.cambridge_global_saltmarsh_2023,
   in_class_field_name: ['Raster code'],
   in_value: ['1'],
   out_class_value: [170],
@@ -58,7 +58,7 @@ var cambridge_global_saltmarsh_2023 = {
 //cbs_neth_eco_2022
 var cbs_neth_eco_2022 = {
   data_id_code: 'cbs_neth_eco_2022',
-  ee_asset_id: repository.assets.data_catalogue.cbs_neth_eco_2022,
+  ee_asset_id: repository.data_catalogue.cbs_neth_eco_2022,
   in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
   in_value: ['0', '1011', '1012', '1021', '1022', '111', '112', '121', '21', '22', '23', '24', '31', '32', '41', '42', '43', '51', '52', '71', '72', '81', '91'],
   out_class_value: [0, 49, 49, 49, 49, 255, 170, 255, 46, 46, 48, 46, 47, 50, 8, 8, 8, 18, 18, 75, 76, 82, 93],
@@ -69,7 +69,7 @@ var cbs_neth_eco_2022 = {
 //cu_global_lcov_2024
 var cu_global_lcov_2024 = {
   data_id_code: 'cu_global_lcov_2024',
-  ee_asset_id: repository.assets.data_catalogue.cu_global_lcov_2024,
+  ee_asset_id: repository.data_catalogue.cu_global_lcov_2024,
   in_class_field_name: ['Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name', 'Class_name'],
   in_value: ['1. Mangrove', '2. Coastal Wetland', '3. Pond Aquaculture', '4. Water', '5. Other Land Cover', '6. Missing', '1. Mangrove', '2. Coastal Wetland', '3. Pond Aquaculture', '4. Water', '5. Other Land Cover', '6. Missing', '1. Mangrove', '2. Coastal Wetland', '3. Pond Aquaculture', '4. Water', '5. Other Land Cover', '6. Missing', '1. Mangrove', '2. Coastal Wetland', '3. Pond Aquaculture', '4. Water', '5. Other Land Cover', '6. Missing', '1. Mangrove', '2. Coastal Wetland', '3. Pond Aquaculture', '4. Water', '5. Other Land Cover', '6. Missing', '1. Mangrove', '2. Coastal Wetland', '3. Pond Aquaculture', '4. Water', '5. Other Land Cover', '6. Missing', '1. Mangrove', '2. Coastal Wetland', '3. Pond Aquaculture', '4. Water', '5. Other Land Cover', '6. Missing', '1. Mangrove', '2. Coastal Wetland', '3. Pond Aquaculture', '4. Water', '5. Other Land Cover', '6. Missing', '1. Mangrove', '2. Coastal Wetland', '3. Pond Aquaculture', '4. Water', '5. Other Land Cover', '6. Missing', '1. Mangrove', '2. Coastal Wetland', '3. Pond Aquaculture', '4. Water', '5. Other Land Cover', '6. Missing', '1. Mangrove', '2. Coastal Wetland', '3. Brackish Pond Aquaculture', '4. Water', '5. Other Land Cover', '6. Missing', '7. Fresh Pond Aquaculture', '1. Mangrove', '2. Coastal Wetland', '3. Pond Aquaculture', '4. Water', '5. Other Land Cover', '6. Missing', '1. Mangrove', '2. Coastal Wetland', '3. Pond Aquaculture', '4. Water', '5. Other Land Cover', '6. Missing', '1. Mangrove', '2. Coastal Wetland', '3. Pond Aquaculture', '4. Water', '5. Other Land Cover', '6. Missing', '1. Mangrove', '2. Coastal Wetland', '3. Pond Aquaculture', '4. Water', '5. Other Land Cover', '6. Missing', '1. Mangrove', '2. Coastal Wetland', '3. Pond Aquaculture', '4. Water', '5. Other Land Cover', '6. Missing'],
   out_class_value: [169, 255, 155, 255, 255, 0, 169, 73, 155, 255, 255, 0, 169, 255, 155, 255, 255, 0, 169, 255, 155, 255, 255, 0, 169, 255, 155, 255, 255, 0, 169, 255, 155, 255, 255, 0, 169, 255, 155, 255, 255, 0, 169, 255, 155, 255, 255, 0, 169, 255, 155, 255, 255, 0, 169, 255, 155, 255, 255, 0, 169, 255, 155, 255, 255, 0, 110, 169, 255, 155, 255, 255, 0, 169, 255, 155, 255, 255, 0, 169, 255, 155, 255, 255, 0, 169, 255, 155, 255, 255, 0, 169, 255, 110, 255, 255, 0],
@@ -80,7 +80,7 @@ var cu_global_lcov_2024 = {
 //des_qld_veg_2021
 var des_qld_veg_2021 = {
   data_id_code: 'des_qld_veg_2021',
-  ee_asset_id: repository.assets.data_catalogue.des_qld_veg_2021,
+  ee_asset_id: repository.data_catalogue.des_qld_veg_2021,
   in_class_field_name: ['DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M', 'DBVG1M'],
   in_value: ['10a', '10b', '11a', '11b', '11c', '12a', '12b', '13a', '13b', '13c', '13d', '14a', '14b', '14c', '14d', '15a', '15b', '16a', '16b', '16c', '16d', '17a', '17b', '17c', '18a', '18b', '18c', '18d', '19a', '19b', '19c', '19d', '1a', '1b', '20a', '21a', '21b', '22a', '22b', '22c', '23a', '23b', '24a', '24b', '25a', '26a', '27a', '27b', '27c', '28a', '28b', '28c', '28d', '28e', '29a', '29b', '2a', '2b', '2c', '2d', '30a', '30b', '31a', '31b', '32a', '32b', '33a', '33b', '34a', '34b', '34c', '34d', '34e', '34f', '34g', '35a', '35b', '3a', '4a', '4b', '5a', '5b', '5c', '5d', '6a', '6b', '7a', '7b', '8a', '8b', '9a', '9b', '9c', '9d', '9e', '9f', '9g', '9h', 'non-remnant', 'plantation', 'water'],
   out_class_value: [23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 24, 12, 25, 71, 23, 74, 73, 23, 24, 24, 23, 23, 23, 23, 24, 24, 24, 24, 1, 1, 23, 23, 23, 71, 71, 71, 32, 32, 32, 32, 2, 32, 23, 23, 23, 163, 163, 255, 163, 16, 16, 16, 1, 2, 2, 2, 25, 25, 30, 30, 73, 73, 32, 32, 98, 96, 73, 73, 99, 75, 74, 169, 170, 2, 70, 70, 2, 1, 1, 2, 3, 1, 2, 2, 11, 11, 11, 23, 23, 23, 23, 11, 12, 23, 255, 48, 255],
@@ -91,7 +91,7 @@ var des_qld_veg_2021 = {
 //destatis_germ_eco_2021
 var destatis_germ_eco_2021 = {
   data_id_code: 'destatis_germ_eco_2021',
-  ee_asset_id: repository.assets.data_catalogue.destatis_germ_eco_2021,
+  ee_asset_id: repository.data_catalogue.destatis_germ_eco_2021,
   in_class_field_name: ['Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code'],
   in_value: ['0', '1', '10', '100', '101', '102', '103', '104', '105', '106', '107', '108', '109', '11', '110', '111', '112', '113', '114', '115', '116', '117', '118', '119', '12', '120', '121', '122', '123', '124', '125', '126', '127', '128', '129', '13', '130', '131', '132', '133', '134', '135', '136', '137', '138', '139', '14', '140', '141', '142', '143', '144', '145', '146', '147', '148', '149', '15', '150', '151', '152', '153', '154', '155', '156', '157', '158', '159', '16', '160', '161', '162', '163', '164', '165', '166', '167', '168', '169', '17', '170', '171', '172', '173', '174', '175', '176', '177', '178', '179', '18', '180', '181', '182', '183', '184', '185', '186', '187', '188', '189', '19', '190', '191', '192', '193', '194', '195', '196', '197', '198', '199', '2', '20', '200', '201', '202', '203', '204', '205', '206', '207', '208', '209', '21', '210', '211', '212', '213', '214', '215', '216', '217', '218', '219', '22', '220', '221', '222', '223', '224', '225', '226', '227', '228', '229', '23', '230', '231', '232', '233', '234', '235', '236', '237', '238', '239', '24', '240', '241', '242', '243', '244', '245', '246', '247', '248', '249', '25', '250', '251', '252', '253', '254', '255', '26', '27', '28', '29', '3', '30', '31', '32', '33', '34', '35', '36', '37', '38', '39', '4', '40', '41', '42', '43', '44', '45', '46', '47', '48', '49', '5', '50', '51', '52', '53', '54', '55', '56', '57', '58', '59', '6', '60', '61', '62', '63', '64', '65', '66', '67', '68', '69', '7', '70', '71', '72', '73', '74', '75', '76', '77', '78', '79', '8', '80', '81', '82', '83', '84', '85', '86', '87', '88', '89', '9', '90', '91', '92', '93', '94', '95', '96', '97', '98', '99'],
   out_class_value: [0, 49, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 255, 0, 0, 0, 0, 0, 0, 7, 75, 71, 8, 49, 7, 75, 7, 7, 75, 8, 48, 8, 8, 18, 49, 41, 18, 72, 75, 75, 76, 170, 255, 159, 159, 49, 19, 19, 39, 38, 41, 163, 82, 82, 82, 82, 49, 92, 92, 107, 93, 0, 0, 0, 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -102,7 +102,7 @@ var destatis_germ_eco_2021 = {
 //entc_eswatini_eco_2025
 var entc_eswatini_eco_2025 = {
   data_id_code: 'entc_eswatini_eco_2025',
-  ee_asset_id: repository.assets.data_catalogue.entc_eswatini_eco_2025,
+  ee_asset_id: repository.data_catalogue.entc_eswatini_eco_2025,
   in_class_field_name: ['NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA'],
   in_value: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9'],
   out_class_value: [48, 26, 46, 49, 107, 108, 2, 10, 22, 23],
@@ -113,7 +113,7 @@ var entc_eswatini_eco_2025 = {
 //gbrmpa_aus_benth_2021
 var gbrmpa_aus_benth_2021 = {
   data_id_code: 'gbrmpa_aus_benth_2021',
-  ee_asset_id: repository.assets.data_catalogue.gbrmpa_aus_benth_2021,
+  ee_asset_id: repository.data_catalogue.gbrmpa_aus_benth_2021,
   in_class_field_name: ['Value', 'Value', 'Value', 'Value'],
   in_value: ['11', '12', '13', '14'],
   out_class_value: [126, 122, 122, 122],
@@ -124,7 +124,7 @@ var gbrmpa_aus_benth_2021 = {
 //gfw_global_plant_2024
 var gfw_global_plant_2024 = {
   data_id_code: 'gfw_global_plant_2024',
-  ee_asset_id: repository.assets.data_catalogue.gfw_global_plant_2024,
+  ee_asset_id: repository.data_catalogue.gfw_global_plant_2024,
   in_class_field_name: ['simpleType', 'simpleType'],
   in_value: ['Planted forest', 'Tree crops'],
   out_class_value: [255, 48],
@@ -135,7 +135,7 @@ var gfw_global_plant_2024 = {
 //gfw_stham_soy_2022
 var gfw_stham_soy_2022 = {
   data_id_code: 'gfw_stham_soy_2022',
-  ee_asset_id: repository.assets.data_catalogue.gfw_stham_soy_2022,
+  ee_asset_id: repository.data_catalogue.gfw_stham_soy_2022,
   in_class_field_name: ['raster code'],
   in_value: ['1'],
   out_class_value: [46],
@@ -146,7 +146,7 @@ var gfw_stham_soy_2022 = {
 //glims_global_glacier_2013
 var glims_global_glacier_2013 = {
   data_id_code: 'glims_global_glacier_2013',
-  ee_asset_id: repository.assets.data_catalogue.glims_global_glacier_2013,
+  ee_asset_id: repository.data_catalogue.glims_global_glacier_2013,
   in_class_field_name: ['line_type', 'line_type', 'line_type', 'line_type', 'line_type', 'line_type'],
   in_value: ['basin_bound', 'debris_cov', 'glac_bound', 'intrnl_rock', 'pro_lake', 'supra_lake'],
   out_class_value: [255, 255, 38, 39, 255, 255],
@@ -157,7 +157,7 @@ var glims_global_glacier_2013 = {
 //gmw_global_mangrove_2022
 var gmw_global_mangrove_2022 = {
   data_id_code: 'gmw_global_mangrove_2022',
-  ee_asset_id: repository.assets.data_catalogue.gmw_global_mangrove_2022,
+  ee_asset_id: repository.data_catalogue.gmw_global_mangrove_2022,
   in_class_field_name: ['PXLVAL'],
   in_value: ['1'],
   out_class_value: [169],
@@ -168,7 +168,7 @@ var gmw_global_mangrove_2022 = {
 //ibge_brazil_veg_2021
 var ibge_brazil_veg_2021 = {
   data_id_code: 'ibge_brazil_veg_2021',
-  ee_asset_id: repository.assets.data_catalogue.ibge_brazil_veg_2021,
+  ee_asset_id: repository.data_catalogue.ibge_brazil_veg_2021,
   in_class_field_name: ['clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi', 'clas_domi'],
   in_value: ['Aa', 'Aab', 'Aac', 'Aap', 'Ab', 'Abb', 'Abc', 'Abp', 'Ac', 'Acc', 'Acp', 'Ag', 'Ai', 'Ap', 'Ar', 'As', 'Asb', 'Asc', 'Asp', 'Ass', 'Ca', 'Cb', 'Cbe', 'Cm', 'Cmu', 'Cs', 'Cse', 'Csu', 'Da', 'Dae', 'Dau', 'Db', 'Dbe', 'Dbu', 'Dl', 'Dm', 'Dme', 'Dmu', 'Dn', 'Ds', 'Dse', 'Dsu', 'Eaf', 'Eg', 'Egf', 'Egs', 'Epf', 'Fa', 'Fae', 'Fau', 'Fb', 'Fbe', 'Fm', 'Fme', 'Fs', 'Fse', 'Fsu', 'Ha', 'Hae', 'Hb', 'Hbe', 'Hbu', 'Hs', 'Hse', 'Hsu', 'Iu', 'LOt', 'La', 'Lap', 'Las', 'Lb', 'Lbp', 'Lbs', 'Ldp', 'Lds', 'Lg', 'Lgs', 'Magua', 'Ml', 'Mm', 'ONt', 'Pa', 'Paa', 'Paap', 'Paas', 'Pah', 'Pahp', 'Pahs', 'Pap', 'Pf', 'Pfh', 'Pfm', 'Pm', 'Pma', 'Pmb', 'Pmh', 'R', 'Ra', 'Re', 'Rp', 'Rs', 'SNt', 'SOt', 'SPt', 'STNt', 'STt', 'Sa', 'Saf', 'Sas', 'Sd', 'Sg', 'Sgf', 'Sgs', 'Sp', 'Spf', 'Sps', 'TNt', 'TPt', 'Ta', 'Taf', 'Tap', 'Tas', 'Tb', 'Tbs', 'Td', 'Tdp', 'Tds', 'Tgf', 'Tgp', 'Tgs', 'Tp', 'Tpf', 'Tpp', 'Tps', 'Vs', 'Vsp', 'Vss', 'rl', 'rlh', 'rm', 'rmb', 'rmh', 'rsb', 'rsh'],
   out_class_value: [70, 70, 70, 70, 1, 1, 1, 1, 46, 46, 48, 255, 255, 47, 255, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 2, 2, 2, 70, 70, 70, 1, 1, 1, 3, 3, 3, 3, 255, 1, 1, 1, 255, 255, 255, 255, 255, 2, 2, 2, 2, 2, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 49, 255, 255, 255, 255, 255, 255, 255, 4, 4, 255, 255, 255, 3, 3, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 170, 169, 255, 255, 163, 163, 48, 48, 48, 48, 48, 255, 255, 255, 255, 255, 23, 23, 23, 255, 255, 23, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 16, 16, 16, 255, 255],
@@ -179,7 +179,7 @@ var ibge_brazil_veg_2021 = {
 //iinh_iceland_eco_2024
 var iinh_iceland_eco_2024 = {
   data_id_code: 'iinh_iceland_eco_2024',
-  ee_asset_id: repository.assets.data_catalogue.iinh_iceland_eco_2024,
+  ee_asset_id: repository.data_catalogue.iinh_iceland_eco_2024,
   in_class_field_name: ['Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger', 'Vistger'],
   in_value: ['F Fjˆruvistir', 'FX1.1 Sj·varlÛn', 'L1.1 Eyimelavist', 'L1.2 Grasmelavist', 'L1.3 Mosamelavist', 'L1.4 VÌimelavist', 'L1.5 Sanda- og vikravist', 'L1.6 LandmelhÛlavist', 'L10.1 MosamÛavist', 'L10.10 VÌikjarrvist', 'L10.2 FlagmÛavist', 'L10.3 StarmÛavist', 'L10.4 GrasmÛavist', 'L10.5 FlÈttumÛavist', 'L10.6 FjalldrapamÛavist', 'L10.7 LyngmÛavist · h·lendi', 'L10.8 LyngmÛavist · l·glendi', 'L10.9 VÌimÛavist', 'L11 BirkiskÛgur', 'L12.1 M˝rahveravist', 'L12.2 MÛahveravist', 'L12.3 Fjallahveravist', 'L12.4 Hveraleirsvist', 'L13.1 Jˆklar og urarjˆklar', 'L14.1 ﬁÈttb˝li og anna manngert land', 'L14.2 T˙n og akurlendi', 'L14.3 SkÛgrÊkt', 'L14.4 Alaskal˙pÌna', 'L14.5 UppgrÊslur', 'L14.6 SkÛgarkerfill og fleiri ·˛ekkar tegundir', 'L2.1 Moldavist', 'L3.1 Urarskriuvist', 'L3.2 GrasvÌiskriuvist', 'L3.3 LjÛnslappaskriuvist', 'L4.1 Eyravist', 'L4.2 Auravist', 'L5.1 HÈlumosavist', 'L5.2 Melagambravist', 'L5.3 Hraungambravist', 'L6.1 Eyihraunavist', 'L6.2 FlÈttuhraunavist', 'L6.3 Mosahraunavist', 'L6.4 Lynghraunavist', 'L7.1 Sandstrandarvist', 'L7.2 Malarstrandarvist', 'L7.3 StrandmelhÛlavist', 'L7.4 GrashÛlavist', 'L7.5 Sj·varfitjungsvist', 'L7.6 Gulstararfitjavist', 'L7.7 Sj·varkletta- og eyjavist', 'L8.1 D˝javist', 'L8.10 HengistararflÛavist', 'L8.11 BrokflÛavist', 'L8.12 StarungsflÛavist', 'L8.13 TjarnastararflÛavist', 'L8.14 GulstararflÛavist', 'L8.2 Rekjuvist', 'L8.3 Sandm˝ravist', 'L8.4 Hrossan·larvist', 'L8.5 Runnam˝ravist · h·lendi', 'L8.6 Runnam˝ravist · l·glendi', 'L8.7 Rimam˝ravist', 'L8.8 R˙stam˝ravist', 'L8.9 Starungsm˝ravist', 'L9.1 Stinnastararvist', 'L9.2 Finnungsvist', 'L9.3 Bugupuntsvist', 'L9.4 SnarrÛtarvist', 'L9.5 Grasengjavist', 'L9.6 LÌngresis- og vingulsvist', 'L9.7 BlÛmgresisvist', 'V1 Vˆtn', 'V1 Vˆtn', 'V2 ¡r'],
   out_class_value: [255, 117, 40, 40, 40, 40, 19, 40, 40, 40, 40, 255, 40, 40, 40, 40, 40, 255, 18, 100, 255, 100, 100, 38, 49, 255, 48, 255, 255, 255, 40, 19, 19, 19, 255, 255, 40, 40, 40, 19, 19, 19, 40, 255, 163, 163, 163, 170, 170, 163, 76, 76, 75, 76, 76, 76, 75, 75, 76, 76, 76, 76, 75, 76, 40, 40, 40, 40, 40, 40, 40, 95, 255, 83],
@@ -190,7 +190,7 @@ var iinh_iceland_eco_2024 = {
 //inegi_mex_lcov_2021
 var inegi_mex_lcov_2021 = {
   data_id_code: 'inegi_mex_lcov_2021',
-  ee_asset_id: repository.assets.data_catalogue.inegi_mex_lcov_2021,
+  ee_asset_id: repository.data_catalogue.inegi_mex_lcov_2021,
   in_class_field_name: ['DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO', 'DESCRIPCIO'],
   in_value: ['ACU√çCOLA', 'AGRICULTURA DE HUMEDAD ANUAL', 'AGRICULTURA DE HUMEDAD ANUAL Y PERMANENTE', 'AGRICULTURA DE HUMEDAD ANUAL Y SEMIPERMANENTE', 'AGRICULTURA DE HUMEDAD PERMANENTE', 'AGRICULTURA DE HUMEDAD SEMIPERMANENTE', 'AGRICULTURA DE HUMEDAD SEMIPERMANENTE Y PERMANENTE', 'AGRICULTURA DE RIEGO ANUAL', 'AGRICULTURA DE RIEGO ANUAL Y PERMANENTE', 'AGRICULTURA DE RIEGO ANUAL Y SEMIPERMANENTE', 'AGRICULTURA DE RIEGO PERMANENTE', 'AGRICULTURA DE RIEGO SEMIPERMANENTE', 'AGRICULTURA DE RIEGO SEMIPERMANENTE Y PERMANENTE', 'AGRICULTURA DE TEMPORAL ANUAL', 'AGRICULTURA DE TEMPORAL ANUAL Y PERMANENTE', 'AGRICULTURA DE TEMPORAL ANUAL Y SEMIPERMANENTE', 'AGRICULTURA DE TEMPORAL PERMANENTE', 'AGRICULTURA DE TEMPORAL SEMIPERMANENTE', 'AGRICULTURA DE TEMPORAL SEMIPERMANENTE Y PERMANENTE', 'ASENTAMIENTOS HUMANOS', 'BOSQUE CULTIVADO', 'BOSQUE DE AYAR√çN', 'BOSQUE DE CEDRO', 'BOSQUE DE ENCINO', 'BOSQUE DE ENCINO-PINO', 'BOSQUE DE GALER√çA', 'BOSQUE DE MEZQUITE', 'BOSQUE DE OYAMEL', 'BOSQUE DE PINO', 'BOSQUE DE PINO-ENCINO', 'BOSQUE DE T√ÅSCATE', 'BOSQUE INDUCIDO', 'BOSQUE MES√ìFILO DE MONTA√ëA', 'CHAPARRAL', 'CUERPO DE AGUA', 'DESPROVISTO DE VEGETACI√ìN', 'MANGLAR', 'MATORRAL CRASICAULE', 'MATORRAL DES√âRTICO MICR√ìFILO', 'MATORRAL DES√âRTICO ROSET√ìFILO', 'MATORRAL ESPINOSO TAMAULIPECO', 'MATORRAL ROSET√ìFILO COSTERO', 'MATORRAL SARCO-CRASICAULE', 'MATORRAL SARCO-CRASICAULE DE NEBLINA', 'MATORRAL SARCOCAULE', 'MATORRAL SUBMONTANO', 'MATORRAL SUBTROPICAL', 'MEZQUITAL TROPICAL', 'MEZQUITAL XER√ìFILO', 'PALMAR INDUCIDO', 'PALMAR NATURAL', 'PASTIZAL CULTIVADO', 'PASTIZAL GIPS√ìFILO', 'PASTIZAL HAL√ìFILO', 'PASTIZAL INDUCIDO', 'PASTIZAL NATURAL', 'POPAL', 'PRADERA DE ALTA MONTA√ëA', 'SABANA', 'SABANOIDE', 'SELVA ALTA PERENNIFOLIA', 'SELVA ALTA SUBPERENNIFOLIA', 'SELVA BAJA CADUCIFOLIA', 'SELVA BAJA ESPINOSA CADUCIFOLIA', 'SELVA BAJA ESPINOSA SUBPERENNIFOLIA', 'SELVA BAJA PERENNIFOLIA', 'SELVA BAJA SUBCADUCIFOLIA', 'SELVA BAJA SUBPERENNIFOLIA', 'SELVA DE GALER√çA', 'SELVA MEDIANA CADUCIFOLIA', 'SELVA MEDIANA SUBCADUCIFOLIA', 'SELVA MEDIANA SUBPERENNIFOLIA', 'SIN VEGETACI√ìN APARENTE', 'TULAR', 'VEGETACION SECUNDARIA ARBUSTIVA DE BOSQUE DE OYAMEL', 'VEGETACI√ìN DE DESIERTOS ARENOSOS', 'VEGETACI√ìN DE DUNAS COSTERAS', 'VEGETACI√ìN DE GALER√çA', 'VEGETACI√ìN DE PET√âN', 'VEGETACI√ìN GIPS√ìFILA', 'VEGETACI√ìN HAL√ìFILA HIDR√ìFILA', 'VEGETACI√ìN HAL√ìFILA XER√ìFILA', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE BOSQUE DE AYAR√çN', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE BOSQUE DE CEDRO', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE BOSQUE DE ENCINO', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE BOSQUE DE ENCINO-PINO', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE BOSQUE DE GALER√çA', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE BOSQUE DE MEZQUITE', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE BOSQUE DE PINO', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE BOSQUE DE PINO-ENCINO', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE BOSQUE DE T√ÅSCATE', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE BOSQUE MES√ìFILO DE MONTA√ëA', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE CHAPARRAL', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE MANGLAR', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE MATORRAL CRASICAULE', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE MATORRAL DES√âRTICO MICR√ìFILO', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE MATORRAL DES√âRTICO ROSET√ìFILO', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE MATORRAL ESPINOSO TAMAULIPECO', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE MATORRAL ROSET√ìFILO COSTERO', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE MATORRAL SARCO-CRASICAULE', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE MATORRAL SARCO-CRASICAULE DE NEBLI', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE MATORRAL SARCOCAULE', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE MATORRAL SUBMONTANO', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE MATORRAL SUBTROPICAL', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE MEZQUITAL TROPICAL', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE MEZQUITAL XER√ìFILO', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE PALMAR NATURAL', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE PASTIZAL GIPS√ìFILO', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE PASTIZAL HAL√ìFILO', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE PASTIZAL NATURAL', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE SELVA ALTA PERENNIFOLIA', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE SELVA ALTA SUBPERENNIFOLIA', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE SELVA BAJA CADUCIFOLIA', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE SELVA BAJA ESPINOSA CADUCIFOLIA', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE SELVA BAJA ESPINOSA SUBPERENNIFOLI', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE SELVA BAJA PERENNIFOLIA', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE SELVA BAJA SUBCADUCIFOLIA', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE SELVA BAJA SUBPERENNIFOLIA', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE SELVA DE GALER√çA', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE SELVA MEDIANA CADUCIFOLIA', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE SELVA MEDIANA PERENNIFOLIA', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE SELVA MEDIANA SUBCADUCIFOLIA', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE SELVA MEDIANA SUBPERENNIFOLIA', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE VEGETACI√ìN DE DESIERTOS ARENOSOS', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE VEGETACI√ìN DE DUNAS COSTERAS', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE VEGETACI√ìN DE GALER√çA', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE VEGETACI√ìN HAL√ìFILA HIDR√ìFILA', 'VEGETACI√ìN SECUNDARIA ARBUSTIVA DE VEGETACI√ìN HAL√ìFILA XER√ìFILA', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE BOSQUE DE AYAR√çN', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE BOSQUE DE CEDRO', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE BOSQUE DE ENCINO', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE BOSQUE DE ENCINO-PINO', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE BOSQUE DE GALER√çA', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE BOSQUE DE MEZQUITE', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE BOSQUE DE OYAMEL', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE BOSQUE DE PINO', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE BOSQUE DE PINO-ENCINO', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE BOSQUE DE T√ÅSCATE', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE BOSQUE MES√ìFILO DE MONTA√ëA', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE MANGLAR', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE MEZQUITAL TROPICAL', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE PALMAR NATURAL', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE SELVA ALTA PERENNIFOLIA', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE SELVA ALTA SUBPERENNIFOLIA', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE SELVA BAJA CADUCIFOLIA', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE SELVA BAJA ESPINOSA CADUCIFOLIA', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE SELVA BAJA ESPINOSA SUBPERENNIFOLIA', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE SELVA BAJA PERENNIFOLIA', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE SELVA BAJA SUBCADUCIFOLIA', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE SELVA BAJA SUBPERENNIFOLIA', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE SELVA DE GALER√çA', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE SELVA MEDIANA CADUCIFOLIA', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE SELVA MEDIANA SUBCADUCIFOLIA', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE SELVA MEDIANA SUBPERENNIFOLIA', 'VEGETACI√ìN SECUNDARIA ARB√ìREA DE VEGETACI√ìN DE PET√âN', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE BOSQUE DE ENCINO', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE BOSQUE DE ENCINO-PINO', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE BOSQUE DE OYAMEL', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE BOSQUE DE PINO', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE BOSQUE DE PINO-ENCINO', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE BOSQUE DE T√ÅSCATE', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE BOSQUE MES√ìFILO DE MONTA√ëA', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE MANGLAR', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE MATORRAL CRASICAULE', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE MATORRAL DE CONIFERAS', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE MATORRAL DES√âRTICO MICR√ìFILO', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE MATORRAL DES√âRTICO ROSET√ìFILO', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE MATORRAL ESPINOSO TAMAULIPECO', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE MATORRAL ROSET√ìFILO COSTERO', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE MATORRAL SARCO-CRASICAULE', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE MATORRAL SARCO-CRASICAULE DE NEBLI', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE PALMAR NATURAL', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE PASTIZAL NATURAL', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE SELVA ALTA PERENNIFOLIA', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE SELVA ALTA SUBPERENNIFOLIA', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE SELVA BAJA CADUCIFOLIA', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE SELVA BAJA ESPINOSA CADUCIFOLIA', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE SELVA BAJA ESPINOSA SUBPERENNIFOLI', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE SELVA MEDIANA CADUCIFOLIA', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE SELVA MEDIANA SUBCADUCIFOLIA', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE SELVA MEDIANA SUBPERENNIFOLIA', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE VEGETACI√ìN DE DUNAS COSTERAS', 'VEGETACI√ìN SECUNDARIA HERB√ÅCEA DE VEGETACI√ìN HAL√ìFILA XER√ìFILA'],
   out_class_value: [110, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 49, 48, 7, 7, 8, 8, 71, 2, 7, 7, 7, 7, 255, 10, 16, 255, 255, 169, 16, 31, 31, 16, 16, 16, 16, 16, 16, 2, 2, 16, 2, 2, 46, 26, 26, 255, 26, 72, 42, 23, 23, 1, 1, 2, 2, 1, 1, 2, 1, 71, 2, 2, 1, 255, 72, 255, 33, 163, 71, 169, 255, 170, 255, 50, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 50, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255],
@@ -201,7 +201,7 @@ var inegi_mex_lcov_2021 = {
 //iucn_get_m21_2021
 var iucn_get_m21_2021 = {
   data_id_code: 'iucn_get_m21_2021',
-  ee_asset_id: repository.assets.data_catalogue.iucn_get_m21_2021,
+  ee_asset_id: repository.data_catalogue.iucn_get_m21_2021,
   in_class_field_name: ['occurrence'],
   in_value: ['1'],
   out_class_value: [135],
@@ -212,7 +212,7 @@ var iucn_get_m21_2021 = {
 //iucn_get_m22_2021
 var iucn_get_m22_2021 = {
   data_id_code: 'iucn_get_m22_2021',
-  ee_asset_id: repository.assets.data_catalogue.iucn_get_m22_2021,
+  ee_asset_id: repository.data_catalogue.iucn_get_m22_2021,
   in_class_field_name: ['occurrence'],
   in_value: ['1'],
   out_class_value: [136],
@@ -223,7 +223,7 @@ var iucn_get_m22_2021 = {
 //iucn_get_m23_2021
 var iucn_get_m23_2021 = {
   data_id_code: 'iucn_get_m23_2021',
-  ee_asset_id: repository.assets.data_catalogue.iucn_get_m23_2021,
+  ee_asset_id: repository.data_catalogue.iucn_get_m23_2021,
   in_class_field_name: ['occurrence'],
   in_value: ['1'],
   out_class_value: [137],
@@ -234,7 +234,7 @@ var iucn_get_m23_2021 = {
 //iucn_get_m24_2021
 var iucn_get_m24_2021 = {
   data_id_code: 'iucn_get_m24_2021',
-  ee_asset_id: repository.assets.data_catalogue.iucn_get_m24_2021,
+  ee_asset_id: repository.data_catalogue.iucn_get_m24_2021,
   in_class_field_name: ['occurrence'],
   in_value: ['1'],
   out_class_value: [138],
@@ -245,7 +245,7 @@ var iucn_get_m24_2021 = {
 //iucn_get_m31_2021
 var iucn_get_m31_2021 = {
   data_id_code: 'iucn_get_m31_2021',
-  ee_asset_id: repository.assets.data_catalogue.iucn_get_m31_2021,
+  ee_asset_id: repository.data_catalogue.iucn_get_m31_2021,
   in_class_field_name: ['occurrence'],
   in_value: ['1'],
   out_class_value: [143],
@@ -256,7 +256,7 @@ var iucn_get_m31_2021 = {
 //iucn_get_m32_2021
 var iucn_get_m32_2021 = {
   data_id_code: 'iucn_get_m32_2021',
-  ee_asset_id: repository.assets.data_catalogue.iucn_get_m32_2021,
+  ee_asset_id: repository.data_catalogue.iucn_get_m32_2021,
   in_class_field_name: ['occurrence'],
   in_value: ['1'],
   out_class_value: [144],
@@ -267,7 +267,7 @@ var iucn_get_m32_2021 = {
 //iucn_get_m33_2021
 var iucn_get_m33_2021 = {
   data_id_code: 'iucn_get_m33_2021',
-  ee_asset_id: repository.assets.data_catalogue.iucn_get_m33_2021,
+  ee_asset_id: repository.data_catalogue.iucn_get_m33_2021,
   in_class_field_name: ['occurrence'],
   in_value: ['1'],
   out_class_value: [145],
@@ -278,7 +278,7 @@ var iucn_get_m33_2021 = {
 //iucn_get_m34_2021
 var iucn_get_m34_2021 = {
   data_id_code: 'iucn_get_m34_2021',
-  ee_asset_id: repository.assets.data_catalogue.iucn_get_m34_2021,
+  ee_asset_id: repository.data_catalogue.iucn_get_m34_2021,
   in_class_field_name: ['occurrence'],
   in_value: ['1'],
   out_class_value: [146],
@@ -289,7 +289,7 @@ var iucn_get_m34_2021 = {
 //iucn_get_m35_2021
 var iucn_get_m35_2021 = {
   data_id_code: 'iucn_get_m35_2021',
-  ee_asset_id: repository.assets.data_catalogue.iucn_get_m35_2021,
+  ee_asset_id: repository.data_catalogue.iucn_get_m35_2021,
   in_class_field_name: ['occurrence'],
   in_value: ['2'],
   out_class_value: [147],
@@ -300,7 +300,7 @@ var iucn_get_m35_2021 = {
 //iucn_get_m36_2021
 var iucn_get_m36_2021 = {
   data_id_code: 'iucn_get_m36_2021',
-  ee_asset_id: repository.assets.data_catalogue.iucn_get_m36_2021,
+  ee_asset_id: repository.data_catalogue.iucn_get_m36_2021,
   in_class_field_name: ['occurrence'],
   in_value: ['1'],
   out_class_value: [148],
@@ -311,7 +311,7 @@ var iucn_get_m36_2021 = {
 //jcu_aus_saltmarsh_2023
 var jcu_aus_saltmarsh_2023 = {
   data_id_code: 'jcu_aus_saltmarsh_2023',
-  ee_asset_id: repository.assets.data_catalogue.jcu_aus_saltmarsh_2023,
+  ee_asset_id: repository.data_catalogue.jcu_aus_saltmarsh_2023,
   in_class_field_name: ['Raster code', 'Raster code', 'Raster code', 'Raster code'],
   in_value: ['0', '1', '0', '1'],
   out_class_value: [0, 170, 0, 170],
@@ -322,7 +322,7 @@ var jcu_aus_saltmarsh_2023 = {
 //lde_lesotho_eco_2025
 var lde_lesotho_eco_2025 = {
   data_id_code: 'lde_lesotho_eco_2025',
-  ee_asset_id: repository.assets.data_catalogue.lde_lesotho_eco_2025,
+  ee_asset_id: repository.data_catalogue.lde_lesotho_eco_2025,
   in_class_field_name: ['NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA'],
   in_value: ['0', '1', '2', '3', '4', '5', '6'],
   out_class_value: [0, 49, 46, 26, 94, 107, 108],
@@ -333,7 +333,7 @@ var lde_lesotho_eco_2025 = {
 //must_malawi_eco_2024
 var must_malawi_eco_2024 = {
   data_id_code: 'must_malawi_eco_2024',
-  ee_asset_id: repository.assets.data_catalogue.must_malawi_eco_2024,
+  ee_asset_id: repository.data_catalogue.must_malawi_eco_2024,
   in_class_field_name: ['Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem', 'Ecosystem'],
   in_value: ['Afromontain rain forest with other forests and wetlands', 'Afromontane rain forest', 'Brachystegia-Juberrnadia woodlands', 'Bua Catchment Rivers', 'Bua and Dwanga Inshore Lake', 'Bua-Lusa Wetlands', 'Central Offshore Lake', 'Deciduous Forest and thicket', 'Drier miombo woodland', 'Dwangwa Catchment Rivers', 'Dwangwa Catchment Wetlands', 'Eastern Inlet Inshore Lake', 'Edaphic grassland on drainage', 'Edaphic wooded grassland', 'Elephant Marsh Wetlands', 'Karonga Lakeshore Rivers', 'Karonga Lakeshore Wetlands', 'Kasankha Bay Inshore Lake', 'Lake Chilwa', 'Lake Chilwa Catchment Rivers', 'Lake Chilwa Wetlands', 'Lake Chiuta Catchment Rivers', 'Lake Chiuta Wetlands', 'Lake Malombe', 'Lakeshore Zambezian woodlands', 'Linthipe Catchment Rivers', 'Linthipe Wetlands', 'Lower Shire Swamp', 'Majete Wetlands', 'Miombo woodland on hills and rocky outcrops', 'Montane Ericaceous belt', 'Mopane woodland and scrub woodland', 'Mosaic of montane grassland and afromontane forest', 'Mulanje Mountain Ericaceous belt', 'Mulanje Mountain Miombo woodlands', 'Ndindi Marsh Wetlands', 'Nkhatabay Lakeshore Catchment Rivers', 'Nkhatabay Lakeshore Wetlands', 'Nkhatabay and Central Inshore Lake', 'Nkhotakota Inshore Lake', 'Nkhotakota Lakeshore Catchment Rivers', 'Nkhotakota-Salima Lakeshore Wetlands', 'North Rukuru Catchment Rivers', 'North Rukuru Wetlands', 'North Zambezian undifferentiated woodland', 'Northern Inshore Lake', 'Northern Offshore Lake', 'Open Miombo hills', 'Ruo Catchment Rivers', 'Shire Catchment Rivers', 'Shoreline Sandy Areas', 'Songwe Catchment Rivers', 'Songwe Catchment Wetlands', 'South East Lakeshore Catchment Rivers', 'South East Lakeshore Wetlands', 'South Rukuru Catchment Rivers', 'South Rukuru Wetlands', 'South West Lakeshore Catchment Rivers', 'Southern Offshore Lake', 'Tall Miombo', 'Terminalia sericea woodland', 'Transition Woodland', 'Vwaza Marsh Wetlands', 'Wetter miombo woodland', 'Zambezian miombo', 'Zanzibar-Inhambane transitional lowland rain forest', 'Zanzibar-Inhambane transitional rain forest'],
   out_class_value: [3, 3, 23, 82, 92, 73, 92, 23, 23, 82, 72, 92, 23, 23, 72, 82, 73, 92, 93, 82, 72, 82, 73, 93, 23, 82, 73, 72, 73, 23, 16, 23, 3, 16, 23, 72, 82, 73, 92, 92, 82, 73, 82, 73, 23, 92, 92, 23, 82, 82, 73, 82, 72, 82, 72, 82, 73, 82, 92, 22, 23, 22, 72, 23, 23, 1, 3],
@@ -344,7 +344,7 @@ var must_malawi_eco_2024 = {
 //nnsf_china_aqc_2020
 var nnsf_china_aqc_2020 = {
   data_id_code: 'nnsf_china_aqc_2020',
-  ee_asset_id: repository.assets.data_catalogue.nnsf_china_aqc_2020,
+  ee_asset_id: repository.data_catalogue.nnsf_china_aqc_2020,
   in_class_field_name: ['Name', 'Name'],
   in_value: ['MAC', 'MPC'],
   out_class_value: [155, 155],
@@ -355,7 +355,7 @@ var nnsf_china_aqc_2020 = {
 //noru_maldiv_seagrass_2024
 var noru_maldiv_seagrass_2024 = {
   data_id_code: 'noru_maldiv_seagrass_2024',
-  ee_asset_id: repository.assets.data_catalogue.noru_maldiv_seagrass_2024,
+  ee_asset_id: repository.data_catalogue.noru_maldiv_seagrass_2024,
   in_class_field_name: ['Raster code', 'Raster code', 'Raster code', 'Raster code'],
   in_value: ['0', '1', '0', '1'],
   out_class_value: [0, 120, 0, 120],
@@ -366,7 +366,7 @@ var noru_maldiv_seagrass_2024 = {
 //nsidc_nhemis_seaice_2024
 var nsidc_nhemis_seaice_2024 = {
   data_id_code: 'nsidc_nhemis_seaice_2024',
-  ee_asset_id: repository.assets.data_catalogue.nsidc_nhemis_seaice_2024,
+  ee_asset_id: repository.data_catalogue.nsidc_nhemis_seaice_2024,
   in_class_field_name: ['Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code'],
   in_value: ['0', '1', '253', '254', '255'],
   out_class_value: [255, 139, 255, 255, 0],
@@ -377,7 +377,7 @@ var nsidc_nhemis_seaice_2024 = {
 //nsidc_shemis_seaice_2023
 var nsidc_shemis_seaice_2023 = {
   data_id_code: 'nsidc_shemis_seaice_2023',
-  ee_asset_id: repository.assets.data_catalogue.nsidc_shemis_seaice_2023,
+  ee_asset_id: repository.data_catalogue.nsidc_shemis_seaice_2023,
   in_class_field_name: ['Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code'],
   in_value: ['0', '1', '253', '254', '255'],
   out_class_value: [255, 139, 255, 255, 0],
@@ -388,7 +388,7 @@ var nsidc_shemis_seaice_2023 = {
 //nswgov_nsw_veg_2012
 var nswgov_nsw_veg_2012 = {
   data_id_code: 'nswgov_nsw_veg_2012',
-  ee_asset_id: repository.assets.data_catalogue.nswgov_nsw_veg_2012,
+  ee_asset_id: repository.data_catalogue.nswgov_nsw_veg_2012,
   in_class_field_name: ['ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName', 'ClassName'],
   in_value: ['Aeolian Chenopod Shrublands', 'Alpine Bogs and Fens', 'Alpine Fjaeldmarks', 'Alpine Heaths', 'Alpine Herbfields', 'Brigalow Clay Plain Woodlands', 'Central Gorge Dry Sclerophyll Forests', 'Clarence Dry Sclerophyll Forests', 'Cleared', 'Coastal Dune Dry Sclerophyll Forests', 'Coastal Floodplain Forests', 'Coastal Freshwater Lagoons and Floodplain Meadows', 'Coastal Headland and Foredune Scrubs', 'Coastal Heath Swamps', 'Coastal Swamp Forests', 'Coastal Valley Grassy Woodlands', 'Cool Temperate Rainforests', 'Cumberland Dry Sclerophyll Forests', 'Desert Woodlands', 'Dry Rainforests', 'Dune Mallee Woodlands', 'Eastern Riverine Forests', 'Floodplain Transition Woodlands', 'Floodplain-Estuarine Transition Forests', 'Gibber Chenopod Shrublands', 'Gibber Transition Shrublands', 'Hunter-Macleay Dry Sclerophyll Forests', 'Inland Floodplain Shrublands', 'Inland Floodplain Swamps', 'Inland Floodplain Woodlands', 'Inland Riverine Forests', 'Inland Rocky Hill Woodlands', 'Inland Saline Lakes', 'Littoral Rainforests', 'Mangrove Swamps', 'Maritime Grasslands', 'Montane Bogs and Fens', 'Montane Lakes', 'Montane Wet Sclerophyll Forests', 'New England Dry Sclerophyll Forests', 'New England Grassy Woodlands', 'North Coast Dry Sclerophyll Forests', 'North Coast Wet Sclerophyll Forests', 'North-west Alluvial Sand Woodlands', 'North-west Floodplain Woodlands', 'North-west Plain Shrublands', 'North-west Slopes Dry Sclerophyll Woodlands', 'Northern Escarpment Dry Sclerophyll Forests', 'Northern Escarpment Wet Sclerophyll Forests', 'Northern Gorge Dry Sclerophyll Forests', 'Northern Hinterland Wet Sclerophyll Forests', 'Northern Montane Heaths', 'Northern Tableland Dry Sclerophyll Forests', 'Northern Tableland Wet Sclerophyll Forests', 'Northern Warm Temperate Rainforests', 'Oceanic Cloud Forests', 'Oceanic Rainforests', 'Pilliga Outwash Dry Sclerophyll Forests', 'Riverine Chenopod Shrublands', 'Riverine Plain Grasslands', 'Riverine Plain Woodlands', 'Riverine Sandhill Woodlands', 'Saltmarshes', 'Sand Plain Mallee Woodlands', 'Sand Plain Mulga Shrublands', 'Seagrass Meadows', 'Semi-arid Floodplain Grasslands', 'Semi-arid Sand Plain Woodlands', 'South Coast Heaths', 'South Coast Sands Dry Sclerophyll Forests', 'South Coast Wet Sclerophyll Forests', 'South East Dry Sclerophyll Forests', 'Southern Escarpment Wet Sclerophyll Forests', 'Southern Hinterland Dry Sclerophyll Forests', 'Southern Lowland Wet Sclerophyll Forests', 'Southern Montane Heaths', 'Southern Riverina Grasslands', 'Southern Tableland Dry Sclerophyll Forests', 'Southern Tableland Grassy Woodlands', 'Southern Tableland Wet Sclerophyll Forests', 'Southern Warm Temperate Rainforests', 'Southern Wattle Dry Sclerophyll Forests', 'Stony Desert Mulga Shrublands', 'Subalpine Woodlands', 'Subtropical Rainforests', 'Subtropical Semi-arid Woodlands', 'Sydney Coastal Dry Sclerophyll Forests', 'Sydney Coastal Heaths', 'Sydney Hinterland Dry Sclerophyll Forests', 'Sydney Montane Dry Sclerophyll Forests', 'Sydney Montane Heaths', 'Sydney Sand Flats Dry Sclerophyll Forests', 'Tableland Clay Grassy Woodlands', 'Temperate Montane Grasslands', 'Temperate Swamp Forests', 'Upper Riverina Dry Sclerophyll Forests', 'Wadi Woodlands', 'Wallum Sand Heaths', 'Western Peneplain Woodlands', 'Western Slopes Dry Sclerophyll Forests', 'Western Slopes Grasslands', 'Western Slopes Grassy Woodlands', 'Western Vine Thickets', 'Yetman Dry Sclerophyll Forests'],
   out_class_value: [30, 75, 41, 41, 41, 2, 12, 12, 255, 12, 71, 93, 17, 75, 71, 25, 9, 12, 32, 2, 12, 71, 25, 71, 30, 32, 12, 74, 73, 74, 71, 12, 98, 2, 169, 163, 75, 93, 11, 12, 25, 12, 11, 12, 74, 32, 12, 12, 11, 12, 11, 17, 12, 11, 10, 3, 1, 12, 30, 26, 30, 32, 170, 12, 32, 120, 26, 30, 17, 12, 11, 12, 11, 12, 11, 17, 26, 12, 25, 11, 10, 12, 32, 25, 1, 24, 12, 17, 12, 12, 17, 12, 25, 26, 71, 12, 74, 17, 12, 12, 26, 25, 2, 12],
@@ -399,7 +399,7 @@ var nswgov_nsw_veg_2012 = {
 //sanbi_sthafrica_eco_2022
 var sanbi_sthafrica_eco_2022 = {
   data_id_code: 'sanbi_sthafrica_eco_2022',
-  ee_asset_id: repository.assets.data_catalogue.sanbi_sthafrica_eco_2022,
+  ee_asset_id: repository.data_catalogue.sanbi_sthafrica_eco_2022,
   in_class_field_name: ['efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code', 'efg_code'],
   in_value: ['F2.2', 'F3.2', 'FM1.2', 'FM1.3', 'M1.2', 'M1.3', 'M1.5', 'M1.6', 'M1.7', 'M1.8', 'M3.1', 'M3.2', 'M3.3', 'M3.4', 'M3.5', 'MFT1.2', 'MT1.1', 'MT1.3', 'MT1.4', 'MT2.1', 'T1.2', 'T2.4', 'T3.1', 'T3.2', 'T4.1', 'T4.2', 'T4.5', 'T5.1', 'T5.2', 'T5.5', 'T7.1', 'T7.3', 'T7.4', 'T7.5', 'TF1.1'],
   out_class_value: [93, 108, 116, 117, 121, 122, 124, 125, 126, 127, 143, 144, 145, 146, 147, 169, 157, 159, 160, 163, 2, 10, 16, 17, 22, 23, 26, 30, 31, 34, 46, 48, 49, 50, 70],
@@ -410,7 +410,7 @@ var sanbi_sthafrica_eco_2022 = {
 //sbi_italy_eco_2021
 var sbi_italy_eco_2021 = {
   data_id_code: 'sbi_italy_eco_2021',
-  ee_asset_id: repository.assets.data_catalogue.sbi_italy_eco_2021,
+  ee_asset_id: repository.data_catalogue.sbi_italy_eco_2021,
   in_class_field_name: ['Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi', 'Ecosistemi'],
   in_value: ['A1', 'A2', 'A3', 'B1', 'B10', 'B2', 'B3', 'B4', 'B5', 'B6', 'B7', 'B8', 'B9', 'C1', 'C10', 'C11', 'C12', 'C13', 'C14', 'C15', 'C16', 'C17', 'C18', 'C19', 'C2', 'C20', 'C21', 'C22', 'C23', 'C24', 'C25', 'C26', 'C27', 'C28', 'C29', 'C3', 'C30', 'C31', 'C32', 'C33', 'C34', 'C35', 'C36', 'C37', 'C38', 'C39', 'C4', 'C40', 'C41', 'C42', 'C43', 'C5', 'C6', 'C7a', 'C7b', 'C8', 'C9', 'D1', 'D2', 'D3', 'D4', 'D5', 'D6', 'D7', 'D8', 'E1', 'E2', 'E3', 'E4', 'E5', 'E6', 'E7', 'E8', 'F1', 'F2', 'F3', 'F4', 'F5', 'F6', 'F7', 'G1', 'G10', 'G11', 'G12', 'G13', 'G14', 'G15', 'G16', 'G17', 'G18', 'G2', 'G3', 'G4', 'G5', 'G6', 'G7', 'G8', 'G9'],
   out_class_value: [49, 49, 49, 46, 48, 109, 48, 48, 48, 48, 47, 48, 48, 12, 8, 25, 25, 25, 25, 8, 8, 8, 8, 8, 12, 8, 8, 8, 8, 8, 8, 71, 71, 71, 71, 12, 255, 255, 255, 255, 12, 12, 12, 7, 7, 7, 12, 7, 7, 7, 255, 8, 8, 8, 8, 8, 8, 255, 50, 50, 255, 50, 50, 50, 50, 41, 50, 50, 255, 255, 50, 17, 17, 163, 163, 163, 39, 255, 19, 38, 255, 255, 255, 255, 255, 255, 255, 117, 117, 117, 255, 255, 255, 170, 170, 170, 255, 255],
@@ -421,7 +421,7 @@ var sbi_italy_eco_2021 = {
 //syke_finland_eco_2018b
 var syke_finland_eco_2018b = {
   data_id_code: 'syke_finland_eco_2018b',
-  ee_asset_id: repository.assets.data_catalogue.syke_finland_eco_2018b,
+  ee_asset_id: repository.data_catalogue.syke_finland_eco_2018b,
   in_class_field_name: ['LuTUtyyppi', 'LuTUtyyppi', 'LuTUtyyppi', 'LuTUtyyppi', 'LuTUtyyppi', 'LuTUtyyppi', 'LuTUtyyppi', 'LuTUtyyppi', 'LuTUtyyppi', 'LuTUtyyppi', 'LuTUtyyppi', 'LuTUtyyppi', 'LuTUtyyppi', 'LuTUtyyppi', 'LuTUtyyppi', 'LuTUkoodi', 'LuTUkoodi', 'LuTUkoodi', 'LuTUkoodi', 'LuTUkoodi', 'LuTUkoodi', 'LuTUkoodi', 'LuTUkoodi'],
   in_value: ['Keskikokoiset humusj√§rvet', 'LuTU-tyypittelyss√§ kuuluu lampiin, alle 10 ha', 'LuTU-tyyppi ei tiedossa', 'Matalat humusj√§rvet', 'Matalat runsashumuksiset j√§rvet', 'Matalat v√§h√§humuksiset j√§rvet', 'Pienet humusj√§rvet', 'Pienet ja keskikokoiset v√§h√§humuksiset c', 'Pohjois-Lapin j√§rvet', 'Runsashumuksiset j√§rvet', 'Runsaskalkkiset j√§rvet', 'Runsasravinteiset j√§rvet', 'Suuret humusj√§rvet', 'Suuret v√§h√§humuksiset j√§rvet', 'Voimakkaasti pohjavesivaikutteiset j√§rvet', 'T01.01.01', 'T01.01.02', 'T01.01.03', 'T01.02.02', 'T01.02.03', 'T01.03.01', 'T01.03.02', 'T01.03.03'],
   out_class_value: [95, 255, 255, 95, 95, 95, 95, 95, 95, 95, 95, 95, 95, 95, 95, 7, 7, 7, 7, 7, 7, 7, 7],
@@ -432,7 +432,7 @@ var syke_finland_eco_2018b = {
 //syke_finland_forest_2021
 var syke_finland_forest_2021 = {
   data_id_code: 'syke_finland_forest_2021',
-  ee_asset_id: repository.assets.data_catalogue.syke_finland_forest_2021,
+  ee_asset_id: repository.data_catalogue.syke_finland_forest_2021,
   in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
   in_value: ['1', '2', '3', '4', '5', '6'],
   out_class_value: [255, 7, 255, 7, 7, 7],
@@ -443,7 +443,7 @@ var syke_finland_forest_2021 = {
 //sysu_arctic_lcov_2022
 var sysu_arctic_lcov_2022 = {
   data_id_code: 'sysu_arctic_lcov_2022',
-  ee_asset_id: repository.assets.data_catalogue.sysu_arctic_lcov_2022,
+  ee_asset_id: repository.data_catalogue.sysu_arctic_lcov_2022,
   in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'NA'],
   in_value: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', '1', '10', '2', '3', '4', '5', '6', '7', '8', '9', '1', '10', '2', '3', '4', '5', '6', '7', '8', '9', '1', '10', '2', '3', '4', '5', '6', '7', '8', '9', '1', '10', '2', '3', '4', '5', '6', '7', '8', '9', '1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'NA'],
   out_class_value: [255, 38, 255, 40, 40, 255, 255, 39, 49, 39, 255, 38, 255, 40, 255, 255, 255, 255, 49, 39, 255, 38, 255, 40, 40, 255, 255, 39, 49, 39, 255, 38, 255, 40, 40, 255, 255, 255, 49, 39, 255, 38, 255, 40, 40, 255, 255, 39, 49, 39, 255, 38, 255, 40, 40, 255, 255, 39, 49, 255, 255],
@@ -454,7 +454,7 @@ var sysu_arctic_lcov_2022 = {
 //ubonn_chile_veg_2022
 var ubonn_chile_veg_2022 = {
   data_id_code: 'ubonn_chile_veg_2022',
-  ee_asset_id: repository.assets.data_catalogue.ubonn_chile_veg_2022,
+  ee_asset_id: repository.data_catalogue.ubonn_chile_veg_2022,
   in_class_field_name: ['CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE', 'CODE'],
   in_value: ['P1', 'P10', 'P100', 'P101', 'P102', 'P103', 'P104', 'P105', 'P106', 'P107', 'P108', 'P109', 'P11', 'P110', 'P111', 'P112', 'P113', 'P114', 'P115', 'P116', 'P117', 'P118', 'P119', 'P12', 'P120', 'P121', 'P122', 'P123', 'P124', 'P125', 'P13', 'P14', 'P15', 'P16', 'P17', 'P18', 'P19', 'P2', 'P20', 'P21', 'P22', 'P23', 'P24', 'P25', 'P26', 'P27', 'P28', 'P29', 'P3', 'P30', 'P31', 'P32', 'P33', 'P34', 'P35', 'P36', 'P37', 'P38', 'P39', 'P4', 'P40', 'P41', 'P42', 'P43', 'P44', 'P45', 'P46', 'P47', 'P48', 'P49', 'P5', 'P50', 'P51', 'P52', 'P53', 'P54', 'P55', 'P56', 'P57', 'P58', 'P59', 'P6', 'P60', 'P61', 'P62', 'P63', 'P64', 'P65', 'P66', 'P67', 'P68', 'P69', 'P7', 'P70', 'P71', 'P72', 'P73', 'P74', 'P75', 'P76', 'P77', 'P78', 'P79', 'P8', 'P80', 'P81', 'P82', 'P83', 'P84', 'P85', 'P86', 'P87', 'P88', 'P89', 'P9', 'P90', 'P91', 'P92', 'P93', 'P94', 'P95', 'P96', 'P97', 'P98', 'P99'],
   out_class_value: [34, 31, 42, 42, 42, 42, 42, 42, 42, 42, 41, 41, 31, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 31, 41, 41, 26, 26, 26, 26, 31, 31, 31, 31, 31, 31, 31, 34, 31, 31, 31, 30, 31, 31, 31, 2, 2, 2, 34, 2, 2, 2, 2, 2, 2, 17, 17, 17, 17, 34, 17, 17, 17, 17, 17, 17, 9, 9, 9, 9, 30, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 31, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 31, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 31, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 31, 9, 9, 9, 75, 75, 75, 75, 42, 42, 42],
@@ -465,7 +465,7 @@ var ubonn_chile_veg_2022 = {
 //uf_arctic_veg_2022
 var uf_arctic_veg_2022 = {
   data_id_code: 'uf_arctic_veg_2022',
-  ee_asset_id: repository.assets.data_catalogue.uf_arctic_veg_2022,
+  ee_asset_id: repository.data_catalogue.uf_arctic_veg_2022,
   in_class_field_name: ['Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code'],
   in_value: ['1', '2', '21', '22', '23', '24', '3', '31', '32', '33', '34', '4', '41', '42', '43', '5', '91', '92', '93', '99'],
   out_class_value: [40, 40, 40, 40, 40, 40, 39, 40, 40, 40, 40, 39, 76, 75, 75, 39, 95, 255, 38, 0],
@@ -476,7 +476,7 @@ var uf_arctic_veg_2022 = {
 //unsw_antarc_eco_2024
 var unsw_antarc_eco_2024 = {
   data_id_code: 'unsw_antarc_eco_2024',
-  ee_asset_id: repository.assets.data_catalogue.unsw_antarc_eco_2024,
+  ee_asset_id: repository.data_catalogue.unsw_antarc_eco_2024,
   in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
   in_value: ['1', '10', '100', '101', '102', '103', '104', '105', '106', '107', '108', '109', '11', '110', '111', '112', '113', '114', '115', '116', '117', '118', '119', '12', '120', '121', '122', '123', '124', '125', '126', '127', '128', '129', '13', '130', '131', '132', '133', '134', '135', '136', '137', '138', '139', '14', '140', '141', '142', '143', '144', '145', '146', '147', '148', '149', '15', '150', '151', '152', '153', '154', '155', '156', '157', '158', '159', '16', '160', '161', '162', '163', '164', '165', '166', '167', '168', '169', '170', '171', '172', '173', '174', '175', '176', '177', '178', '179', '18', '180', '181', '182', '183', '184', '185', '186', '187', '188', '189', '19', '190', '191', '192', '193', '194', '195', '196', '197', '198', '199', '2', '20', '200', '201', '202', '203', '204', '205', '206', '207', '208', '209', '21', '210', '211', '212', '213', '214', '215', '216', '217', '218', '219', '22', '220', '221', '222', '223', '224', '225', '226', '227', '228', '229', '23', '230', '231', '232', '233', '234', '235', '236', '237', '238', '239', '24', '240', '241', '242', '243', '244', '245', '246', '247', '248', '249', '25', '250', '251', '252', '253', '254', '255', '256', '257', '258', '259', '26', '260', '261', '262', '263', '264', '265', '266', '267', '268', '269', '27', '270', '28', '29', '3', '30', '31', '32', '33', '34', '35', '36', '37', '38', '39', '4', '40', '41', '42', '43', '44', '45', '46', '47', '48', '49', '5', '50', '51', '52', '53', '54', '55', '56', '57', '58', '59', '6', '60', '61', '62', '63', '64', '65', '66', '67', '68', '69', '7', '70', '71', '72', '73', '74', '75', '76', '77', '78', '79', '8', '80', '81', '82', '83', '84', '85', '86', '87', '88', '89', '9', '90', '91', '92', '93', '94', '95', '96', '97', '98', '99'],
   out_class_value: [39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 33, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 40, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 164, 95, 164, 95, 164, 39, 95, 164, 39, 95, 39, 164, 95, 164, 39, 95, 164, 95, 164, 39, 95, 39, 164, 39, 95, 164, 95, 164, 164, 39, 39, 95, 39, 95, 33, 39, 39, 39, 33, 39, 39, 39, 39, 39, 33, 39, 39, 40, 39, 33, 39, 39, 39, 39, 39, 39, 40, 39, 39, 33, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 33, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39],
@@ -487,7 +487,7 @@ var unsw_antarc_eco_2024 = {
 //unsw_myan_eco_2020
 var unsw_myan_eco_2020 = {
   data_id_code: 'unsw_myan_eco_2020',
-  ee_asset_id: repository.assets.data_catalogue.unsw_myan_eco_2020,
+  ee_asset_id: repository.data_catalogue.unsw_myan_eco_2020,
   in_class_field_name: ['Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code'],
   in_value: ['1', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '2', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '3', '30', '31', '32', '33', '34', '35', '36', '37', '38', '39', '4', '40', '41', '42', '43', '44', '45', '47', '48', '49', '5', '50', '51', '52', '53', '54', '55', '56', '57', '58', '59', '6', '61', '62', '63', '64', '65', '66', '7', '8', '9', '98'],
   out_class_value: [54, 169, 169, 170, 158, 39, 38, 23, 23, 23, 23, 7, 23, 23, 23, 23, 23, 23, 159, 73, 73, 70, 26, 70, 41, 41, 10, 70, 23, 2, 2, 2, 2, 163, 2, 2, 2, 2, 2, 2, 2, 1, 1, 163, 1, 1, 1, 1, 1, 1, 2, 1, 2, 10, 95, 3, 10, 10, 10, 2, 1, 10, 169, 169, 0],
@@ -498,7 +498,7 @@ var unsw_myan_eco_2020 = {
 //uq_global_mudflats_2022
 var uq_global_mudflats_2022 = {
   data_id_code: 'uq_global_mudflats_2022',
-  ee_asset_id: repository.assets.data_catalogue.uq_global_mudflats_2022,
+  ee_asset_id: repository.data_catalogue.uq_global_mudflats_2022,
   in_class_field_name: ['classification'],
   in_value: ['1'],
   out_class_value: [158],
@@ -509,7 +509,7 @@ var uq_global_mudflats_2022 = {
 //usda_prico_lcov_2023
 var usda_prico_lcov_2023 = {
   data_id_code: 'usda_prico_lcov_2023',
-  ee_asset_id: repository.assets.data_catalogue.usda_prico_lcov_2023,
+  ee_asset_id: repository.data_catalogue.usda_prico_lcov_2023,
   in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
   in_value: ['0', '1', '10', '100', '101', '102', '103', '104', '105', '106', '107', '108', '109', '11', '110', '111', '112', '113', '114', '115', '116', '117', '118', '119', '12', '120', '121', '122', '123', '124', '125', '126', '127', '128', '129', '13', '130', '131', '132', '133', '134', '135', '136', '137', '138', '139', '14', '140', '141', '142', '143', '144', '145', '146', '147', '148', '149', '15', '150', '151', '152', '153', '154', '155', '156', '157', '158', '159', '16', '160', '161', '162', '163', '164', '165', '166', '167', '168', '169', '17', '170', '171', '172', '173', '174', '175', '176', '177', '178', '179', '18', '180', '181', '182', '183', '184', '185', '186', '187', '188', '189', '19', '190', '191', '192', '193', '194', '195', '196', '197', '198', '199', '2', '20', '200', '201', '202', '203', '204', '205', '206', '207', '208', '209', '21', '210', '211', '212', '213', '214', '215', '216', '217', '218', '219', '22', '220', '221', '222', '223', '224', '225', '226', '227', '228', '229', '23', '230', '231', '232', '233', '234', '235', '236', '237', '238', '239', '24', '240', '241', '242', '243', '244', '245', '246', '247', '248', '249', '25', '250', '251', '252', '253', '254', '255', '26', '27', '28', '29', '3', '30', '31', '32', '33', '34', '35', '36', '37', '38', '39', '4', '40', '41', '42', '43', '44', '45', '46', '47', '48', '49', '5', '50', '51', '52', '53', '54', '55', '56', '57', '58', '59', '6', '60', '61', '62', '63', '64', '65', '66', '67', '68', '69', '7', '70', '71', '72', '73', '74', '75', '76', '77', '78', '79', '8', '80', '81', '82', '83', '84', '85', '86', '87', '88', '89', '9', '90', '91', '92', '93', '94', '95', '96', '97', '98', '99'],
   out_class_value: [0, 49, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 73, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 158, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 169, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 255, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 255, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 255, 0, 0, 0, 0, 0, 0, 159, 255, 255, 3, 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -520,7 +520,7 @@ var usda_prico_lcov_2023 = {
 //wcs_mozam_eco_2021
 var wcs_mozam_eco_2021 = {
   data_id_code: 'wcs_mozam_eco_2021',
-  ee_asset_id: repository.assets.data_catalogue.wcs_mozam_eco_2021,
+  ee_asset_id: repository.data_catalogue.wcs_mozam_eco_2021,
   in_class_field_name: ['eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class', 'eco_class'],
   in_value: ['1', '10', '100', '101', '102', '103', '104', '105', '106', '107', '108', '109', '11', '110', '111', '112', '113', '114', '115', '116', '117', '118', '119', '12', '120', '121', '122', '123', '124', '125', '126', '127', '128', '129', '13', '130', '131', '132', '133', '134', '135', '136', '137', '138', '139', '14', '140', '141', '142', '143', '144', '145', '146', '147', '148', '149', '15', '150', '151', '152', '153', '154', '155', '156', '157', '158', '159', '16', '160', '161', '17', '18', '19', '2', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '3', '30', '31', '32', '33', '34', '35', '36', '37', '38', '39', '4', '40', '41', '42', '43', '44', '45', '46', '47', '48', '49', '5', '50', '51', '52', '53', '54', '55', '56', '57', '58', '59', '6', '60', '61', '62', '63', '64', '65', '66', '67', '68', '69', '7', '70', '71', '72', '73', '74', '75', '76', '77', '78', '79', '8', '80', '81', '82', '83', '84', '85', '86', '87', '88', '89', '9', '90', '91', '92', '93', '94', '95', '96', '97', '98', '99'],
   out_class_value: [23, 1, 2, 26, 2, 22, 2, 16, 22, 1, 1, 3, 22, 3, 23, 2, 23, 2, 23, 23, 23, 22, 22, 22, 22, 2, 23, 23, 163, 163, 2, 22, 23, 23, 1, 22, 2, 2, 2, 22, 16, 22, 22, 22, 170, 1, 163, 70, 23, 22, 23, 170, 169, 163, 70, 26, 3, 22, 23, 22, 22, 163, 22, 1, 2, 22, 2, 3, 73, 2, 23, 23, 23, 1, 1, 23, 26, 23, 23, 26, 23, 23, 117, 22, 23, 23, 93, 23, 23, 23, 26, 23, 23, 2, 23, 23, 163, 2, 23, 2, 23, 22, 2, 23, 23, 26, 23, 2, 22, 2, 22, 23, 22, 23, 23, 2, 23, 22, 23, 23, 2, 2, 2, 23, 22, 2, 23, 23, 98, 26, 1, 23, 163, 2, 22, 2, 23, 23, 23, 23, 23, 2, 23, 26, 2, 23, 23, 22, 23, 23, 23, 23, 23, 2, 23, 2, 23, 2, 23, 23, 23],
@@ -531,7 +531,7 @@ var wcs_mozam_eco_2021 = {
 //wcs_mozam_marine_2022
 var wcs_mozam_marine_2022 = {
   data_id_code: 'wcs_mozam_marine_2022',
-  ee_asset_id: repository.assets.data_catalogue.wcs_mozam_marine_2022,
+  ee_asset_id: repository.data_catalogue.wcs_mozam_marine_2022,
   in_class_field_name: ['Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN', 'Ecosys_EN'],
   in_value: ['Delagoa Canyon', 'Delagoa Coral Reefs', 'Delagoa Estuary', 'Delagoa Lower Shelf', 'Delagoa Microalgal Mats', 'Delagoa Mid Shelf', 'Delagoa Rock', 'Delagoa Rubble', 'Delagoa Seagrass', 'Delagoa Shelf Edge', 'Delagoa Shore (300m buffer)', 'Delagoa Upper Shelf', 'East Africa Canyon', 'East Africa Coral Reefs', 'East Africa Estuary', 'East Africa Lower Shelf', 'East Africa Microalgal Mats', 'East Africa Mid Shelf', 'East Africa Rock', 'East Africa Rubble', 'East Africa Seagrass', 'East Africa Shelf Edge', 'East Africa Shore (300m buffer)', 'East Africa Upper Shelf', 'Mozambique Channel Abyss', 'Mozambique Channel Canyon', 'Mozambique Channel Coral Reefs', 'Mozambique Channel Lower Shelf', 'Mozambique Channel Lower Slope', 'Mozambique Channel Mid Shelf', 'Mozambique Channel Mid Slope', 'Mozambique Channel Seamount', 'Mozambique Channel Shelf Edge', 'Mozambique Channel Upper Shelf', 'Mozambique Channel Upper Slope', 'Sofala Bight Canyon', 'Sofala Bight Coral Reefs', 'Sofala Bight Estuary', 'Sofala Bight Lower Shelf', 'Sofala Bight Microalgal Mats', 'Sofala Bight Mid Shelf', 'Sofala Bight Rock', 'Sofala Bight Rubble', 'Sofala Bight Seagrass', 'Sofala Bight Shelf Edge', 'Sofala Bight Shore (300m buffer)', 'Sofala Bight Upper Shelf'],
   out_class_value: [255, 122, 255, 255, 255, 255, 122, 122, 120, 143, 255, 255, 255, 122, 255, 255, 255, 255, 122, 122, 120, 143, 255, 255, 145, 255, 122, 255, 143, 255, 143, 146, 143, 255, 143, 255, 122, 255, 255, 255, 255, 122, 122, 120, 143, 255, 255],
@@ -542,7 +542,7 @@ var wcs_mozam_marine_2022 = {
 //wwf_global_dam_2024
 var wwf_global_dam_2024 = {
   data_id_code: 'wwf_global_dam_2024',
-  ee_asset_id: repository.assets.data_catalogue.wwf_global_dam_2024,
+  ee_asset_id: repository.data_catalogue.wwf_global_dam_2024,
   in_class_field_name: ['DAM_TYPE', 'DAM_TYPE', 'DAM_TYPE', 'DAM_TYPE'],
   in_value: ['Dam', 'Lake Control Dam', 'Lock', 'Low Permeable Dam'],
   out_class_value: [107, 255, 107, 255],
