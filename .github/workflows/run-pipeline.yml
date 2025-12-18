@@ -38,8 +38,8 @@ jobs:
       - name: Run 'generate_crosswalks.qmd' script
         run: quarto render code/generate_crosswalks.qmd
 
-      #- name: Run 'generate_gee_dictionaries.R' script
-      #  run: Rscript code/generate_gee_dictionaries.R
+      - name: Run 'generate_gee_dictionaries.R' script
+        run: Rscript code/generate_gee_dictionaries.R
 
       - name: Commit resources folder
         run: |
