@@ -28,7 +28,7 @@ process_csv_file <- function(file_path) {
   
   # *** CRITICAL UPDATE: Construct ee_asset_id path as a string literal (Requirement 2) ***
   # This string will be inserted directly into the JS object without quotes around the variable name.
-  ee_asset_id_js_literal <- paste0("repository.assets.data_catalogue.", data_id_code)
+  ee_asset_id_js_literal <- paste0("repository.data_catalogue.", data_id_code)
   
   # --- Extract Columns for JS Arrays ---
   in_class_field_name <- df$in_class_field_name
