@@ -1,180 +1,179 @@
 crossref_date,crossref_by,GET_vsn,Source_ID,data_id_code,band_layer_name,in_class_field_name,in_class_value,in_class_description,in_class_description_detail,efg_code,efg_name,efg_description,pixel_value
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,0,NA,NA,NA,No Data,NA No Data,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,0,NA,NA,0,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,1,Wohngebiet mit hoher Baudichte,Residential areas with high building density,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,10,Flughafen,Airports,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,100,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,101,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,102,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,103,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,104,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,105,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,106,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,107,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,108,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,109,NA,NA,NA,No Data,NA No Data,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,100,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,101,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,102,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,103,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,104,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,105,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,106,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,107,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,108,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,109,NA,NA,0,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,11,Abbauflächen,Mining areas,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,110,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,111,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,112,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,113,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,114,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,115,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,116,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,117,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,118,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,119,NA,NA,NA,No Data,NA No Data,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,110,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,111,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,112,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,113,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,114,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,115,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,116,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,117,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,118,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,119,NA,NA,0,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,12,Deponien und Abraumhalden,Landfills and spoil heaps,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,120,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,121,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,122,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,123,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,124,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,125,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,126,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,127,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,128,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,129,NA,NA,NA,No Data,NA No Data,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,120,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,121,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,122,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,123,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,124,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,125,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,126,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,127,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,128,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,129,NA,NA,0,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,13,Baustellen,Construction sites,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,130,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,131,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,132,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,133,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,134,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,135,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,136,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,137,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,138,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,139,NA,NA,NA,No Data,NA No Data,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,130,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,131,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,132,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,133,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,134,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,135,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,136,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,137,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,138,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,139,NA,NA,0,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,14,Ausgewiesene urbane Grünflächen,Green urban areas,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,140,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,141,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,142,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,143,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,144,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,145,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,146,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,147,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,148,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,149,NA,NA,NA,No Data,NA No Data,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,140,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,141,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,142,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,143,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,144,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,145,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,146,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,147,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,148,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,149,NA,NA,0,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,15,Freizeit- und Sport-Freiflächen,Sport and recreational areas,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,150,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,151,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,152,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,153,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,154,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,155,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,156,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,157,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,158,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,159,NA,NA,NA,No Data,NA No Data,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,150,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,151,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,152,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,153,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,154,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,155,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,156,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,157,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,158,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,159,NA,NA,0,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,16,Sonstige urbane Grünflächen,Other green urban areas,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,160,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,161,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,162,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,163,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,164,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,165,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,166,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,167,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,168,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,169,NA,NA,NA,No Data,NA No Data,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,160,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,161,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,162,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,163,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,164,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,165,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,166,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,167,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,168,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,169,NA,NA,0,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,17,Nicht bewässertes Ackerland,Non-irrigated arable land,T7.1,Annual croplands,T7.1 Annual croplands,46
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,170,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,171,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,172,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,173,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,174,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,175,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,176,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,177,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,178,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,179,NA,NA,NA,No Data,NA No Data,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,170,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,171,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,172,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,173,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,174,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,175,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,176,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,177,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,178,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,179,NA,NA,0,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,18,NA,Annual croplands,T7.1,Annual croplands,T7.1 Annual croplands,46
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,180,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,181,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,182,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,183,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,184,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,185,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,186,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,187,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,188,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,189,NA,NA,NA,No Data,NA No Data,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,180,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,181,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,182,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,183,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,184,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,185,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,186,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,187,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,188,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,189,NA,NA,0,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,19,Weinbauflächen,Vineyards,T7.3,Plantations,T7.3 Plantations,48
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,190,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,191,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,192,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,193,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,194,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,195,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,196,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,197,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,198,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,199,NA,NA,NA,No Data,NA No Data,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,190,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,191,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,192,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,193,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,194,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,195,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,196,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,197,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,198,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,199,NA,NA,0,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,2,Industrieflächen mit hoher Baudichte,Industrial areas with high building density,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,20,Obst- und Beerenobstbestände,Fruit trees and berry plantations,T7.3,Plantations,T7.3 Plantations,48
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,200,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,201,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,202,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,203,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,204,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,205,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,206,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,207,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,208,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,209,NA,NA,NA,No Data,NA No Data,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,200,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,201,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,202,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,203,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,204,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,205,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,206,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,207,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,208,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,209,NA,NA,0,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,21,Streuobstwiesen,Orchard meadows,T7.3,Plantations,T7.3 Plantations,48
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,210,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,211,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,212,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,213,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,214,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,215,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,216,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,217,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,218,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,219,NA,NA,NA,No Data,NA No Data,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,210,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,211,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,212,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,213,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,214,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,215,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,216,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,217,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,218,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,219,NA,NA,0,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,22,Baumschulen,Tree nurseries,T7.3,Plantations,T7.3 Plantations,48
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,220,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,221,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,222,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,223,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,224,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,225,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,226,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,227,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,228,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,229,NA,NA,NA,No Data,NA No Data,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,220,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,221,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,222,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,223,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,224,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,225,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,226,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,227,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,228,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,229,NA,NA,0,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,23,NA,Plantations,T7.3,Plantations,T7.3 Plantations,48
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,230,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,231,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,232,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,233,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,234,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,235,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,236,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,237,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,238,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,239,NA,NA,NA,No Data,NA No Data,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,230,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,231,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,232,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,233,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,234,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,235,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,236,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,237,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,238,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,239,NA,NA,0,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,24,Wiesen und Weiden,Meadows and pastures,T7.2,Sown pastures and fields,T7.2 Sown pastures and fields,47
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,240,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,241,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,242,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,243,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,244,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,245,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,246,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,247,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,248,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,249,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,25,Feldhecken,Hedgerows,NA,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,240,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,241,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,242,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,243,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,244,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,245,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,246,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,247,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,248,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,249,NA,NA,0,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,25,Feldhecken,Hedgerows,NA,Cross-referenced to 255 due to incompatible class descriptions,No Data (data exists in source maps but cross-referenced to no data due to incompatible class descriptions),255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,250,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,251,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,252,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,253,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,254,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,255,NA,NA,NA,No Data,NA No Data,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,250,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,251,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,252,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,253,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,254,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,255,NA,NA,0,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,26,Montane und Subalpine Laubwälder,Montane and subalpine broadleaf forests,T2.1,Boreal and temperate high montane forests and woodlands,T2.1 Boreal and temperate high montane forests and woodlands,7
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,27,Moorwälder mit Laubbäumen,Broadleaf bog forests,TF1.6,"Boreal, temperate and montane peat bogs","TF1.6 Boreal, temperate and montane peat bogs",75
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,28,Auenwälder,Riparian forests,TF1.2,Subtropical/temperate forested wetlands,TF1.2 Subtropical/temperate forested wetlands,71
@@ -198,7 +197,6 @@ crossref_date,crossref_by,GET_vsn,Source_ID,data_id_code,band_layer_name,in_clas
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,44,Natürliche oder renaturierte Zwischen- und Hochmoore,Natural and renaturalized peat bogs,TF1.6,"Boreal, temperate and montane peat bogs","TF1.6 Boreal, temperate and montane peat bogs",75
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,45,Natürliche oder renaturierte An- und Niedermoore,Natural and renaturalized fens,TF1.7,Boreal and temperate fens,TF1.7 Boreal and temperate fens,76
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,46,Salzwiesen,Salt marshes,MFT1.3,Coastal saltmarshes and reedbeds,MFT1.3 Coastal saltmarshes and reedbeds,170
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,47,NA,Other wetlands,NA,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,47,NA,Other wetlands,NA,Cross-referenced to 255 due to incompatible class descriptions,No Data (data exists in source maps but cross-referenced to no data due to incompatible class descriptions),255
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,48,(künstlicher) Sandstrand,Shorelines biome,MT1.3,Sandy shorelines,MT1.3 Sandy shorelines,159
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,49,Küstendünen,Coastal dunes,MT1.3,Sandy shorelines,MT1.3 Sandy shorelines,159
@@ -218,42 +216,42 @@ crossref_date,crossref_by,GET_vsn,Source_ID,data_id_code,band_layer_name,in_clas
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,61,Erheblich veränderte,Lake biome,F2.1,Large permanent freshwater lakes,F2.1 Large permanent freshwater lakes,92
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,62,Künstliche,Artificial wetlands,F3.1,Large reservoirs,F3.1 Large reservoirs,107
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,63,Sonstige,Small permanent freshwater lakes,F2.2,Small permanent freshwater lakes,F2.2 Small permanent freshwater lakes,93
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,64,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,65,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,66,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,67,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,68,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,69,NA,NA,NA,No Data,NA No Data,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,64,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,65,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,66,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,67,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,68,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,69,NA,NA,0,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,7,Straße,Roads,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,70,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,71,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,72,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,73,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,74,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,75,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,76,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,77,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,78,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,79,NA,NA,NA,No Data,NA No Data,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,70,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,71,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,72,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,73,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,74,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,75,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,76,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,77,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,78,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,79,NA,NA,0,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,8,Schiene,Railroads,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,80,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,81,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,82,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,83,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,84,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,85,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,86,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,87,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,88,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,89,NA,NA,NA,No Data,NA No Data,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,80,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,81,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,82,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,83,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,84,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,85,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,86,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,87,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,88,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,89,NA,NA,0,No Data,No Data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,9,Hafen,Ports,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,90,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,91,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,92,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,93,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,94,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,95,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,96,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,97,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,98,NA,NA,NA,No Data,NA No Data,255
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,99,NA,NA,NA,No Data,NA No Data,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,90,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,91,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,92,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,93,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,94,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,95,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,96,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,97,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,98,NA,NA,0,No Data,No Data,0
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,2018_dominant_esc,Raster code,99,NA,NA,0,No Data,No Data,0
