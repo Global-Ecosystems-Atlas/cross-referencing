@@ -465,6 +465,21 @@ var must_malawi_eco_2024 = {
   efg_codes: ['T1.3', 'T1.3', 'T4.2', 'F1.2', 'F2.1', 'TF1.4', 'F2.1', 'T4.2', 'T4.2', 'F1.2', 'TF1.3', 'F2.1', 'T4.2', 'T4.2', 'TF1.3', 'F1.2', 'TF1.4', 'F2.1', 'F2.2', 'F1.2', 'TF1.3', 'F1.2', 'TF1.4', 'F2.2', 'T4.2', 'F1.2', 'TF1.4', 'TF1.3', 'TF1.4', 'T4.2', 'T3.1', 'T4.2', 'T1.3', 'T3.1', 'T4.2', 'TF1.3', 'F1.2', 'TF1.4', 'F2.1', 'F2.1', 'F1.2', 'TF1.4', 'F1.2', 'TF1.4', 'T4.2', 'F2.1', 'F2.1', 'T4.2', 'F1.2', 'F1.2', 'TF1.4', 'F1.2', 'TF1.3', 'F1.2', 'TF1.3', 'F1.2', 'TF1.4', 'F1.2', 'F2.1', 'T4.1', 'T4.2', 'T4.1', 'TF1.3', 'T4.2', 'T4.2', 'T1.1', 'T1.3']
 };
 
+//ncs_singapore_eco_2019
+var ncs_singapore_eco_2019 = {
+  source_id: 412,
+  data_id_code: 'ncs_singapore_eco_2019',
+  dataset_year: 2018,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.ncs_singapore_eco_2019,
+  band_layer_name: ['figure1', 'figure1', 'figure1', 'figure1', 'figure1', 'figure1', 'figure1', 'figure1', 'figure1', 'figure1', 'figure1', 'figure1', 'figure1'],
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
+  in_class_value: [1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9],
+  pixel_value: [49, 169, 255, 255, 255, 49, 49, 1, 255, 49, 49, 255, 255],
+  efg_names: ['Urban and industrial ecosystems', 'Intertidal forests and shrublands', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Tropical/Subtropical lowland rainforests', 'Cross-referenced to 255 due to incompatible class descriptions', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions'],
+  efg_codes: ['T7.4', 'MFT1.2', 'NA', 'NA', 'NA', 'T7.4', 'T7.4', 'T1.1', 'NA', 'T7.4', 'T7.4', 'NA', 'NA']
+};
+
 //nnsf_china_aqc_2020
 var nnsf_china_aqc_2020 = {
   source_id: 275,
