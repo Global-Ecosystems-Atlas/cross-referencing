@@ -53,6 +53,7 @@ if (!is.na(gsa_json) && nchar(gsa_json) > 0) {
   writeLines(gsa_json, temp_json)
   gs4_auth(path = temp_json)
 }
+# In dev, use: gs4_auth(email = TRUE)
 ```
 
 # Load main database/catalogue and subset source data
@@ -69,15 +70,30 @@ source_data <- read_sheet(
   filter(!is.na(n_map_classes))
 ```
 
-# Load efg codes
+# Generate the list of EFG codes
 ```{r}
+# Load EFG codes from Github
 efg_codes <- read_csv(
   "https://raw.githubusercontent.com/Global-Ecosystems-Atlas/metadata/refs/heads/main/pixel-values/efg_pixelvalues.csv") |> 
   pull(2) |> 
-  unique() |> 
-  replace_na("NA") |> 
-  as.character()
+  unique()
+
+# Keep only true EFG codes (.i.e remove any "0" or "NA" column)
+# Filter for Letter(s) + Number + Point + Number. Regex logic:
+# ^[A-Z]+   : Starts with one or more uppercase letters
+# [0-9]+    : Followed by one or more digits
+# \\.       : A literal period
+# [0-9]+$   : Ends with one or more digits
+efg_codes <- efg_codes |>
+  as.character() |>
+  str_subset("^[A-Z]+[0-9]+\\.[0-9]+$")
+
+# Add "0" at the beginning and "NA" at the end.
+# 0 is for true no data and NA is for non-crosswalkable data
+efg_codes <- c("0", efg_codes, "NA")
+
 ```
+
 # Make helper functions
 ```{r}
 # safe integer for n_map_classes

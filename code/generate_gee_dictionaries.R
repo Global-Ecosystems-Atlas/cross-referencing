@@ -81,12 +81,12 @@ process_csv_file <- function(file_path) {
   
   # Prepare in_class_value for JS: leave numeric values unquoted, quote character values
   in_class_value_js <- if (is.numeric(in_class_value)) {
-    paste0(in_class_value, collapse = ", ")
+    paste0(in_class_value, collapse = ", ") # TODO: put null when NA
   } else {
     paste0("'", in_class_value, "'", collapse = ", ")
   }
   
-#  --- Generate the JavaScript dictionary content using glue ---
+  #  --- Generate the JavaScript dictionary content using glue ---
   js_content <- glue::glue(
     "//{data_id_code}\n",
     "var {data_id_code} = {{\n",
