@@ -60,6 +60,21 @@ var airi_seasia_ricepaddy_2019 = {
   efg_codes: ['0', 'F3.3']
 };
 
+//bnetd_cotedivoire_lcov_2020
+var bnetd_cotedivoire_lcov_2020 = {
+  source_id: 394,
+  data_id_code: 'bnetd_cotedivoire_lcov_2020',
+  dataset_year: 2023,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.bnetd_cotedivoire_lcov_2020,
+  band_layer_name: ['ocs2020', 'ocs2020', 'ocs2020', 'ocs2020', 'ocs2020', 'ocs2020', 'ocs2020', 'ocs2020', 'ocs2020', 'ocs2020', 'ocs2020', 'ocs2020', 'ocs2020', 'ocs2020', 'ocs2020', 'ocs2020', 'ocs2020', 'ocs2020', 'ocs2020', 'ocs2020', 'ocs2020', 'ocs2020', 'ocs2020'],
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
+  in_class_value: [1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 3, 4, 5, 6, 7, 8, 9],
+  pixel_value: [255, 48, 48, 48, 48, 48, 255, 255, 255, 255, 255, 255, 73, 49, 19, 255, 255, 255, 169, 48, 70, 48, 48],
+  efg_names: ['Cross-referenced to 255 due to incompatible class descriptions', 'Plantations', 'Plantations', 'Plantations', 'Plantations', 'Plantations', 'Cross-referenced to 255 due to incompatible class descriptions', 'No Data', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Seasonal floodplain marshes', 'Urban and industrial ecosystems', 'Young rocky pavements, lava flows and screes', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Intertidal forests and shrublands', 'Plantations', 'Tropical flooded forests and peat forests', 'Plantations', 'Plantations'],
+  efg_codes: ['NA', 'T7.3', 'T7.3', 'T7.3', 'T7.3', 'T7.3', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'TF1.4', 'T7.4', 'T3.4', 'NA', 'NA', 'NA', 'MFT1.2', 'T7.3', 'TF1.1', 'T7.3', 'T7.3']
+};
+
 //cambridge_global_saltmarsh_2023
 var cambridge_global_saltmarsh_2023 = {
   source_id: 16,
@@ -630,6 +645,21 @@ var sysu_arctic_lcov_2022 = {
   efg_codes: ['NA', 'T6.1', 'NA', 'T6.3', 'T6.3', 'NA', 'NA', 'T6.2', 'T7.4', 'T6.2', 'NA', 'T6.1', 'NA', 'T6.3', 'NA', 'NA', 'NA', 'NA', 'T7.4', 'T6.2', 'NA', 'T6.1', 'NA', 'T6.3', 'T6.3', 'NA', 'NA', 'T6.2', 'T7.4', 'T6.2', 'NA', 'T6.1', 'NA', 'T6.3', 'T6.3', 'NA', 'NA', 'NA', 'T7.4', 'T6.2', 'NA', 'T6.1', 'NA', 'T6.3', 'T6.3', 'NA', 'NA', 'T6.2', 'T7.4', 'T6.2', 'NA', 'T6.1', 'NA', 'T6.3', 'T6.3', 'NA', 'NA', 'T6.2', 'T7.4', 'NA', 'NA']
 };
 
+//tut_tibet_veg_2024
+var tut_tibet_veg_2024 = {
+  source_id: 374,
+  data_id_code: 'tut_tibet_veg_2024',
+  dataset_year: 2020,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.tut_tibet_veg_2024,
+  band_layer_name: ['TPveg_2020', 'TPveg_2020', 'TPveg_2020', 'TPveg_2020', 'TPveg_2020', 'TPveg_2020', 'TPveg_2020', 'TPveg_2020', 'TPveg_2020', 'TPveg_2020', 'TPveg_2020', 'TPveg_2020', 'TPveg_2020', 'TPveg_2020', 'TPveg_2020', 'TPveg_2020'],
+  in_class_field_name: ['NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA'],
+  in_class_value: [1, 10, 11, 12, 13, 14, 15, 16, 2, 3, 4, 5, 6, 7, 8, 9],
+  pixel_value: [10, 41, 33, 255, 255, 255, 38, 255, 7, 7, 8, 7, 255, 41, 41, 41],
+  efg_names: ['Warm temperate laurophyll forests', 'Temperate alpine grasslands and shrublands', 'Cool deserts and semi-deserts', 'Cross-referenced to 255 due to incompatible class descriptions', 'No Data', 'No Data', 'Ice sheets, glaciers and perennial snowfields', 'Cross-referenced to 255 due to incompatible class descriptions', 'Boreal and temperate high montane forests and woodlands', 'Boreal and temperate high montane forests and woodlands', 'Deciduous temperate forests', 'Boreal and temperate high montane forests and woodlands', 'Cross-referenced to 255 due to incompatible class descriptions', 'Temperate alpine grasslands and shrublands', 'Temperate alpine grasslands and shrublands', 'Temperate alpine grasslands and shrublands'],
+  efg_codes: ['T2.4', 'T6.4', 'T5.4', 'NA', 'NA', 'NA', 'T6.1', 'NA', 'T2.1', 'T2.1', 'T2.2', 'T2.1', 'NA', 'T6.4', 'T6.4', 'T6.4']
+};
+
 //ubonn_chile_veg_2022
 var ubonn_chile_veg_2022 = {
   source_id: 22,
@@ -748,6 +778,36 @@ var wcs_mozam_marine_2022 = {
   pixel_value: [255, 122, 255, 255, 255, 255, 122, 122, 120, 143, 255, 255, 255, 122, 255, 255, 255, 255, 122, 122, 120, 143, 255, 255, 145, 255, 122, 255, 143, 255, 143, 146, 143, 255, 143, 255, 122, 255, 255, 255, 255, 122, 122, 120, 143, 255, 255],
   efg_names: ['Cross-referenced to 255 due to incompatible class descriptions', 'Photic coral reefs', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Photic coral reefs', 'Photic coral reefs', 'Seagrass meadows', 'Continental and island slopes', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Photic coral reefs', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Photic coral reefs', 'Photic coral reefs', 'Seagrass meadows', 'Continental and island slopes', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Abyssal plains', 'Cross-referenced to 255 due to incompatible class descriptions', 'Photic coral reefs', 'Cross-referenced to 255 due to incompatible class descriptions', 'Continental and island slopes', 'Cross-referenced to 255 due to incompatible class descriptions', 'Continental and island slopes', 'Seamounts, ridges and plateaus', 'Continental and island slopes', 'Cross-referenced to 255 due to incompatible class descriptions', 'Continental and island slopes', 'Cross-referenced to 255 due to incompatible class descriptions', 'Photic coral reefs', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Photic coral reefs', 'Photic coral reefs', 'Seagrass meadows', 'Continental and island slopes', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions'],
   efg_codes: ['NA', 'M1.3', 'NA', 'NA', 'NA', 'NA', 'M1.3', 'M1.3', 'M1.1', 'M3.1', 'NA', 'NA', 'NA', 'M1.3', 'NA', 'NA', 'NA', 'NA', 'M1.3', 'M1.3', 'M1.1', 'M3.1', 'NA', 'NA', 'M3.3', 'NA', 'M1.3', 'NA', 'M3.1', 'NA', 'M3.1', 'M3.4', 'M3.1', 'NA', 'M3.1', 'NA', 'M1.3', 'NA', 'NA', 'NA', 'NA', 'M1.3', 'M1.3', 'M1.1', 'M3.1', 'NA', 'NA']
+};
+
+//wrig_global_lcov_2022
+var wrig_global_lcov_2022 = {
+  source_id: 169,
+  data_id_code: 'wrig_global_lcov_2022',
+  dataset_year: 2026,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.wrig_global_lcov_2022,
+  band_layer_name: ['built area', 'built area', 'built area', 'built area', 'built area', 'built area', 'built area', 'built area', 'built area', 'NA'],
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'NA'],
+  in_class_value: [0, 1, 2, 3, 4, 5, 6, 7, 8, NA],
+  pixel_value: [255, 255, 255, 255, 255, 255, 49, 255, 255, 255],
+  efg_names: ['Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Urban and industrial ecosystems', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'No Data'],
+  efg_codes: ['NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'T7.4', 'NA', 'NA', 'NA']
+};
+
+//wuhan_tibet_lcov_2024
+var wuhan_tibet_lcov_2024 = {
+  source_id: 285,
+  data_id_code: 'wuhan_tibet_lcov_2024',
+  dataset_year: 2022,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.wuhan_tibet_lcov_2024,
+  band_layer_name: ['TP_LC10-2022', 'TP_LC10-2022', 'TP_LC10-2022', 'TP_LC10-2022', 'TP_LC10-2022', 'TP_LC10-2022', 'TP_LC10-2022', 'TP_LC10-2022', 'TP_LC10-2022', 'TP_LC10-2022', 'TP_LC10-2022', 'TP_LC10-2022', 'TP_LC10-2022', 'TP_LC10-2022', 'TP_LC10-2022'],
+  in_class_field_name: ['Bare land', 'Alpine scree', 'Deciduous shrubland', 'Water body', 'Wetland', 'Cultivated vegetation', 'Permanent ice and snow', 'Alpine grassland', 'Alpine meadow', 'Evergreen needle-leaved forest', 'Deciduous needle-leaved forest', 'Evergreen broadleaved forest', 'Deciduous broadleaved forest', 'Mixed forest', 'Evergreen shrubland'],
+  in_class_value: [0, 1, 10, 11, 12, 13, 14, 2, 3, 4, 5, 6, 7, 8, 9],
+  pixel_value: [39, 41, 41, 255, 73, 255, 38, 41, 41, 7, 7, 10, 8, 255, 41],
+  efg_names: ['Polar/alpine cliffs, screes, outcrops and lava flows', 'Temperate alpine grasslands and shrublands', 'Temperate alpine grasslands and shrublands', 'No Data', 'Seasonal floodplain marshes', 'Cross-referenced to 255 due to incompatible class descriptions', 'Ice sheets, glaciers and perennial snowfields', 'Temperate alpine grasslands and shrublands', 'Temperate alpine grasslands and shrublands', 'Boreal and temperate high montane forests and woodlands', 'Boreal and temperate high montane forests and woodlands', 'Warm temperate laurophyll forests', 'Deciduous temperate forests', 'Cross-referenced to 255 due to incompatible class descriptions', 'Temperate alpine grasslands and shrublands'],
+  efg_codes: ['T6.2', 'T6.4', 'T6.4', 'NA', 'TF1.4', 'NA', 'T6.1', 'T6.4', 'T6.4', 'T2.1', 'T2.1', 'T2.4', 'T2.2', 'NA', 'T6.4']
 };
 
 //wwf_global_dam_2024
