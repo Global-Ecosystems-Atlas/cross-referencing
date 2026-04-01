@@ -105,6 +105,21 @@ var cbs_neth_eco_2022 = {
   efg_codes: ['0', 'T7.4', 'T7.4', 'T7.4', 'T7.4', 'NA', 'MFT1.3', 'NA', 'T7.1', 'T7.1', 'T7.3', 'T7.1', 'T7.2', 'T7.5', 'T2.2', 'T2.2', 'T2.2', 'T3.3', 'T3.3', 'TF1.6', 'TF1.7', 'F1.2', 'F2.2']
 };
 
+//cdv_global_palm_2024
+var cdv_global_palm_2024 = {
+  source_id: 90,
+  data_id_code: 'cdv_global_palm_2024',
+  dataset_year: 2021,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.cdv_global_palm_2024,
+  band_layer_name: ['GlobalOilPalm_OP-extent_xxxxx', 'GlobalOilPalm_OP-extent_xxxxx', 'GlobalOilPalm_OP-extent_xxxxx'],
+  in_class_field_name: ['raster code', 'raster code', 'raster code'],
+  in_class_value: [0, 1, 2],
+  pixel_value: [255, 48, 48],
+  efg_names: ['Cross-referenced to 255 due to incompatible class descriptions', 'Plantations', 'Plantations'],
+  efg_codes: ['NA', 'T7.3', 'T7.3']
+};
+
 //cu_global_lcov_2024
 var cu_global_lcov_2024 = {
   source_id: 293,
