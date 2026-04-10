@@ -120,6 +120,21 @@ var cdv_global_palm_2024 = {
   efg_codes: ['NA', 'T7.3', 'T7.3']
 };
 
+//creaf_global_plantation_2023
+var creaf_global_plantation_2023 = {
+  source_id: 342,
+  data_id_code: 'creaf_global_plantation_2023',
+  dataset_year: 2020,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.creaf_global_plantation_2023,
+  band_layer_name: ['GCL_2020_xxxxx', 'GCL_2020_xxxxx'],
+  in_class_field_name: ['raster code', 'raster code'],
+  in_class_value: [0, 1],
+  pixel_value: [255, 48],
+  efg_names: ['Cross-referenced to 255 due to incompatible class descriptions', 'Plantations'],
+  efg_codes: ['NA', 'T7.3']
+};
+
 //cu_global_lcov_2024
 var cu_global_lcov_2024 = {
   source_id: 293,
@@ -199,8 +214,8 @@ var gbrmpa_aus_benth_2021 = {
 var gfw_global_plant_2024 = {
   source_id: 171,
   data_id_code: 'gfw_global_plant_2024',
-  dataset_year: 2021,
-  vector_raster: 'Vector',
+  dataset_year: null,
+  vector_raster: null,
   ee_asset_id: repository.data_catalogue.gfw_global_plant_2024,
   band_layer_name: ['xxx_plant_v2', 'xxx_plant_v2'],
   in_class_field_name: ['simpleType', 'simpleType'],
@@ -763,6 +778,21 @@ var usda_prico_lcov_2023 = {
   pixel_value: [0, 49, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 73, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 158, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 169, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 255, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 255, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 255, 0, 0, 0, 0, 0, 0, 159, 255, 255, 3, 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
   efg_names: ['No Data', 'Urban and industrial ecosystems', 'Tropical/Subtropical dry forests and thickets', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Tropical/Subtropical dry forests and thickets', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Tropical/Subtropical dry forests and thickets', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Tropical/Subtropical lowland rainforests', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Tropical/Subtropical lowland rainforests', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Tropical/Subtropical lowland rainforests', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Tropical/Subtropical lowland rainforests', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Tropical/Subtropical lowland rainforests', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Tropical/Subtropical montane rainforests', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Seasonal floodplain marshes', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Urban and industrial ecosystems', 'Muddy shorelines', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Intertidal forests and shrublands', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Cross-referenced to 255 due to incompatible class descriptions', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Tropical flooded forests and peat forests', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Cross-referenced to 255 due to incompatible class descriptions', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Cross-referenced to 255 due to incompatible class descriptions', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Sandy shorelines', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Tropical/Subtropical montane rainforests', 'Annual croplands', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Plantations', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Sown pastures and fields', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Sown pastures and fields', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Tropical/Subtropical dry forests and thickets', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Tropical/Subtropical dry forests and thickets', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Tropical/Subtropical dry forests and thickets', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data'],
   efg_codes: ['0', 'T7.4', 'T1.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.3', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'TF1.4', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.4', 'MT1.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'MFT1.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'NA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'TF1.1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'NA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'NA', '0', '0', '0', '0', '0', '0', 'MT1.3', 'NA', 'NA', 'T1.3', 'T7.1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.3', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+};
+
+//vito_global_lcov_2025
+var vito_global_lcov_2025 = {
+  source_id: 396,
+  data_id_code: 'vito_global_lcov_2025',
+  dataset_year: 2026,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.vito_global_lcov_2025,
+  band_layer_name: ['LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP'],
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
+  in_class_value: [10, 100, 110, 20, 30, 40, 50, 60, 70, 80, 90],
+  pixel_value: [255, 255, 255, 255, 255, 46, 255, 255, 255, 255, 255],
+  efg_names: ['Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Annual croplands', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions'],
+  efg_codes: ['NA', 'NA', 'NA', 'NA', 'NA', 'T7.1', 'NA', 'NA', 'NA', 'NA', 'NA']
 };
 
 //wcs_mozam_eco_2021
