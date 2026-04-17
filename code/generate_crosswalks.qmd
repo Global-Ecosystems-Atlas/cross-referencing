@@ -186,6 +186,21 @@ dat <- read_csv(file_path, show_col_types = FALSE) |>
   save_path <- path(sub_dir, glue::glue("{data_id}_GEA_crosswalk_table.csv"))
   write_csv(dat_out, save_path)
   
+  
+  # Create one csv file per band layer in the sub-folder 'per_band_layer_name'
+  split_dir <- path(sub_dir, "per_band_layer_name")
+  dir_create(split_dir)
+  
+  dat_out |>
+    group_split(band_layer_name) |>
+    walk(function(df) {
+
+      split_filename <- glue::glue("{df$Source_ID[1]}_{df$band_layer_name[1]}_GEA_crosswalk_table.csv")
+      split_save_path <- path(split_dir, split_filename)
+      
+      write_csv(df, split_save_path)
+    })
+
   message("Processed: ", data_id)
 }
 ```
