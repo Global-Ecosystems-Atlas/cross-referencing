@@ -1,0 +1,62 @@
+crossref_date,crossref_by,GET_vsn,Source_ID,data_id_code,band_layer_name,in_class_field_name,in_class_value,in_class_description,in_class_description_detail,efg_code,efg_name,efg_description,pixel_value
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,1,Dense forest,"Natural formations of the primary type, closed stand with
+trees and shrubs reaching various heights between 5 and 50 m; the
+tree crowns are relatively close together;
+the overall canopy remains dense (coverage greater than
+70%) Evergreen rainforest, semi-deciduous (mesophilic) forest, mountain forest, low mountain forest, coastal forest, dry forest",NA,Cross-referenced to 255 due to incompatible class descriptions,No Data (data exists in source maps but cross-referenced to no data due to incompatible class descriptions),255
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,10,Rubber plantation,"Rubber trees in full sun, rubber trees mixed with other trees.",T7.3,Plantations,T7.3 Plantations,48
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,11,Oil palm plantation,"Agricultural plot of oil palms, arranged in an equilateral triangle 9m per side; density 143 trees per hectare. Palm grove",T7.3,Plantations,T7.3 Plantations,48
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,12,Coconut plantation,"Coconut palm grove in the coastal area, planted in rows spaced several meters apart; with a lifespan of one hundred years.",T7.3,Plantations,T7.3 Plantations,48
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,13,Cashew plantation,"Cashew tree plantation, 5-15m tall, with a spreading crown and
+dark green, evergreen foliage.
+Cultivated in the Sudanian zone, the cashew tree
+is planted in a 10m x 10m grid, in
+full sun, in light, sandy,
+deep, well-drained soils.",T7.3,Plantations,T7.3 Plantations,48
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,14,Fruit plantation,"A collection of evergreen fruit tree plantations, including mango, avocado, and orange trees, on the one hand, and banana trees with leaves up to 2 meters long, on the other;
+Note: the regular shape of the plots allows for their identification.
+Mango, avocado, citrus (orange, lemon, etc.), banana plantation",T7.3,Plantations,T7.3 Plantations,48
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,15,Agricultural development/Other crops/Orchards/Fallow land,"Areas of other undifferentiated cultivated land and various orchards, including lowland crops and young fallows between 3 and 7 years old (generally composed of post-cultivation grass regrowth).
+These crops are short-cycle and long-cycle annuals (rice, yam, maize, cassava, pineapple plantations, sugarcane, cotton, etc.).
+
+Note: These cultivated areas are identifiable plots on satellite images by their sometimes regular geometric shape.
+Bare agricultural soil, rainfed rice cultivation, yam, maize, cassava, other cereals (millet, fonio, sorghum), pineapple plantations, sugarcane, cotton plantations, post-cultivation grass regrowth, agricultural marshland, rice paddies, etc.",NA,Cross-referenced to 255 due to incompatible class descriptions,No Data (data exists in source maps but cross-referenced to no data due to incompatible class descriptions),255
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,16,Wooded savannah,"Savanna on well-drained soil with a tree layer (5-20 m tall; 10-30% canopy cover); a shrub layer (2-5 m tall; less than 50% canopy cover); and a dense, continuous herbaceous layer at least 80 cm high.",NA,No Data,NA No Data,255
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,17,Shrub formations/Thickets,"Vegetation formation consisting of shrubs, less than 5m in height, scattered over a continuous herbaceous layer; and having:
+- a shrub layer with at least 50% cover;
+- a herbaceous layer with 10 to 100% cover;
+Note: the tree layer is less than 10% cover.
+This class also includes thickets, which are closed, dense formations with more than 80% cover, composed solely of shrubs less than 5m in height (a dense, young woodland).
+Note: In these thickets, the grassy understory is absent or reduced to its simplest form.
+Shrub savanna, fan palm savanna, swamp savanna, high-altitude meadow, coastal thicket, marshy thicket, riparian/floodplain thicket, secondary thicket",NA,Cross-referenced to 255 due to incompatible class descriptions,No Data (data exists in source maps but cross-referenced to no data due to incompatible class descriptions),255
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,18,Herbaceous formations,"Natural grassy formations less than 2.5m high or short-grass growing on well-drained firm ground; woody vegetation is insignificant (no trees), consisting of only a few isolated shrubs, bushes, and subshrubs, or grouped in patches.
+Grassy savanna, coastal savanna, high-altitude grassland, coastal grassland, grassy regrowth on bare soil (non-agricultural/straw stage of dys)",NA,Cross-referenced to 255 due to incompatible class descriptions,No Data (data exists in source maps but cross-referenced to no data due to incompatible class descriptions),255
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,19,"Body of water, Courses and waterways","A collection of depressions containing water in the form of a reservoir (body of water). A linear, interconnected hydrographic network flowing towards a body of water and a wide, interconnected watercourse (rivers and waterways).",NA,Cross-referenced to 255 due to incompatible class descriptions,No Data (data exists in source maps but cross-referenced to no data due to incompatible class descriptions),255
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,2,Open forest,"Natural formations, open stand in the Sudanese zone (north); Cover: 30% to 70%; Height: 8 to 15m",NA,Cross-referenced to 255 due to incompatible class descriptions,No Data (data exists in source maps but cross-referenced to no data due to incompatible class descriptions),255
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,20,Swampy areas,"Wet and muddy lands consisting of marshes and swamps,
+where the soil is covered, permanently or intermittently, by a
+shallow layer of stagnant water covered with vegetation.
+Hydrophilous formations (helophytes and hydrophytes), of
+Cyperaceae, develop there, either isolated or in the form of grassy mats.
+Aquatic meadow, marshy meadow,
+riparian/floodplain meadow",TF1.4,Seasonal floodplain marshes,TF1.4 Seasonal floodplain marshes,73
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,21,Human habitat and Infrastructure,"Areas resulting from human activities, other than agriculture, for the purpose of urbanization and various constructions (housing, industrial activities, mining operations, quarries, gold panning, land clearing, etc.)
+Lines for the construction of communication infrastructure, transport routes and road, electrical, and rail networks
+Urban housing, rural housing, encampments, industrial activity zones, mining operations, quarry zones, gold panning zones, cleared/deforested areas, burned areas
+Road infrastructure, electrical infrastructure, rail infrastructure",T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,22,Rocky outcrop,"Exposed rocks, granite domes often covered with
+herbaceous vegetation, more or less discontinuous; less than 60 cm high
+Rocky outcrops, vegetation on
+rocky outcrops",T3.4,"Young rocky pavements, lava flows and screes","T3.4 Young rocky pavements, lava flows and screes",19
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,23,Bare ground,"Land devoid of natural vegetation cover (herbaceous, shrubby, arboreal), not constituting a cultivated area. Bare, non-agricultural soil, sandy areas.",NA,Cross-referenced to 255 due to incompatible class descriptions,No Data (data exists in source maps but cross-referenced to no data due to incompatible class descriptions),255
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,3,Gallery forest,"A forest whose canopy is continuous above a river or small stream, or a wetland (the presence of water may be temporary). Forest on hydromorphic soil, floodable/periodically flooded forest, gallery forest/riparian forest",NA,Cross-referenced to 255 due to incompatible class descriptions,No Data (data exists in source maps but cross-referenced to no data due to incompatible class descriptions),255
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,4,Secondary forest/degraded forest,"Forest formation under the influence of degradation and regenerating forest regrowth, but whose cover is nevertheless
+greater than 30%; structure consisting of successive stages of
+unstable vegetation development. The difference is marked by
+the structure/composition of species compared to neighboring primary
+forests. Old secondary forest, young secondary forest, swamp/riparian secondary forest, mountain secondary forest",NA,Cross-referenced to 255 due to incompatible class descriptions,No Data (data exists in source maps but cross-referenced to no data due to incompatible class descriptions),255
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,5,Mangrove,"A monotonous formation bordering the maritime and lagoonal coastline, suitable for temporary immersion, in muddy beaches covered with ferns. Evergreen mangrove stands with a cover density exceeding 30%, featuring a herbaceous layer of coastal grasses or water bodies and upright clumps of ferns.",MFT1.2,Intertidal forests and shrublands,MFT1.2 Intertidal forests and shrublands,169
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,6,Forest plantation/Reforestation,"Woodland plots or habitat regeneration; tree height greater than 5m and canopy cover greater than 30%. Mixed forest plantations, agroforestry plantations",T7.3,Plantations,T7.3 Plantations,48
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,7,Swamp forest/Forest on hydromorphic soil,"Forest formation (coverage greater than 30%) established on hydromorphic soils (valley, estuary, lowlands, marshes), near watercourses (river, reservoir, stream), where the presence of water is almost permanent. Swamp forest, forest on hydromorphic soil, floodplain forest/periodically flooded forest, etc.",TF1.1,Tropical flooded forests and peat forests,TF1.1 Tropical flooded forests and peat forests,70
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,8,Coffee plantation,"Coffee plantation established with a low density (fewer than 20 trees per hectare) of forest trees at least 5 meters tall (full sun coffee). Coffee plantation established by association or preservation of more than 20 forest trees of at least 5 meters in height per hectare and constituting a shade rate greater than 40% (shade-grown coffee).Full sun coffee plantation, Shade coffee plantation",T7.3,Plantations,T7.3 Plantations,48
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,9,Cocoa plantation,"Cocoa trees (Theobroma cacao), with a dense canopy at maturity (50 to 100%), with a low density (fewer than 20 trees per hectare) of forest trees at least 5 meters tall (full sun cocoa).Cocoa trees (Theobroma cacao) with a dense canopy at maturity (50 to 100%) established through association or preservation with more than 20 forest trees at least 5 meters tall per hectare, providing a shade coverage greater than 40% (shade-grown cocoa).Full sun cocoa plantation, Shade-grown cocoa plantation",T7.3,Plantations,T7.3 Plantations,48
