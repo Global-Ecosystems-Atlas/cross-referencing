@@ -59,4 +59,3 @@ crossref_date,crossref_by,GET_vsn,Source_ID,data_id_code,band_layer_name,in_clas
 17/12/2025,Alli Lynn,2.1,315,sysu_arctic_lcov_2022,CALC-2020-RU,raster code,7,lichen/moss,Bedrock covered by cryptogam communities,T6.2,"Polar/alpine cliffs, screes, outcrops and lava flows","T6.2 Polar/alpine cliffs, screes, outcrops and lava flows",39
 17/12/2025,Alli Lynn,2.1,315,sysu_arctic_lcov_2022,CALC-2020-RU,raster code,8,man-made imperviousness,Impermeable land surface paved by man-made structures,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
 17/12/2025,Alli Lynn,2.1,315,sysu_arctic_lcov_2022,CALC-2020-RU,raster code,9,barren land,Natural dry land with vegetation coverage typically less than 10?%,NA,Cross-referenced to 255 due to incompatible class descriptions,No Data (data exists in source maps but cross-referenced to no data due to incompatible class descriptions),255
-NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,No Data,NA No Data,255
