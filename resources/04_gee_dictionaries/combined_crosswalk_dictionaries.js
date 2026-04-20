@@ -1995,6 +1995,81 @@ var usda_prico_lcov_2023 = {
   efg_codes: ['0', 'T7.4', 'T1.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.3', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'TF1.4', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.4', 'MT1.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'MFT1.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'NA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'TF1.1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'NA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'NA', '0', '0', '0', '0', '0', '0', 'MT1.3', 'NA', 'NA', 'T1.3', 'T7.1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.3', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T1.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 };
 
+//vito_global_crop_2021
+var vito_global_crop_2021 = {
+  source_id: 341,
+  data_id_code: 'vito_global_crop_2021',
+  dataset_year: 2021,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.vito_global_crop_2021,
+  band_layer_name: ['xxxxx_tc-annual_temporarycrops_2020-xx-xx_2021-xx-xx_classification'],
+  in_class_field_name: ['raster code'],
+  in_class_value: [100],
+  pixel_value: [46],
+  efg_names: ['Annual croplands'],
+  efg_codes: ['T7.1']
+};
+
+//vito_global_crop_2021
+var vito_global_crop_2021 = {
+  source_id: 341,
+  data_id_code: 'vito_global_crop_2021',
+  dataset_year: 2021,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.vito_global_crop_2021,
+  band_layer_name: ['xxxxx_tc-maize-main_maize_2020-xx-xx_2021-xx-xx_classification'],
+  in_class_field_name: ['raster code'],
+  in_class_value: [100],
+  pixel_value: [46],
+  efg_names: ['Annual croplands'],
+  efg_codes: ['T7.1']
+};
+
+//vito_global_crop_2021
+var vito_global_crop_2021 = {
+  source_id: 341,
+  data_id_code: 'vito_global_crop_2021',
+  dataset_year: 2021,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.vito_global_crop_2021,
+  band_layer_name: ['xxxxx_tc-springcereals_springcereals_2021-xx-xx_2021-xx-xx_classification'],
+  in_class_field_name: ['raster code'],
+  in_class_value: [100],
+  pixel_value: [46],
+  efg_names: ['Annual croplands'],
+  efg_codes: ['T7.1']
+};
+
+//vito_global_crop_2021
+var vito_global_crop_2021 = {
+  source_id: 341,
+  data_id_code: 'vito_global_crop_2021',
+  dataset_year: 2021,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.vito_global_crop_2021,
+  band_layer_name: ['xxxxx_tc-wintercereals_wintercereals_2021-xx-xx_2021-xx-xx_classification'],
+  in_class_field_name: ['raster code'],
+  in_class_value: [100],
+  pixel_value: [46],
+  efg_names: ['Annual croplands'],
+  efg_codes: ['T7.1']
+};
+
+//vito_global_crop_2021
+var vito_global_crop_2021 = {
+  source_id: 341,
+  data_id_code: 'vito_global_crop_2021',
+  dataset_year: 2021,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.vito_global_crop_2021,
+  band_layer_name: ['xxxxx_tc-annual_temporarycrops_2020-xx-xx_2021-xx-xx_classification', 'xxxxx_tc-maize-main_maize_2020-xx-xx_2021-xx-xx_classification', 'xxxxx_tc-springcereals_springcereals_2021-xx-xx_2021-xx-xx_classification', 'xxxxx_tc-wintercereals_wintercereals_2021-xx-xx_2021-xx-xx_classification'],
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code'],
+  in_class_value: [100, 100, 100, 100],
+  pixel_value: [46, 46, 46, 46],
+  efg_names: ['Annual croplands', 'Annual croplands', 'Annual croplands', 'Annual croplands'],
+  efg_codes: ['T7.1', 'T7.1', 'T7.1', 'T7.1']
+};
+
 //vito_global_lcov_2025
 var vito_global_lcov_2025 = {
   source_id: 396,
