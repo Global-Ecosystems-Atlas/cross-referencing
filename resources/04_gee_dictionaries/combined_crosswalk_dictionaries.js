@@ -2100,6 +2100,36 @@ var vito_global_lcov_2025 = {
   efg_codes: ['NA', 'NA', 'NA', 'NA', 'NA', 'T7.1', 'NA', 'NA', 'NA', 'NA', 'NA']
 };
 
+//wag_africa_luse_2024
+var wag_africa_luse_2024 = {
+  source_id: 428,
+  data_id_code: 'wag_africa_luse_2024',
+  dataset_year: null,
+  vector_raster: null,
+  ee_asset_id: repository.data_catalogue.wag_africa_luse_2024,
+  band_layer_name: ['NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA'],
+  in_class_field_name: ['NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA'],
+  in_class_value: [1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 5, 6, 7, 8, 9],
+  pixel_value: [255, 48, 255, 48, 48, 48, 48, 50, 255, 255, 255, 255, 48, 48, 255],
+  efg_names: ['Cross-referenced to 255 due to incompatible class descriptions', 'Plantations', 'Cross-referenced to 255 due to incompatible class descriptions', 'Plantations', 'Plantations', 'Plantations', 'Plantations', 'Derived semi-natural pastures and old fields', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Plantations', 'Plantations', 'Cross-referenced to 255 due to incompatible class descriptions'],
+  efg_codes: ['NA', 'T7.3', 'NA', 'T7.3', 'T7.3', 'T7.3', 'T7.3', 'T7.5', 'NA', 'NA', 'NA', 'NA', 'T7.3', 'T7.3', 'NA']
+};
+
+//wag_africa_luse_2024
+var wag_africa_luse_2024 = {
+  source_id: 428,
+  data_id_code: 'wag_africa_luse_2024',
+  dataset_year: null,
+  vector_raster: null,
+  ee_asset_id: repository.data_catalogue.wag_africa_luse_2024,
+  band_layer_name: ['NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA'],
+  in_class_field_name: ['NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA'],
+  in_class_value: [1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 5, 6, 7, 8, 9],
+  pixel_value: [255, 48, 255, 48, 48, 48, 48, 50, 255, 255, 255, 255, 48, 48, 255],
+  efg_names: ['Cross-referenced to 255 due to incompatible class descriptions', 'Plantations', 'Cross-referenced to 255 due to incompatible class descriptions', 'Plantations', 'Plantations', 'Plantations', 'Plantations', 'Derived semi-natural pastures and old fields', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Plantations', 'Plantations', 'Cross-referenced to 255 due to incompatible class descriptions'],
+  efg_codes: ['NA', 'T7.3', 'NA', 'T7.3', 'T7.3', 'T7.3', 'T7.3', 'T7.5', 'NA', 'NA', 'NA', 'NA', 'T7.3', 'T7.3', 'NA']
+};
+
 //wcs_mozam_eco_2021
 var wcs_mozam_eco_2021 = {
   source_id: 33,
