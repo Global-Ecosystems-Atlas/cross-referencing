@@ -630,6 +630,36 @@ var entc_eswatini_eco_2025 = {
   efg_codes: ['T7.3', 'T4.5', 'T7.1', 'T7.4', 'F3.1', 'F3.2', 'T1.2', 'T2.4', 'T4.1', 'T4.2']
 };
 
+//ethzurich_regionalafrica_plant_2023
+var ethzurich_regionalafrica_plant_2023 = {
+  source_id: 340,
+  data_id_code: 'ethzurich_regionalafrica_plant_2023',
+  dataset_year: 2021,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.ethzurich_regionalafrica_plant_2023,
+  band_layer_name: ['cocoa_map_threshold_065'],
+  in_class_field_name: ['b1'],
+  in_class_value: [1],
+  pixel_value: [48],
+  efg_names: ['Plantations'],
+  efg_codes: ['T7.3']
+};
+
+//ethzurich_regionalafrica_plant_2023
+var ethzurich_regionalafrica_plant_2023 = {
+  source_id: 340,
+  data_id_code: 'ethzurich_regionalafrica_plant_2023',
+  dataset_year: 2021,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.ethzurich_regionalafrica_plant_2023,
+  band_layer_name: ['cocoa_map_threshold_065'],
+  in_class_field_name: ['b1'],
+  in_class_value: [1],
+  pixel_value: [48],
+  efg_names: ['Plantations'],
+  efg_codes: ['T7.3']
+};
+
 //gbrmpa_aus_benth_2021
 var gbrmpa_aus_benth_2021 = {
   source_id: 153,
