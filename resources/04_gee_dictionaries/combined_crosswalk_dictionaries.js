@@ -2164,8 +2164,8 @@ var vito_global_lcov_2025 = {
 var wag_africa_luse_2024 = {
   source_id: 428,
   data_id_code: 'wag_africa_luse_2024',
-  dataset_year: null,
-  vector_raster: null,
+  dataset_year: 2020,
+  vector_raster: 'Raster',
   ee_asset_id: repository.data_catalogue.wag_africa_luse_2024,
   band_layer_name: ['NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA'],
   in_class_field_name: ['NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA'],
@@ -2179,8 +2179,8 @@ var wag_africa_luse_2024 = {
 var wag_africa_luse_2024 = {
   source_id: 428,
   data_id_code: 'wag_africa_luse_2024',
-  dataset_year: null,
-  vector_raster: null,
+  dataset_year: 2020,
+  vector_raster: 'Raster',
   ee_asset_id: repository.data_catalogue.wag_africa_luse_2024,
   band_layer_name: ['NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA'],
   in_class_field_name: ['NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA'],
