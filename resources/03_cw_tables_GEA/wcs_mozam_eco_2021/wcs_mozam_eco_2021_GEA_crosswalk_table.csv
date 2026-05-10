@@ -70,6 +70,7 @@ crossref_date,crossref_by,GET_vsn,Source_ID,data_id_code,band_layer_name,in_clas
 28/08/2024 0:00,WCS_team,2.1,33,wcs_mozam_eco_2021,Current_vegetation_map_of_Mozambique,eco_class,160,Zambezian Papyrus Wetland,NA,TF1.4,Seasonal floodplain marshes,TF1.4 Seasonal floodplain marshes,73
 28/08/2024 0:00,WCS_team,2.1,33,wcs_mozam_eco_2021,Current_vegetation_map_of_Mozambique,eco_class,161,Zambezian Sand Thicket,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
 28/08/2024 0:00,WCS_team,2.1,33,wcs_mozam_eco_2021,Current_vegetation_map_of_Mozambique,eco_class,162,Zumbo Montane Miombo,NA,T4.2,Pyric tussock savannas,T4.2 Pyric tussock savannas,23
+28/08/2024 0:00,WCS_team,2.1,33,wcs_mozam_eco_2021,Current_vegetation_map_of_Mozambique,eco_class,163,Lake Niassa,NA,F2.1,Large permanent freshwater lakes,F2.1 Large permanent freshwater lakes,92
 28/08/2024 0:00,WCS_team,2.1,33,wcs_mozam_eco_2021,Current_vegetation_map_of_Mozambique,eco_class,17,Cheringoma Coastal Moist Miombo,NA,T4.2,Pyric tussock savannas,T4.2 Pyric tussock savannas,23
 28/08/2024 0:00,WCS_team,2.1,33,wcs_mozam_eco_2021,Current_vegetation_map_of_Mozambique,eco_class,18,Cheringoma Coastal Palm Savanna,NA,T4.2,Pyric tussock savannas,T4.2 Pyric tussock savannas,23
 28/08/2024 0:00,WCS_team,2.1,33,wcs_mozam_eco_2021,Current_vegetation_map_of_Mozambique,eco_class,19,Cheringoma Escarpment Moist Miombo,NA,T4.2,Pyric tussock savannas,T4.2 Pyric tussock savannas,23
