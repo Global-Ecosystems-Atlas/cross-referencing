@@ -9,7 +9,7 @@ on:
 jobs:
   run_cross_referencing_pipeline:
     runs-on: ubuntu-latest
-    environment: dev
+    environment: prod
     
     # 1. RUN THE ENTIRE JOB INSIDE THE ROCKER CONTAINER
     container: rocker/tidyverse:latest
