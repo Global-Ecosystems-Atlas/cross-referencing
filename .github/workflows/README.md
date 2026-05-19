@@ -9,3 +9,9 @@ The cross-referencing pipeline does the following:
 - Runs the script `code/generate_gee_dictionaries.R` to update the file `resources/04_gee_dictionaries/combined_crosswalk_dictionaries.js` with the membership matrices present in `resources/03_cw_tables_GEA`.
 
 For the pipeline to run correctly, an environment secret named `GOOGLE_SERVICE_ACCOUNT_JSON` must be created for GitHub Actions. It must contain the JSON credentials that allow the Google Service Account to connect to the **Sources database** Google Sheet.
+
+# Cross- Referncing Summary
+
+- Automatically triggered after a successful run of the `cross-referencing pipeline`
+
+- Looks at changes in `resources/03_cw_tables_GEA` and generates updates the `README.md` in that folder.
