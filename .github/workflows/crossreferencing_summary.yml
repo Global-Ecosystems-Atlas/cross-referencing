@@ -1,0 +1,84 @@
+name: Cross-Referencing Summary
+
+on:
+  workflow_run:
+    workflows: ["Cross-Referencing Pipeline"]
+    types:
+      - completed
+
+permissions:
+  contents: write
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_branch }}
+          fetch-depth: 0 
+
+      - name: Analyze changes and generate summary
+        run: |
+          LATEST_AUTHOR=$(git log -1 --format="%an")
+          
+          if [ "$LATEST_AUTHOR" = "github-actions[bot]" ] || [ "$LATEST_AUTHOR" = "github-actions" ]; then
+            COMMIT_SHA=$(git rev-parse HEAD)
+            
+            TARGET_DIR="resources/03_cw_tables_GEA/"
+            IGNORE_DIR="01_crosswalk_changes"
+            
+            # ADDED || true to prevent grep from crashing the script if it finds no files
+            ADDED_FILES=$(git diff-tree --no-commit-id --name-status -r $COMMIT_SHA -- "$TARGET_DIR" | awk '$1 == "A" {print $2}' | grep -v "$IGNORE_DIR" || true)
+            MODIFIED_FILES=$(git diff-tree --no-commit-id --name-status -r $COMMIT_SHA -- "$TARGET_DIR" | awk '$1 == "M" {print $2}' | grep -v "$IGNORE_DIR" || true)
+          else
+            ADDED_FILES=""
+            MODIFIED_FILES=""
+          fi
+
+          NEW_FOLDERS=$(echo "$ADDED_FILES" | grep -v '^$' | xargs -I {} dirname {} | sort -u | grep -v '^\.$' | sed 's/^/- /' || true)
+          MODIFIED_FOLDERS=$(echo "$MODIFIED_FILES" | grep -v '^$' | xargs -I {} dirname {} | sort -u | grep -v '^\.$' | sed 's/^/- /' || true)
+
+          if [ -z "$NEW_FOLDERS" ]; then NEW_FOLDERS="no new folders"; fi
+          if [ -z "$MODIFIED_FOLDERS" ]; then MODIFIED_FOLDERS="no changes made"; fi
+
+          RUN_DATE=$(TZ='Australia/Brisbane' date +'%Y-%m-%d %I:%M %p AEST')
+          RUN_NO=${{ github.event.workflow_run.run_number }}
+
+          cat <<EOF > new_entry.md
+          ### Cross referencing pipeline run no. $RUN_NO on $RUN_DATE
+          
+          **Changes made**
+          $MODIFIED_FOLDERS
+          
+          **New folders created**
+          $NEW_FOLDERS
+          
+          ---
+          
+          EOF
+
+          # FLIP LOGIC: Add the new changes to the TOP of the README
+          README_PATH="resources/03_cw_tables_GEA/01_crosswalk_changes/README.md"
+          
+          if [ -f "$README_PATH" ]; then
+            cat new_entry.md "$README_PATH" > temp_readme.md
+            mv temp_readme.md "$README_PATH"
+          else
+            mkdir -p "$(dirname "$README_PATH")"
+            mv new_entry.md "$README_PATH"
+          fi
+
+      - name: Commit and push updated README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add resources/03_cw_tables_GEA/01_crosswalk_changes/README.md
+          git status
+          
+          git diff --cached --quiet || git commit -m "docs: prepend run ${{ github.event.workflow_run.run_number }} summary to top of README"
+          git push origin HEAD
