@@ -10,7 +10,7 @@ The cross-referencing pipeline does the following:
 
 For the pipeline to run correctly, an environment secret named `GOOGLE_SERVICE_ACCOUNT_JSON` must be created for GitHub Actions. It must contain the JSON credentials that allow the Google Service Account to connect to the **Sources database** Google Sheet.
 
-# Cross- Referncing Summary
+# Cross-Referencing Summary
 
 - Automatically triggered after a successful run of the `cross-referencing pipeline`
 
