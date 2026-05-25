@@ -235,9 +235,9 @@ var cdv_global_palm_2024 = {
   band_layer_name: ['GlobalOilPalm_OP-extent_xxxxx', 'GlobalOilPalm_OP-extent_xxxxx', 'GlobalOilPalm_OP-extent_xxxxx'],
   in_class_field_name: ['raster code', 'raster code', 'raster code'],
   in_class_value: [0, 1, 2],
-  pixel_value: [255, 48, 48],
-  efg_names: ['Cross-referenced to 255 due to incompatible class descriptions', 'Plantations', 'Plantations'],
-  efg_codes: ['NA', 'T7.3', 'T7.3']
+  pixel_value: [0, 48, 48],
+  efg_names: ['No Data', 'Plantations', 'Plantations'],
+  efg_codes: ['0', 'T7.3', 'T7.3']
 };
 
 //cdv_global_palm_2024
@@ -250,9 +250,9 @@ var cdv_global_palm_2024 = {
   band_layer_name: ['GlobalOilPalm_OP-extent_xxxxx', 'GlobalOilPalm_OP-extent_xxxxx', 'GlobalOilPalm_OP-extent_xxxxx'],
   in_class_field_name: ['raster code', 'raster code', 'raster code'],
   in_class_value: [0, 1, 2],
-  pixel_value: [255, 48, 48],
-  efg_names: ['Cross-referenced to 255 due to incompatible class descriptions', 'Plantations', 'Plantations'],
-  efg_codes: ['NA', 'T7.3', 'T7.3']
+  pixel_value: [0, 48, 48],
+  efg_names: ['No Data', 'Plantations', 'Plantations'],
+  efg_codes: ['0', 'T7.3', 'T7.3']
 };
 
 //creaf_global_plantation_2023
@@ -265,9 +265,9 @@ var creaf_global_plantation_2023 = {
   band_layer_name: ['GCL_2020_xxxxx', 'GCL_2020_xxxxx'],
   in_class_field_name: ['raster code', 'raster code'],
   in_class_value: [0, 1],
-  pixel_value: [255, 48],
-  efg_names: ['Cross-referenced to 255 due to incompatible class descriptions', 'Plantations'],
-  efg_codes: ['NA', 'T7.3']
+  pixel_value: [0, 48],
+  efg_names: ['No Data', 'Plantations'],
+  efg_codes: ['0', 'T7.3']
 };
 
 //creaf_global_plantation_2023
@@ -280,9 +280,9 @@ var creaf_global_plantation_2023 = {
   band_layer_name: ['GCL_2020_xxxxx', 'GCL_2020_xxxxx'],
   in_class_field_name: ['raster code', 'raster code'],
   in_class_value: [0, 1],
-  pixel_value: [255, 48],
-  efg_names: ['Cross-referenced to 255 due to incompatible class descriptions', 'Plantations'],
-  efg_codes: ['NA', 'T7.3']
+  pixel_value: [0, 48],
+  efg_names: ['No Data', 'Plantations'],
+  efg_codes: ['0', 'T7.3']
 };
 
 //cu_global_lcov_2024
@@ -2140,9 +2140,9 @@ var vito_global_lcov_2025 = {
   band_layer_name: ['LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP'],
   in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
   in_class_value: [10, 100, 110, 20, 30, 40, 50, 60, 70, 80, 90],
-  pixel_value: [255, 255, 255, 255, 255, 46, 255, 255, 255, 255, 255],
-  efg_names: ['Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Annual croplands', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions'],
-  efg_codes: ['NA', 'NA', 'NA', 'NA', 'NA', 'T7.1', 'NA', 'NA', 'NA', 'NA', 'NA']
+  pixel_value: [0, 0, 0, 0, 0, 46, 0, 0, 0, 0, 0],
+  efg_names: ['No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Annual croplands', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data'],
+  efg_codes: ['0', '0', '0', '0', '0', 'T7.1', '0', '0', '0', '0', '0']
 };
 
 //vito_global_lcov_2025
@@ -2155,9 +2155,9 @@ var vito_global_lcov_2025 = {
   band_layer_name: ['LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP', 'LCFM_LCM-10_V100_2020_xxxxxxx_MAP'],
   in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
   in_class_value: [10, 100, 110, 20, 30, 40, 50, 60, 70, 80, 90],
-  pixel_value: [255, 255, 255, 255, 255, 46, 255, 255, 255, 255, 255],
-  efg_names: ['Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Annual croplands', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions'],
-  efg_codes: ['NA', 'NA', 'NA', 'NA', 'NA', 'T7.1', 'NA', 'NA', 'NA', 'NA', 'NA']
+  pixel_value: [0, 0, 0, 0, 0, 46, 0, 0, 0, 0, 0],
+  efg_names: ['No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Annual croplands', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data'],
+  efg_codes: ['0', '0', '0', '0', '0', 'T7.1', '0', '0', '0', '0', '0']
 };
 
 //wag_africa_luse_2024
@@ -2170,9 +2170,9 @@ var wag_africa_luse_2024 = {
   band_layer_name: ['LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af'],
   in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
   in_class_value: [1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 5, 6, 7, 8, 9],
-  pixel_value: [255, 48, 255, 48, 48, 48, 48, 50, 255, 255, 255, 255, 48, 48, 255],
-  efg_names: ['Cross-referenced to 255 due to incompatible class descriptions', 'Plantations', 'Cross-referenced to 255 due to incompatible class descriptions', 'Plantations', 'Plantations', 'Plantations', 'Plantations', 'Derived semi-natural pastures and old fields', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Plantations', 'Plantations', 'Cross-referenced to 255 due to incompatible class descriptions'],
-  efg_codes: ['NA', 'T7.3', 'NA', 'T7.3', 'T7.3', 'T7.3', 'T7.3', 'T7.5', 'NA', 'NA', 'NA', 'NA', 'T7.3', 'T7.3', 'NA']
+  pixel_value: [0, 48, 0, 48, 48, 48, 48, 50, 0, 0, 49, 0, 48, 48, 49],
+  efg_names: ['No Data', 'Plantations', 'No Data', 'Plantations', 'Plantations', 'Plantations', 'Plantations', 'Derived semi-natural pastures and old fields', 'No Data', 'No Data', 'Urban and industrial ecosystems', 'No Data', 'Plantations', 'Plantations', 'Urban and industrial ecosystems'],
+  efg_codes: ['0', 'T7.3', '0', 'T7.3', 'T7.3', 'T7.3', 'T7.3', 'T7.5', '0', '0', 'T7.4', '0', 'T7.3', 'T7.3', 'T7.4']
 };
 
 //wag_africa_luse_2024
@@ -2200,9 +2200,9 @@ var wag_africa_luse_2024 = {
   band_layer_name: ['LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af', 'LandUseFollowingDeforestation_dl_30m_20010101_20201231_af'],
   in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
   in_class_value: [1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 5, 6, 7, 8, 9],
-  pixel_value: [255, 48, 255, 48, 48, 48, 48, 50, 255, 255, 255, 255, 48, 48, 255],
-  efg_names: ['Cross-referenced to 255 due to incompatible class descriptions', 'Plantations', 'Cross-referenced to 255 due to incompatible class descriptions', 'Plantations', 'Plantations', 'Plantations', 'Plantations', 'Derived semi-natural pastures and old fields', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Plantations', 'Plantations', 'Cross-referenced to 255 due to incompatible class descriptions'],
-  efg_codes: ['NA', 'T7.3', 'NA', 'T7.3', 'T7.3', 'T7.3', 'T7.3', 'T7.5', 'NA', 'NA', 'NA', 'NA', 'T7.3', 'T7.3', 'NA']
+  pixel_value: [0, 48, 0, 48, 48, 48, 48, 50, 0, 0, 49, 0, 48, 48, 49],
+  efg_names: ['No Data', 'Plantations', 'No Data', 'Plantations', 'Plantations', 'Plantations', 'Plantations', 'Derived semi-natural pastures and old fields', 'No Data', 'No Data', 'Urban and industrial ecosystems', 'No Data', 'Plantations', 'Plantations', 'Urban and industrial ecosystems'],
+  efg_codes: ['0', 'T7.3', '0', 'T7.3', 'T7.3', 'T7.3', 'T7.3', 'T7.5', '0', '0', 'T7.4', '0', 'T7.3', 'T7.3', 'T7.4']
 };
 
 //wcs_mozam_eco_2021
@@ -2275,9 +2275,9 @@ var wrig_global_lcov_2022 = {
   band_layer_name: ['built area', 'built area', 'built area', 'built area', 'built area', 'built area', 'built area', 'built area', 'built area'],
   in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
   in_class_value: [0, 1, 2, 3, 4, 5, 6, 7, 8],
-  pixel_value: [255, 255, 255, 255, 255, 255, 49, 255, 255],
-  efg_names: ['Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Urban and industrial ecosystems', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions'],
-  efg_codes: ['NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'T7.4', 'NA', 'NA']
+  pixel_value: [0, 0, 0, 0, 0, 0, 49, 0, 0],
+  efg_names: ['No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Urban and industrial ecosystems', 'No Data', 'No Data'],
+  efg_codes: ['0', '0', '0', '0', '0', '0', 'T7.4', '0', '0']
 };
 
 //NA
@@ -2302,12 +2302,12 @@ var wrig_global_lcov_2022 = {
   dataset_year: 2026,
   vector_raster: 'Raster',
   ee_asset_id: repository.data_catalogue.wrig_global_lcov_2022,
-  band_layer_name: ['built area', 'built area', 'built area', 'built area', 'built area', 'built area', 'built area', 'built area', 'built area', 'NA'],
-  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'NA'],
-  in_class_value: [0, 1, 2, 3, 4, 5, 6, 7, 8, NA],
-  pixel_value: [255, 255, 255, 255, 255, 255, 49, 255, 255, 255],
-  efg_names: ['Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'Urban and industrial ecosystems', 'Cross-referenced to 255 due to incompatible class descriptions', 'Cross-referenced to 255 due to incompatible class descriptions', 'No Data'],
-  efg_codes: ['NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'T7.4', 'NA', 'NA', 'NA']
+  band_layer_name: ['built area', 'built area', 'built area', 'built area', 'built area', 'built area', 'built area', 'built area', 'built area'],
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
+  in_class_value: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+  pixel_value: [0, 0, 0, 0, 0, 0, 49, 0, 0],
+  efg_names: ['No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Urban and industrial ecosystems', 'No Data', 'No Data'],
+  efg_codes: ['0', '0', '0', '0', '0', '0', 'T7.4', '0', '0']
 };
 
 //wuhan_tibet_lcov_2024
