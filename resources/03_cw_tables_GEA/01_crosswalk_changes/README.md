@@ -1,3 +1,22 @@
+### Cross referencing pipeline run no. 56 on 2026-05-25 11:08 AM AEST
+
+**Changes made**
+- resources/03_cw_tables_GEA/cdv_global_palm_2024
+- resources/03_cw_tables_GEA/cdv_global_palm_2024/per_band_layer_name
+- resources/03_cw_tables_GEA/creaf_global_plantation_2023
+- resources/03_cw_tables_GEA/creaf_global_plantation_2023/per_band_layer_name
+- resources/03_cw_tables_GEA/vito_global_lcov_2025
+- resources/03_cw_tables_GEA/vito_global_lcov_2025/per_band_layer_name
+- resources/03_cw_tables_GEA/wag_africa_luse_2024
+- resources/03_cw_tables_GEA/wag_africa_luse_2024/per_band_layer_name
+- resources/03_cw_tables_GEA/wrig_global_lcov_2022
+- resources/03_cw_tables_GEA/wrig_global_lcov_2022/per_band_layer_name
+
+**New folders created**
+no new folders
+
+---
+
 ### Cross referencing pipeline run no. 55 on 2026-05-21 09:58 AM AEST
 
 **Changes made**
