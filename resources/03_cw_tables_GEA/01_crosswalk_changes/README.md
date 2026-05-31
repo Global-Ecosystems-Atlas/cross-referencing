@@ -1,3 +1,13 @@
+### Cross referencing pipeline run no. 58 on 2026-06-01 09:26 AM AEST
+
+**Changes made**
+- resources/03_cw_tables_GEA/usgeo_usa_eco_2025
+
+**New folders created**
+- resources/03_cw_tables_GEA/usgeo_usa_eco_2025/per_band_layer_name
+
+---
+
 ### Cross referencing pipeline run no. 57 on 2026-06-01 09:16 AM AEST
 
 **Changes made**
