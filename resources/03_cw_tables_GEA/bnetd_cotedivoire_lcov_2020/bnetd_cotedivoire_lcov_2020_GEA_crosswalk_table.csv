@@ -21,7 +21,7 @@ These crops are short-cycle and long-cycle annuals (rice, yam, maize, cassava, p
 
 Note: These cultivated areas are identifiable plots on satellite images by their sometimes regular geometric shape.
 Bare agricultural soil, rainfed rice cultivation, yam, maize, cassava, other cereals (millet, fonio, sorghum), pineapple plantations, sugarcane, cotton plantations, post-cultivation grass regrowth, agricultural marshland, rice paddies, etc.",NA,Cross-referenced to 255 due to incompatible class descriptions,No Data (data exists in source maps but cross-referenced to no data due to incompatible class descriptions),255
-27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,16,Wooded savannah,"Savanna on well-drained soil with a tree layer (5-20 m tall; 10-30% canopy cover); a shrub layer (2-5 m tall; less than 50% canopy cover); and a dense, continuous herbaceous layer at least 80 cm high.",NA,No Data,NA No Data,255
+27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,16,Wooded savannah,"Savanna on well-drained soil with a tree layer (5-20 m tall; 10-30% canopy cover); a shrub layer (2-5 m tall; less than 50% canopy cover); and a dense, continuous herbaceous layer at least 80 cm high.",T4.1,Trophic savannas,T4.1 Trophic savannas,22
 27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,ocs2020,raster code,17,Shrub formations/Thickets,"Vegetation formation consisting of shrubs, less than 5m in height, scattered over a continuous herbaceous layer; and having:
 - a shrub layer with at least 50% cover;
 - a herbaceous layer with 10 to 100% cover;

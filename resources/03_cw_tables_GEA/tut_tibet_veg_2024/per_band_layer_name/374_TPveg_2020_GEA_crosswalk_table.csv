@@ -3,8 +3,8 @@ crossref_date,crossref_by,GET_vsn,Source_ID,data_id_code,band_layer_name,in_clas
 30-Mar-26,Tess_Harmer,2.1,374,tut_tibet_veg_2024,TPveg_2020,NA,10,alpine vegetation,NA,T6.4,Temperate alpine grasslands and shrublands,T6.4 Temperate alpine grasslands and shrublands,41
 30-Mar-26,Tess_Harmer,2.1,374,tut_tibet_veg_2024,TPveg_2020,NA,11,alpine desert,NA,T5.4,Cool deserts and semi-deserts,T5.4 Cool deserts and semi-deserts,33
 30-Mar-26,Tess_Harmer,2.1,374,tut_tibet_veg_2024,TPveg_2020,NA,12,cultivated vegetation,NA,NA,Cross-referenced to 255 due to incompatible class descriptions,No Data (data exists in source maps but cross-referenced to no data due to incompatible class descriptions),255
-30-Mar-26,Tess_Harmer,2.1,374,tut_tibet_veg_2024,TPveg_2020,NA,13,wetland,NA,NA,No Data,NA No Data,255
-30-Mar-26,Tess_Harmer,2.1,374,tut_tibet_veg_2024,TPveg_2020,NA,14,water,NA,NA,No Data,NA No Data,255
+30-Mar-26,Tess_Harmer,2.1,374,tut_tibet_veg_2024,TPveg_2020,NA,13,wetland,NA,TF1.4,Seasonal floodplain marshes,TF1.4 Seasonal floodplain marshes,73
+30-Mar-26,Tess_Harmer,2.1,374,tut_tibet_veg_2024,TPveg_2020,NA,14,water,NA,F2.4,Freeze-thaw freshwater lakes,F2.4 Freeze-thaw freshwater lakes,95
 30-Mar-26,Tess_Harmer,2.1,374,tut_tibet_veg_2024,TPveg_2020,NA,15,permanent snow/ice,NA,T6.1,"Ice sheets, glaciers and perennial snowfields","T6.1 Ice sheets, glaciers and perennial snowfields",38
 30-Mar-26,Tess_Harmer,2.1,374,tut_tibet_veg_2024,TPveg_2020,NA,16,non-vegetated area,NA,NA,Cross-referenced to 255 due to incompatible class descriptions,No Data (data exists in source maps but cross-referenced to no data due to incompatible class descriptions),255
 30-Mar-26,Tess_Harmer,2.1,374,tut_tibet_veg_2024,TPveg_2020,NA,2,evergreen coniferous forest,NA,T2.1,Boreal and temperate high montane forests and woodlands,T2.1 Boreal and temperate high montane forests and woodlands,7
