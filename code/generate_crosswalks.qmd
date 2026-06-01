@@ -67,6 +67,7 @@ efg_pixelvalues <- read_csv( "https://raw.githubusercontent.com/Global-Ecosystem
 efg_codes <- efg_pixelvalues |>
   pull(efg_code) |> 
   unique()
+efg_pixelvalues |> count(efg_code) |> filter(n > 1)
 ```
 
 
@@ -109,55 +110,25 @@ dat <- read_csv(file_path, show_col_types = FALSE) |>
       values_to = "membership"
     )
   
-  # Split into majority and no-majority cases
-  dat_majority <- dat_long |>
-    filter(!is.na(membership), membership > membership_threshold)
   
-  dat_no_majority <- dat_long |>
-    group_by(
-      crossref_date,
-      crossref_by,
-      GET_vsn,
-      Source_ID,
-      data_id_code,
-      band_layer_name,
-      in_class_field_name,
-      in_class_value,
-      in_class_description,
-      in_class_description_detail
-    ) |>
-    summarise(
-      has_majority = any(membership > membership_threshold, na.rm = TRUE),
-      .groups = "drop"
-    ) |>
-    filter(!has_majority) |>
-    mutate(
-      efg_code   = NA_character_,
-      membership = NA_real_
-    )
-  
-  # Combine
-  dat_out <- bind_rows(
-    dat_majority,
-    dat_no_majority
+dat_out <- dat_long |> 
+  group_by(data_id_code, band_layer_name, in_class_value) |> 
+  # filter to top membership score. Needs to handle sub-0.5 scores, full NA assignment and true "No data"
+  filter(membership >= membership_threshold | membership == max(membership, na.rm = TRUE) | all(is.na(membership))) |> 
+  slice_head(n = 1) |> 
+  ungroup() |> 
+  # If  winning candidate failed threshold, assign "NA" for efg_code
+  mutate(
+    efg_code = if_else(membership < membership_threshold | is.na(membership), "NA", efg_code),
+    membership = if_else(efg_code == "NA", NA_real_, membership)
   )
+
+  
+  
   
   # Join with metadata (will yield NA for EFG fields)
   dat_out <- dat_out |>
     left_join(efg_pixelvalues, by = "efg_code") |>
-    mutate(
-      pixel_value = if_else(is.na(efg_code), 255L, pixel_value),
-      efg_name = if_else(
-        is.na(efg_code),
-        "No Data",
-        efg_name
-      ),
-      efg_description = if_else(
-        is.na(efg_code),
-        "NA No Data",
-        efg_description
-      )
-    )  |>
     select(
       crossref_date,
       crossref_by,
