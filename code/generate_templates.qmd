@@ -115,7 +115,7 @@ if (length(unique(efg_codes)) != length(efg_codes)) {
 # desired column order
 front_cols <- c(
   "crossref_date", "crossref_by", "GET_vsn",
-  "Source_ID", "data_id_code", "band_layer_name",
+  "Source_ID", "data_id_code", "layer_name",
   "in_class_field_name", "in_class_value",
   "in_class_description", "in_class_description_detail"
 )
@@ -143,12 +143,12 @@ make_dataset_template <- function(df_subset) {
   # For each band, create a block of n rows
   band_blocks <- df_subset %>%
     mutate(
-      .n_rows = map_int(n_map_classes, ~ safe_int(.x, data_id = data_id, band = band_layer_name))
+      .n_rows = map_int(n_map_classes, ~ safe_int(.x, data_id = data_id, band = layer_name))
     ) %>%
     # iterate rows to make per-band tibble
     pmap(function(Source_ID, data_id_code, license = NULL, get_alignment_firspass = NULL,
                   stage_1_pass = NULL, analyst_id = NULL, documentation_provided = NULL,
-                  documentation_score = NULL, band_layer_name, year_start = NULL, year_end = NULL,
+                  documentation_score = NULL, layer_name, year_start = NULL, year_end = NULL,
                   n_map_classes = NULL, .n_rows, ...) {
       n <- as.integer(.n_rows)
       
@@ -158,7 +158,7 @@ make_dataset_template <- function(df_subset) {
         crossref_by = "",
         Source_ID = as.character(Source_ID %||% source_id),
         data_id_code = as.character(data_id_code),
-        band_layer_name = as.character(band_layer_name),
+        layer_name = as.character(layer_name),
         in_class_field_name = "",
         in_class_value = "",
         in_class_description = "",
