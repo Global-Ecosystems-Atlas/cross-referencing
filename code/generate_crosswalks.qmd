@@ -94,7 +94,7 @@ dat <- read_csv(file_path, show_col_types = FALSE) |>
     crossref_date               = as.character(crossref_date),
     crossref_by                 = as.character(crossref_by),
     data_id_code                = as.character(data_id_code),
-    band_layer_name             = as.character(band_layer_name),
+    layer_name             = as.character(layer_name),
     in_class_field_name         = as.character(in_class_field_name),
     in_class_value              = as.character(in_class_value),
     in_class_description        = as.character(in_class_description),
@@ -112,7 +112,7 @@ dat <- read_csv(file_path, show_col_types = FALSE) |>
   
   
 dat_out <- dat_long |> 
-  group_by(data_id_code, band_layer_name, in_class_value) |> 
+  group_by(data_id_code, layer_name, in_class_value) |> 
   # filter to top membership score. Needs to handle sub-0.5 scores, full NA assignment and true "No data"
   filter(membership >= membership_threshold | membership == max(membership, na.rm = TRUE) | all(is.na(membership))) |> 
   slice_head(n = 1) |> 
@@ -135,7 +135,7 @@ dat_out <- dat_long |>
       GET_vsn,
       Source_ID,
       data_id_code,
-      band_layer_name,
+      layer_name,
       in_class_field_name,
       in_class_value,
       in_class_description,
@@ -145,7 +145,7 @@ dat_out <- dat_long |>
       efg_description,
       pixel_value
     ) |>
-    arrange(data_id_code, band_layer_name, in_class_value)
+    arrange(data_id_code, layer_name, in_class_value)
   
   
   
@@ -158,15 +158,15 @@ dat_out <- dat_long |>
   write_csv(dat_out, save_path)
   
   
-  # Create one csv file per band layer in the sub-folder 'per_band_layer_name'
-  split_dir <- path(sub_dir, "per_band_layer_name")
+  # Create one csv file per band layer in the sub-folder 'per_layer_name'
+  split_dir <- path(sub_dir, "per_layer_name")
   dir_create(split_dir)
   
   dat_out |>
-    group_split(band_layer_name) |>
+    group_split(layer_name) |>
     walk(function(df) {
 
-      split_filename <- glue::glue("{df$Source_ID[1]}_{df$band_layer_name[1]}_GEA_crosswalk_table.csv")
+      split_filename <- glue::glue("{df$Source_ID[1]}_{df$layer_name[1]}_GEA_crosswalk_table.csv")
       split_save_path <- path(split_dir, split_filename)
       
       write_csv(df, split_save_path)
