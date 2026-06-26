@@ -1,3 +1,14 @@
+### Cross referencing pipeline run no. 72 on 2026-06-26 03:16 PM AEST
+
+**Changes made**
+no changes made
+
+**New folders created**
+- resources/03_cw_tables_GEA/cuni_global_tcrop_2026
+- resources/03_cw_tables_GEA/cuni_global_tcrop_2026/per_layer_name
+
+---
+
 ### Cross referencing pipeline run no. 71 on 2026-06-26 03:07 PM AEST
 
 **Changes made**
