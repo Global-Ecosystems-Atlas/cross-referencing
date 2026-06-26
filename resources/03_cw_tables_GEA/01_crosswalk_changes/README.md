@@ -1,3 +1,14 @@
+### Cross referencing pipeline run no. 70 on 2026-06-26 02:49 PM AEST
+
+**Changes made**
+no changes made
+
+**New folders created**
+- resources/03_cw_tables_GEA/goog_global_forest_2026
+- resources/03_cw_tables_GEA/goog_global_forest_2026/per_layer_name
+
+---
+
 ### Cross referencing pipeline run no. 69 on 2026-06-22 11:34 AM AEST
 
 **Changes made**
