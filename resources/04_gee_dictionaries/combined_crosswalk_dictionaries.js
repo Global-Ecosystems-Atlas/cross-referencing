@@ -960,6 +960,36 @@ var cu_global_lcov_2024 = {
   efg_codes: ['MFT1.2', 'NA', 'F3.4', 'NA', 'NA', '0']
 };
 
+//cuni_global_tcrop_2026
+var cuni_global_tcrop_2026 = {
+  source_id: 432,
+  data_id_code: 'cuni_global_tcrop_2026',
+  dataset_year: 2020,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.cuni_global_tcrop_2026,
+  band_layer_name: [''],
+  in_class_field_name: ['raster code', 'raster code', 'raster code'],
+  in_class_value: [0, 1, 2],
+  pixel_value: [0, 0, 48],
+  efg_names: ['No Data', 'No Data', 'Plantations'],
+  efg_codes: ['0', '0', 'T7.3']
+};
+
+//cuni_global_tcrop_2026
+var cuni_global_tcrop_2026 = {
+  source_id: 432,
+  data_id_code: 'cuni_global_tcrop_2026',
+  dataset_year: 2020,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.cuni_global_tcrop_2026,
+  band_layer_name: [''],
+  in_class_field_name: ['raster code', 'raster code', 'raster code'],
+  in_class_value: [0, 1, 2],
+  pixel_value: [0, 0, 48],
+  efg_names: ['No Data', 'No Data', 'Plantations'],
+  efg_codes: ['0', '0', 'T7.3']
+};
+
 //des_qld_veg_2021
 var des_qld_veg_2021 = {
   source_id: 8,
@@ -1363,6 +1393,36 @@ var gmw_global_mangrove_2022 = {
   pixel_value: [169],
   efg_names: ['Intertidal forests and shrublands'],
   efg_codes: ['MFT1.2']
+};
+
+//goog_global_forest_2026
+var goog_global_forest_2026 = {
+  source_id: 433,
+  data_id_code: 'goog_global_forest_2026',
+  dataset_year: 2020,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.goog_global_forest_2026,
+  band_layer_name: [''],
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
+  in_class_value: [1, 2, 3, 4, 5, 6],
+  pixel_value: [0, 0, 48, 48, 48, 0],
+  efg_names: ['No Data', 'No Data', 'Plantations', 'Plantations', 'Plantations', 'No Data'],
+  efg_codes: ['0', '0', 'T7.3', 'T7.3', 'T7.3', '0']
+};
+
+//goog_global_forest_2026
+var goog_global_forest_2026 = {
+  source_id: 433,
+  data_id_code: 'goog_global_forest_2026',
+  dataset_year: 2020,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.goog_global_forest_2026,
+  band_layer_name: [''],
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
+  in_class_value: [1, 2, 3, 4, 5, 6],
+  pixel_value: [0, 0, 48, 48, 48, 0],
+  efg_names: ['No Data', 'No Data', 'Plantations', 'Plantations', 'Plantations', 'No Data'],
+  efg_codes: ['0', '0', 'T7.3', 'T7.3', 'T7.3', '0']
 };
 
 //ibge_brazil_veg_2021
