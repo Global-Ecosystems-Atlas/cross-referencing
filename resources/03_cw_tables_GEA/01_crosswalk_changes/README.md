@@ -1,3 +1,14 @@
+### Cross referencing pipeline run no. 73 on 2026-07-01 09:32 AM AEST
+
+**Changes made**
+no changes made
+
+**New folders created**
+- resources/03_cw_tables_GEA/nsidc_global_glacier_2023
+- resources/03_cw_tables_GEA/nsidc_global_glacier_2023/per_layer_name
+
+---
+
 ### Cross referencing pipeline run no. 72 on 2026-06-26 03:16 PM AEST
 
 **Changes made**
