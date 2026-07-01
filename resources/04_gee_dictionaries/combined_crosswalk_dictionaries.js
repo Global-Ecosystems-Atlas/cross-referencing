@@ -3788,11 +3788,11 @@ var wrig_global_lcov_2022 = {
   vector_raster: 'Raster',
   ee_asset_id: repository.data_catalogue.wrig_global_lcov_2022,
   band_layer_name: [''],
-  in_class_field_name: ['raster code', 'NA'],
-  in_class_value: [6, NA],
-  pixel_value: [49, 255],
-  efg_names: ['Urban and industrial ecosystems', 'Cross-referenced to 255 due to incompatible class descriptions'],
-  efg_codes: ['T7.4', 'NA']
+  in_class_field_name: ['raster code'],
+  in_class_value: [6],
+  pixel_value: [49],
+  efg_names: ['Urban and industrial ecosystems'],
+  efg_codes: ['T7.4']
 };
 
 //wuhan_tibet_lcov_2024
