@@ -1,3 +1,13 @@
+### Cross referencing pipeline run no. 76 on 2026-07-01 11:37 AM AEST
+
+**Changes made**
+- resources/03_cw_tables_GEA/wrig_global_lcov_2022
+
+**New folders created**
+no new folders
+
+---
+
 ### Cross referencing pipeline run no. 75 on 2026-07-01 11:29 AM AEST
 
 **Changes made**
