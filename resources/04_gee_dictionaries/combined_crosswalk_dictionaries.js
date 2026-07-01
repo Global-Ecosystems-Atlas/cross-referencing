@@ -3758,11 +3758,26 @@ var wrig_global_lcov_2022 = {
   vector_raster: 'Raster',
   ee_asset_id: repository.data_catalogue.wrig_global_lcov_2022,
   band_layer_name: [''],
-  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
-  in_class_value: [0, 1, 2, 3, 4, 5, 6, 7, 8],
-  pixel_value: [0, 0, 0, 0, 0, 0, 49, 0, 0],
-  efg_names: ['No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Urban and industrial ecosystems', 'No Data', 'No Data'],
-  efg_codes: ['0', '0', '0', '0', '0', '0', 'T7.4', '0', '0']
+  in_class_field_name: ['raster code'],
+  in_class_value: [6],
+  pixel_value: [49],
+  efg_names: ['Urban and industrial ecosystems'],
+  efg_codes: ['T7.4']
+};
+
+//NA
+var NA = {
+  source_id: NA,
+  data_id_code: 'NA',
+  dataset_year: null,
+  vector_raster: null,
+  ee_asset_id: repository.data_catalogue.NA,
+  band_layer_name: [''],
+  in_class_field_name: ['NA'],
+  in_class_value: ['NA'],
+  pixel_value: [255],
+  efg_names: ['Cross-referenced to 255 due to incompatible class descriptions'],
+  efg_codes: ['NA']
 };
 
 //wrig_global_lcov_2022
@@ -3773,11 +3788,11 @@ var wrig_global_lcov_2022 = {
   vector_raster: 'Raster',
   ee_asset_id: repository.data_catalogue.wrig_global_lcov_2022,
   band_layer_name: [''],
-  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
-  in_class_value: [0, 1, 2, 3, 4, 5, 6, 7, 8],
-  pixel_value: [0, 0, 0, 0, 0, 0, 49, 0, 0],
-  efg_names: ['No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Urban and industrial ecosystems', 'No Data', 'No Data'],
-  efg_codes: ['0', '0', '0', '0', '0', '0', 'T7.4', '0', '0']
+  in_class_field_name: ['raster code', 'NA'],
+  in_class_value: [6, NA],
+  pixel_value: [49, 255],
+  efg_names: ['Urban and industrial ecosystems', 'Cross-referenced to 255 due to incompatible class descriptions'],
+  efg_codes: ['T7.4', 'NA']
 };
 
 //wuhan_tibet_lcov_2024
