@@ -3015,6 +3015,36 @@ var sysu_arctic_lcov_2022 = {
   efg_codes: ['NA', 'T6.1', 'NA', 'T6.3', 'T6.3', 'TF1.6', 'NA', 'T6.2', 'T7.4', 'T6.2', 'NA', 'T6.1', 'NA', 'T6.3', 'NA', 'TF1.6', 'NA', 'T6.2', 'T7.4', 'T6.2', 'NA', 'T6.1', 'NA', 'T6.3', 'T6.3', 'NA', 'NA', 'T6.2', 'T7.4', 'T6.2', 'NA', 'T6.1', 'NA', 'T6.3', 'T6.3', 'TF1.6', 'NA', 'NA', 'T7.4', 'T6.2', 'NA', 'T6.1', 'NA', 'T6.3', 'T6.3', 'TF1.6', 'NA', 'T6.2', 'T7.4', 'T6.2', 'NA', 'T6.1', 'NA', 'T6.3', 'T6.3', 'NA', 'NA', 'T6.2', 'T7.4', 'NA']
 };
 
+//tohuku_global_mineluse_2026
+var tohuku_global_mineluse_2026 = {
+  source_id: 435,
+  data_id_code: 'tohuku_global_mineluse_2026',
+  dataset_year: 2022,
+  vector_raster: 'Vector (TBC)',
+  ee_asset_id: repository.data_catalogue.tohuku_global_mineluse_2026,
+  band_layer_name: [''],
+  in_class_field_name: ['class_name', 'class_name', 'class_name', 'class_name', 'class_name', 'class_name', 'class_name'],
+  in_class_value: ['Bare soil', 'Facility', 'General disturbed land', 'Open pit', 'Vegetation', 'Waste dumping site', 'Water body'],
+  pixel_value: [49, 49, 49, 49, 49, 49, 108],
+  efg_names: ['Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Constructed lacustrine wetlands'],
+  efg_codes: ['T7.4', 'T7.4', 'T7.4', 'T7.4', 'T7.4', 'T7.4', 'F3.2']
+};
+
+//tohuku_global_mineluse_2026
+var tohuku_global_mineluse_2026 = {
+  source_id: 435,
+  data_id_code: 'tohuku_global_mineluse_2026',
+  dataset_year: 2022,
+  vector_raster: 'Vector (TBC)',
+  ee_asset_id: repository.data_catalogue.tohuku_global_mineluse_2026,
+  band_layer_name: [''],
+  in_class_field_name: ['class_name', 'class_name', 'class_name', 'class_name', 'class_name', 'class_name', 'class_name'],
+  in_class_value: ['Bare soil', 'Facility', 'General disturbed land', 'Open pit', 'Vegetation', 'Waste dumping site', 'Water body'],
+  pixel_value: [49, 49, 49, 49, 49, 49, 108],
+  efg_names: ['Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Constructed lacustrine wetlands'],
+  efg_codes: ['T7.4', 'T7.4', 'T7.4', 'T7.4', 'T7.4', 'T7.4', 'F3.2']
+};
+
 //tut_tibet_veg_2024
 var tut_tibet_veg_2024 = {
   source_id: 374,
