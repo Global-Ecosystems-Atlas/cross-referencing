@@ -1,3 +1,45 @@
+### Cross referencing pipeline run no. 80 on 2026-07-07 10:43 AM AEST
+
+**Changes made**
+no changes made
+
+**New folders created**
+- resources/03_cw_tables_GEA/uleeds_congo_peat_2022
+- resources/03_cw_tables_GEA/uleeds_congo_peat_2022/per_layer_name
+
+---
+
+### Cross referencing pipeline run no. 79 on 2026-07-02 01:31 PM AEST
+
+**Changes made**
+no changes made
+
+**New folders created**
+- resources/03_cw_tables_GEA/tohuku_global_mineluse_2026
+- resources/03_cw_tables_GEA/tohuku_global_mineluse_2026/per_layer_name
+
+---
+
+### Cross referencing pipeline run no. 78 on 2026-07-02 12:58 PM AEST
+
+**Changes made**
+no changes made
+
+**New folders created**
+no new folders
+
+---
+
+### Cross referencing pipeline run no. 77 on 2026-07-01 11:58 AM AEST
+
+**Changes made**
+no changes made
+
+**New folders created**
+no new folders
+
+---
+
 ### Cross referencing pipeline run no. 76 on 2026-07-01 11:37 AM AEST
 
 **Changes made**

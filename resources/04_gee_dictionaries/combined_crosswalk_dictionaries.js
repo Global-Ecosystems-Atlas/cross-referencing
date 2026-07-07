@@ -3015,6 +3015,36 @@ var sysu_arctic_lcov_2022 = {
   efg_codes: ['NA', 'T6.1', 'NA', 'T6.3', 'T6.3', 'TF1.6', 'NA', 'T6.2', 'T7.4', 'T6.2', 'NA', 'T6.1', 'NA', 'T6.3', 'NA', 'TF1.6', 'NA', 'T6.2', 'T7.4', 'T6.2', 'NA', 'T6.1', 'NA', 'T6.3', 'T6.3', 'NA', 'NA', 'T6.2', 'T7.4', 'T6.2', 'NA', 'T6.1', 'NA', 'T6.3', 'T6.3', 'TF1.6', 'NA', 'NA', 'T7.4', 'T6.2', 'NA', 'T6.1', 'NA', 'T6.3', 'T6.3', 'TF1.6', 'NA', 'T6.2', 'T7.4', 'T6.2', 'NA', 'T6.1', 'NA', 'T6.3', 'T6.3', 'NA', 'NA', 'T6.2', 'T7.4', 'NA']
 };
 
+//tohuku_global_mineluse_2026
+var tohuku_global_mineluse_2026 = {
+  source_id: 435,
+  data_id_code: 'tohuku_global_mineluse_2026',
+  dataset_year: 2022,
+  vector_raster: 'Vectorized raster',
+  ee_asset_id: repository.data_catalogue.tohuku_global_mineluse_2026,
+  band_layer_name: [''],
+  in_class_field_name: ['class_name', 'class_name', 'class_name', 'class_name', 'class_name', 'class_name', 'class_name'],
+  in_class_value: ['Bare soil', 'Facility', 'General disturbed land', 'Open pit', 'Vegetation', 'Waste dumping site', 'Water body'],
+  pixel_value: [49, 49, 49, 49, 49, 49, 108],
+  efg_names: ['Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Constructed lacustrine wetlands'],
+  efg_codes: ['T7.4', 'T7.4', 'T7.4', 'T7.4', 'T7.4', 'T7.4', 'F3.2']
+};
+
+//tohuku_global_mineluse_2026
+var tohuku_global_mineluse_2026 = {
+  source_id: 435,
+  data_id_code: 'tohuku_global_mineluse_2026',
+  dataset_year: 2022,
+  vector_raster: 'Vectorized raster',
+  ee_asset_id: repository.data_catalogue.tohuku_global_mineluse_2026,
+  band_layer_name: [''],
+  in_class_field_name: ['class_name', 'class_name', 'class_name', 'class_name', 'class_name', 'class_name', 'class_name'],
+  in_class_value: ['Bare soil', 'Facility', 'General disturbed land', 'Open pit', 'Vegetation', 'Waste dumping site', 'Water body'],
+  pixel_value: [49, 49, 49, 49, 49, 49, 108],
+  efg_names: ['Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Constructed lacustrine wetlands'],
+  efg_codes: ['T7.4', 'T7.4', 'T7.4', 'T7.4', 'T7.4', 'T7.4', 'F3.2']
+};
+
 //tut_tibet_veg_2024
 var tut_tibet_veg_2024 = {
   source_id: 374,
@@ -3148,6 +3178,36 @@ var uf_arctic_veg_2022 = {
   pixel_value: [40, 40, 40, 40, 40, 40, 39, 40, 40, 40, 40, 39, 76, 75, 75, 39, 95, 0, 38, 0],
   efg_names: ['Polar tundra and deserts', 'Polar tundra and deserts', 'Polar tundra and deserts', 'Polar tundra and deserts', 'Polar tundra and deserts', 'Polar tundra and deserts', 'Polar/alpine cliffs, screes, outcrops and lava flows', 'Polar tundra and deserts', 'Polar tundra and deserts', 'Polar tundra and deserts', 'Polar tundra and deserts', 'Polar/alpine cliffs, screes, outcrops and lava flows', 'Boreal and temperate fens', 'Boreal, temperate and montane peat bogs', 'Boreal, temperate and montane peat bogs', 'Polar/alpine cliffs, screes, outcrops and lava flows', 'Freeze-thaw freshwater lakes', 'No Data', 'Ice sheets, glaciers and perennial snowfields', 'No Data'],
   efg_codes: ['T6.3', 'T6.3', 'T6.3', 'T6.3', 'T6.3', 'T6.3', 'T6.2', 'T6.3', 'T6.3', 'T6.3', 'T6.3', 'T6.2', 'TF1.7', 'TF1.6', 'TF1.6', 'T6.2', 'F2.4', '0', 'T6.1', '0']
+};
+
+//uleeds_congo_peat_2022
+var uleeds_congo_peat_2022 = {
+  source_id: 388,
+  data_id_code: 'uleeds_congo_peat_2022',
+  dataset_year: 2020,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.uleeds_congo_peat_2022,
+  band_layer_name: [''],
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
+  in_class_value: [0, 1, 2, 3, 4, 5],
+  pixel_value: [0, 0, 0, 0, 70, 70],
+  efg_names: ['No Data', 'No Data', 'No Data', 'No Data', 'Tropical flooded forests and peat forests', 'Tropical flooded forests and peat forests'],
+  efg_codes: ['0', '0', '0', '0', 'TF1.1', 'TF1.1']
+};
+
+//uleeds_congo_peat_2022
+var uleeds_congo_peat_2022 = {
+  source_id: 388,
+  data_id_code: 'uleeds_congo_peat_2022',
+  dataset_year: 2020,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.uleeds_congo_peat_2022,
+  band_layer_name: [''],
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
+  in_class_value: [0, 1, 2, 3, 4, 5],
+  pixel_value: [0, 0, 0, 0, 70, 70],
+  efg_names: ['No Data', 'No Data', 'No Data', 'No Data', 'Tropical flooded forests and peat forests', 'Tropical flooded forests and peat forests'],
+  efg_codes: ['0', '0', '0', '0', 'TF1.1', 'TF1.1']
 };
 
 //unsw_antarc_eco_2024
