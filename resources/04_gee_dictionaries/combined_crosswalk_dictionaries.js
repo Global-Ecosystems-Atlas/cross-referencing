@@ -210,6 +210,36 @@ var airi_seasia_ricepaddy_2019 = {
   efg_codes: ['0', 'F3.3']
 };
 
+//asu_global_seagrass_2026
+var asu_global_seagrass_2026 = {
+  source_id: 438,
+  data_id_code: 'asu_global_seagrass_2026',
+  dataset_year: 2024,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.asu_global_seagrass_2026,
+  band_layer_name: [''],
+  in_class_field_name: ['Raster code'],
+  in_class_value: [1],
+  pixel_value: [120],
+  efg_names: ['Seagrass meadows'],
+  efg_codes: ['M1.1']
+};
+
+//asu_global_seagrass_2026
+var asu_global_seagrass_2026 = {
+  source_id: 438,
+  data_id_code: 'asu_global_seagrass_2026',
+  dataset_year: 2024,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.asu_global_seagrass_2026,
+  band_layer_name: [''],
+  in_class_field_name: ['Raster code'],
+  in_class_value: [1],
+  pixel_value: [120],
+  efg_names: ['Seagrass meadows'],
+  efg_codes: ['M1.1']
+};
+
 //bnetd_cotedivoire_lcov_2020
 var bnetd_cotedivoire_lcov_2020 = {
   source_id: 394,
@@ -1078,6 +1108,36 @@ var destatis_germ_eco_2021 = {
   pixel_value: [0, 49, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 255, 0, 0, 0, 0, 0, 0, 7, 75, 71, 8, 49, 7, 75, 7, 7, 75, 8, 48, 8, 8, 18, 49, 41, 18, 72, 75, 75, 76, 170, 255, 159, 159, 49, 19, 19, 39, 38, 41, 163, 82, 82, 82, 82, 49, 92, 92, 107, 93, 0, 0, 0, 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
   efg_names: ['No Data', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Urban and industrial ecosystems', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Urban and industrial ecosystems', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Urban and industrial ecosystems', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Urban and industrial ecosystems', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Urban and industrial ecosystems', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Urban and industrial ecosystems', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Annual croplands', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Annual croplands', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Plantations', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Urban and industrial ecosystems', 'Plantations', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Plantations', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Plantations', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Plantations', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Sown pastures and fields', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Cross-referenced to 255 due to incompatible class descriptions', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Boreal and temperate high montane forests and woodlands', 'Boreal, temperate and montane peat bogs', 'Subtropical/temperate forested wetlands', 'Deciduous temperate forests', 'Urban and industrial ecosystems', 'Boreal and temperate high montane forests and woodlands', 'Boreal, temperate and montane peat bogs', 'Boreal and temperate high montane forests and woodlands', 'Boreal and temperate high montane forests and woodlands', 'Boreal, temperate and montane peat bogs', 'Deciduous temperate forests', 'Plantations', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Cool temperate heathlands', 'Urban and industrial ecosystems', 'Temperate alpine grasslands and shrublands', 'Cool temperate heathlands', 'Permanent marshes', 'Boreal, temperate and montane peat bogs', 'Boreal, temperate and montane peat bogs', 'Boreal and temperate fens', 'Coastal saltmarshes and reedbeds', 'Cross-referenced to 255 due to incompatible class descriptions', 'Sandy shorelines', 'Sandy shorelines', 'Urban and industrial ecosystems', 'Young rocky pavements, lava flows and screes', 'Young rocky pavements, lava flows and screes', 'Polar/alpine cliffs, screes, outcrops and lava flows', 'Ice sheets, glaciers and perennial snowfields', 'Temperate alpine grasslands and shrublands', 'Coastal shrublands and grasslands', 'Permanent lowland rivers', 'Permanent lowland rivers', 'Permanent lowland rivers', 'Permanent lowland rivers', 'Urban and industrial ecosystems', 'Large permanent freshwater lakes', 'Large permanent freshwater lakes', 'Large reservoirs', 'Small permanent freshwater lakes', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Urban and industrial ecosystems', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Urban and industrial ecosystems', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'Urban and industrial ecosystems', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data', 'No Data'],
   efg_codes: ['0', 'T7.4', 'T7.4', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.4', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.4', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.4', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.4', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.4', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.4', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.3', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.4', 'T7.3', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.3', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.3', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.3', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'NA', '0', '0', '0', '0', '0', '0', 'T2.1', 'TF1.6', 'TF1.2', 'T2.2', 'T7.4', 'T2.1', 'TF1.6', 'T2.1', 'T2.1', 'TF1.6', 'T2.2', 'T7.3', 'T2.2', 'T2.2', 'T3.3', 'T7.4', 'T6.4', 'T3.3', 'TF1.3', 'TF1.6', 'TF1.6', 'TF1.7', 'MFT1.3', 'NA', 'MT1.3', 'MT1.3', 'T7.4', 'T3.4', 'T3.4', 'T6.2', 'T6.1', 'T6.4', 'MT2.1', 'F1.2', 'F1.2', 'F1.2', 'F1.2', 'T7.4', 'F2.1', 'F2.1', 'F3.1', 'F2.2', '0', '0', '0', '0', '0', '0', 'T7.4', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.4', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 'T7.4', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+};
+
+//drtmth_global_rivermine_2023
+var drtmth_global_rivermine_2023 = {
+  source_id: 434,
+  data_id_code: 'drtmth_global_rivermine_2023',
+  dataset_year: 2023,
+  vector_raster: 'Vector',
+  ee_asset_id: repository.data_catalogue.drtmth_global_rivermine_2023,
+  band_layer_name: [''],
+  in_class_field_name: ['Shape'],
+  in_class_value: ['Polygon'],
+  pixel_value: [108],
+  efg_names: ['Constructed lacustrine wetlands'],
+  efg_codes: ['F3.2']
+};
+
+//drtmth_global_rivermine_2023
+var drtmth_global_rivermine_2023 = {
+  source_id: 434,
+  data_id_code: 'drtmth_global_rivermine_2023',
+  dataset_year: 2023,
+  vector_raster: 'Vector',
+  ee_asset_id: repository.data_catalogue.drtmth_global_rivermine_2023,
+  band_layer_name: [''],
+  in_class_field_name: ['Shape'],
+  in_class_value: ['Polygon'],
+  pixel_value: [108],
+  efg_names: ['Constructed lacustrine wetlands'],
+  efg_codes: ['F3.2']
 };
 
 //entc_eswatini_eco_2025
@@ -3808,6 +3868,21 @@ var NA = {
   pixel_value: [255],
   efg_names: ['No Data'],
   efg_codes: ['NA']
+};
+
+//wrig_global_lcov_2022
+var wrig_global_lcov_2022 = {
+  source_id: 169,
+  data_id_code: 'wrig_global_lcov_2022',
+  dataset_year: 2026,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.wrig_global_lcov_2022,
+  band_layer_name: [''],
+  in_class_field_name: ['raster code'],
+  in_class_value: [6],
+  pixel_value: [49],
+  efg_names: ['Urban and industrial ecosystems'],
+  efg_codes: ['T7.4']
 };
 
 //wrig_global_lcov_2022
