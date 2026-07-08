@@ -1,3 +1,17 @@
+### Cross referencing pipeline run no. 81 on 2026-07-08 11:29 AM AEST
+
+**Changes made**
+- resources/03_cw_tables_GEA/wrig_global_lcov_2022
+
+**New folders created**
+- resources/03_cw_tables_GEA/asu_global_seagrass_2026
+- resources/03_cw_tables_GEA/asu_global_seagrass_2026/per_layer_name
+- resources/03_cw_tables_GEA/drtmth_global_rivermine_2023
+- resources/03_cw_tables_GEA/drtmth_global_rivermine_2023/per_layer_name
+- resources/03_cw_tables_GEA/wrig_global_lcov_2022/per_layer_name
+
+---
+
 ### Cross referencing pipeline run no. 80 on 2026-07-07 10:43 AM AEST
 
 **Changes made**
