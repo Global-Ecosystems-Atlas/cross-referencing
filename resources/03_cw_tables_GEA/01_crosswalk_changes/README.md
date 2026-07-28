@@ -1,3 +1,93 @@
+### Cross referencing pipeline run no. 85 on 2026-07-29 09:03 AM AEST
+
+**Changes made**
+- resources/03_cw_tables_GEA/aberuni_wales_eco_2024
+- resources/03_cw_tables_GEA/aberuni_wales_eco_2024/per_layer_name
+- resources/03_cw_tables_GEA/aca_global_reef_2022
+- resources/03_cw_tables_GEA/aca_global_reef_2022/per_layer_name
+- resources/03_cw_tables_GEA/airi_seasia_ricepaddy_2019
+- resources/03_cw_tables_GEA/airi_seasia_ricepaddy_2019/per_layer_name
+- resources/03_cw_tables_GEA/bnetd_cotedivoire_lcov_2020
+- resources/03_cw_tables_GEA/bnetd_cotedivoire_lcov_2020/per_layer_name
+- resources/03_cw_tables_GEA/cbs_neth_eco_2022
+- resources/03_cw_tables_GEA/cbs_neth_eco_2022/per_layer_name
+- resources/03_cw_tables_GEA/cdv_global_palm_2024
+- resources/03_cw_tables_GEA/cdv_global_palm_2024/per_layer_name
+- resources/03_cw_tables_GEA/creaf_global_plantation_2023
+- resources/03_cw_tables_GEA/creaf_global_plantation_2023/per_layer_name
+- resources/03_cw_tables_GEA/cu_global_lcov_2024
+- resources/03_cw_tables_GEA/cu_global_lcov_2024/per_layer_name
+- resources/03_cw_tables_GEA/cuni_global_tcrop_2026
+- resources/03_cw_tables_GEA/cuni_global_tcrop_2026/per_layer_name
+- resources/03_cw_tables_GEA/des_qld_veg_2021
+- resources/03_cw_tables_GEA/des_qld_veg_2021/per_layer_name
+- resources/03_cw_tables_GEA/destatis_germ_eco_2021
+- resources/03_cw_tables_GEA/destatis_germ_eco_2021/per_layer_name
+- resources/03_cw_tables_GEA/gfw_global_plant_2024
+- resources/03_cw_tables_GEA/gfw_global_plant_2024/per_layer_name
+- resources/03_cw_tables_GEA/glims_global_glacier_2013
+- resources/03_cw_tables_GEA/glims_global_glacier_2013/per_layer_name
+- resources/03_cw_tables_GEA/goog_global_forest_2026
+- resources/03_cw_tables_GEA/goog_global_forest_2026/per_layer_name
+- resources/03_cw_tables_GEA/ibge_brazil_veg_2021
+- resources/03_cw_tables_GEA/ibge_brazil_veg_2021/per_layer_name
+- resources/03_cw_tables_GEA/iinh_iceland_eco_2024
+- resources/03_cw_tables_GEA/iinh_iceland_eco_2024/per_layer_name
+- resources/03_cw_tables_GEA/inegi_mex_lcov_2021
+- resources/03_cw_tables_GEA/inegi_mex_lcov_2021/per_layer_name
+- resources/03_cw_tables_GEA/jaxa_asia_lc_2023
+- resources/03_cw_tables_GEA/jaxa_asia_lc_2023/per_layer_name
+- resources/03_cw_tables_GEA/jaxa_vietnam_lcov_2020
+- resources/03_cw_tables_GEA/jaxa_vietnam_lcov_2020/per_layer_name
+- resources/03_cw_tables_GEA/jcu_aus_saltmarsh_2023
+- resources/03_cw_tables_GEA/jcu_aus_saltmarsh_2023/per_layer_name
+- resources/03_cw_tables_GEA/lde_lesotho_eco_2025
+- resources/03_cw_tables_GEA/lde_lesotho_eco_2025/per_layer_name
+- resources/03_cw_tables_GEA/ncs_singapore_eco_2019
+- resources/03_cw_tables_GEA/ncs_singapore_eco_2019/per_layer_name
+- resources/03_cw_tables_GEA/noru_maldiv_seagrass_2024
+- resources/03_cw_tables_GEA/noru_maldiv_seagrass_2024/per_layer_name
+- resources/03_cw_tables_GEA/nsidc_nhemis_seaice_2024
+- resources/03_cw_tables_GEA/nsidc_nhemis_seaice_2024/per_layer_name
+- resources/03_cw_tables_GEA/nswgov_nsw_veg_2012
+- resources/03_cw_tables_GEA/nswgov_nsw_veg_2012/per_layer_name
+- resources/03_cw_tables_GEA/sbi_italy_eco_2021
+- resources/03_cw_tables_GEA/sbi_italy_eco_2021/per_layer_name
+- resources/03_cw_tables_GEA/syke_finland_eco_2018b
+- resources/03_cw_tables_GEA/syke_finland_eco_2018b/per_layer_name
+- resources/03_cw_tables_GEA/syke_finland_forest_2021
+- resources/03_cw_tables_GEA/syke_finland_forest_2021/per_layer_name
+- resources/03_cw_tables_GEA/sysu_arctic_lcov_2022
+- resources/03_cw_tables_GEA/sysu_arctic_lcov_2022/per_layer_name
+- resources/03_cw_tables_GEA/tut_tibet_veg_2024
+- resources/03_cw_tables_GEA/tut_tibet_veg_2024/per_layer_name
+- resources/03_cw_tables_GEA/uf_arctic_veg_2022
+- resources/03_cw_tables_GEA/uf_arctic_veg_2022/per_layer_name
+- resources/03_cw_tables_GEA/uleeds_congo_peat_2022
+- resources/03_cw_tables_GEA/uleeds_congo_peat_2022/per_layer_name
+- resources/03_cw_tables_GEA/unsw_myan_eco_2020
+- resources/03_cw_tables_GEA/unsw_myan_eco_2020/per_layer_name
+- resources/03_cw_tables_GEA/usgeo_usa_eco_2025
+- resources/03_cw_tables_GEA/usgeo_usa_eco_2025/per_layer_name
+- resources/03_cw_tables_GEA/vito_global_lcov_2025
+- resources/03_cw_tables_GEA/vito_global_lcov_2025/per_layer_name
+- resources/03_cw_tables_GEA/wag_africa_luse_2024
+- resources/03_cw_tables_GEA/wag_africa_luse_2024/per_layer_name
+- resources/03_cw_tables_GEA/wcs_mozam_marine_2022
+- resources/03_cw_tables_GEA/wcs_mozam_marine_2022/per_layer_name
+- resources/03_cw_tables_GEA/wuhan_tibet_lcov_2024
+- resources/03_cw_tables_GEA/wuhan_tibet_lcov_2024/per_layer_name
+- resources/03_cw_tables_GEA/wwf_global_dam_2024
+- resources/03_cw_tables_GEA/wwf_global_dam_2024/per_layer_name
+
+**New folders created**
+- resources/03_cw_tables_GEA/nsidc_shemis_seaice_2023
+- resources/03_cw_tables_GEA/nsidc_shemis_seaice_2023/per_layer_name
+- resources/03_cw_tables_GEA/usda_prico_lcov_2023
+- resources/03_cw_tables_GEA/usda_prico_lcov_2023/per_layer_name
+
+---
+
 ### Cross referencing pipeline run no. 82 on 2026-07-09 10:15 AM AEST
 
 **Changes made**
