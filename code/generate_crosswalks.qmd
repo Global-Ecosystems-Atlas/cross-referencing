@@ -50,10 +50,10 @@ Need both pixel values and efg codes as separate objects for pipeline
 ### Pixel values
 ```{r}
 efg_pixelvalues <- read_csv( "https://raw.githubusercontent.com/Global-Ecosystems-Atlas/metadata/refs/heads/main/pixel-values/efg_pixel_values.csv", show_col_types = FALSE) |> 
-  rename(efg_code = EFG_Code, 
-         efg_name = EFG_Name, 
-         efg_description = EFG, 
-         pixel_value = PixelValue) |> 
+  rename(efg_code = efg_code, 
+         efg_name = efg_name, 
+         efg_description = efg, 
+         pixel_value = efg_pixel_value) |> 
   # mutate no data efg_code to 0 as this gets dropped during the read_csv above 
   mutate(efg_code = replace(efg_code, pixel_value == 0, "0")) |> 
   mutate(efg_code = as.character(efg_code)) |> 
