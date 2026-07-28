@@ -49,7 +49,7 @@ rm(list=ls())
 Need both pixel values and efg codes as separate objects for pipeline
 ### Pixel values
 ```{r}
-efg_pixelvalues <- read_csv( "https://raw.githubusercontent.com/Global-Ecosystems-Atlas/metadata/refs/heads/main/pixel-values/efg_pixelvalues.csv", show_col_types = FALSE) |> 
+efg_pixelvalues <- read_csv( "https://raw.githubusercontent.com/Global-Ecosystems-Atlas/metadata/refs/heads/main/pixel-values/efg_pixel_values.csv", show_col_types = FALSE) |> 
   rename(efg_code = EFG_Code, 
          efg_name = EFG_Name, 
          efg_description = EFG, 

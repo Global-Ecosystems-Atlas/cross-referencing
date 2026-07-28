@@ -74,7 +74,7 @@ source_data <- read_sheet(
 ```{r}
 # Load EFG codes from Github
 efg_codes <- read_csv(
-  "https://raw.githubusercontent.com/Global-Ecosystems-Atlas/metadata/refs/heads/main/pixel-values/efg_pixelvalues.csv") |> 
+  "https://raw.githubusercontent.com/Global-Ecosystems-Atlas/metadata/refs/heads/main/pixel-values/efg_pixel_values.csv") |> 
   pull(2) |> 
   unique()
 
