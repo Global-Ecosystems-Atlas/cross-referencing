@@ -182,7 +182,41 @@ dir_ls(input_folder, recurse = TRUE, regexp = "-membmat-complete\\.csv$") |>
   walk(process_membmat)
 ```
 
+
+# Combine all per-dataset crosswalk tables into one global csv
+```{r}
+# Explicit col types so type-guessing per-file (e.g. in_class_value as
+# character in one dataset, double in another) doesn't break bind_rows()
+crosswalk_col_types <- cols(
+  crossref_date                = col_character(),
+  crossref_by                  = col_character(),
+  GET_vsn                      = col_double(),
+  Source_ID                    = col_double(),
+  data_id_code                 = col_character(),
+  layer_id                     = col_integer(),
+  layer_name                   = col_character(),
+  in_class_field_name          = col_character(),
+  in_class_value               = col_character(),
+  in_class_description         = col_character(),
+  in_class_description_detail  = col_character(),
+  efg_code                     = col_character(),
+  efg_name                     = col_character(),
+  efg_description              = col_character(),
+  pixel_value                  = col_double()
+)
+
+all_crosswalks <- dir_ls(
+  output_folder,
+  recurse = TRUE,
+  regexp = "_GEA_crosswalk_table\\.csv$"
+) |>
+  map_df(read_csv, col_types = crosswalk_col_types)
+
+write_csv(all_crosswalks, path(output_folder, "all_GEA_crosswalk_tables.csv"))
+
+message("Combined ", n_distinct(all_crosswalks$data_id_code), " datasets into all_GEA_crosswalk_tables.csv")
+```
+
 ```{r}
 # END
 ```
-
