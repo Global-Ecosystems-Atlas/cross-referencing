@@ -1,3 +1,13 @@
+### Cross referencing pipeline run no. 86 on 2026-07-30 10:06 AM AEST
+
+**Changes made**
+no changes made
+
+**New folders created**
+- resources/03_cw_tables_GEA
+
+---
+
 ### Cross referencing pipeline run no. 85 on 2026-07-29 09:03 AM AEST
 
 **Changes made**
