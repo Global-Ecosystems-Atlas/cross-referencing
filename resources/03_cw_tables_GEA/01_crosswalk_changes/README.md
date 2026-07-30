@@ -1,3 +1,19 @@
+### Cross referencing pipeline run no. 87 on 2026-07-30 03:43 PM AEST
+
+**Changes made**
+- resources/03_cw_tables_GEA
+- resources/03_cw_tables_GEA/inegi_mex_lcov_2021
+- resources/03_cw_tables_GEA/inegi_mex_lcov_2021/per_layer_name
+- resources/03_cw_tables_GEA/jaxa_asia_lc_2023
+- resources/03_cw_tables_GEA/jaxa_asia_lc_2023/per_layer_name
+- resources/03_cw_tables_GEA/jaxa_vietnam_lcov_2020
+- resources/03_cw_tables_GEA/jaxa_vietnam_lcov_2020/per_layer_name
+
+**New folders created**
+no new folders
+
+---
+
 ### Cross referencing pipeline run no. 86 on 2026-07-30 10:06 AM AEST
 
 **Changes made**
