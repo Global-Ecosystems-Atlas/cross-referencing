@@ -683,11 +683,11 @@ var nsidc_global_glacier_2023 = {
   vector_raster: 'Vector',
   ee_asset_id: repository.data_catalogue.nsidc_global_glacier_2023,
   band_layer_name: [''],
-  in_class_field_name: ['primeclass', 'primeclass', 'primeclass', 'primeclass', 'primeclass', 'primeclass', 'primeclass', 'primeclass', 'primeclass', 'primeclass', 'primeclass'],
-  in_class_value: [0, 1, 10, 2, 3, 4, 5, 6, 7, 8, 9],
-  pixel_value: [38, 38, 38, 38, 38, 38, 38, 38, 38, 139, 38],
-  efg_names: ['Ice sheets, glaciers and perennial snowfields', 'Ice sheets, glaciers and perennial snowfields', 'Ice sheets, glaciers and perennial snowfields', 'Ice sheets, glaciers and perennial snowfields', 'Ice sheets, glaciers and perennial snowfields', 'Ice sheets, glaciers and perennial snowfields', 'Ice sheets, glaciers and perennial snowfields', 'Ice sheets, glaciers and perennial snowfields', 'Ice sheets, glaciers and perennial snowfields', 'Sea ice', 'Ice sheets, glaciers and perennial snowfields'],
-  efg_codes: ['T6.1', 'T6.1', 'T6.1', 'T6.1', 'T6.1', 'T6.1', 'T6.1', 'T6.1', 'T6.1', 'M2.5', 'T6.1']
+  in_class_field_name: ['primeclass', 'primeclass', 'primeclass', 'primeclass', 'primeclass', 'primeclass', 'primeclass', 'primeclass', 'primeclass'],
+  in_class_value: [0, 1, 10, 2, 3, 4, 5, 6, 7],
+  pixel_value: [38, 38, 38, 38, 38, 38, 38, 38, 38],
+  efg_names: ['Ice sheets, glaciers and perennial snowfields', 'Ice sheets, glaciers and perennial snowfields', 'Ice sheets, glaciers and perennial snowfields', 'Ice sheets, glaciers and perennial snowfields', 'Ice sheets, glaciers and perennial snowfields', 'Ice sheets, glaciers and perennial snowfields', 'Ice sheets, glaciers and perennial snowfields', 'Ice sheets, glaciers and perennial snowfields', 'Ice sheets, glaciers and perennial snowfields'],
+  efg_codes: ['T6.1', 'T6.1', 'T6.1', 'T6.1', 'T6.1', 'T6.1', 'T6.1', 'T6.1', 'T6.1']
 };
 
 //nsidc_nhemis_seaice_2024
