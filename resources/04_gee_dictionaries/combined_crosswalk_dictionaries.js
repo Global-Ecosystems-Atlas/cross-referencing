@@ -409,7 +409,7 @@ var inegi_mex_lcov_2021 = {
 var iucn_get_m21_2021 = {
   source_id: 198,
   data_id_code: 'iucn_get_m21_2021',
-  dataset_year: null,
+  dataset_year: 2009,
   vector_raster: 'Raster',
   ee_asset_id: repository.data_catalogue.iucn_get_m21_2021,
   band_layer_name: [''],
@@ -424,7 +424,7 @@ var iucn_get_m21_2021 = {
 var iucn_get_m22_2021 = {
   source_id: 199,
   data_id_code: 'iucn_get_m22_2021',
-  dataset_year: null,
+  dataset_year: 2009,
   vector_raster: 'Raster',
   ee_asset_id: repository.data_catalogue.iucn_get_m22_2021,
   band_layer_name: [''],
@@ -439,7 +439,7 @@ var iucn_get_m22_2021 = {
 var iucn_get_m23_2021 = {
   source_id: 200,
   data_id_code: 'iucn_get_m23_2021',
-  dataset_year: null,
+  dataset_year: 2009,
   vector_raster: 'Raster',
   ee_asset_id: repository.data_catalogue.iucn_get_m23_2021,
   band_layer_name: [''],
@@ -454,7 +454,7 @@ var iucn_get_m23_2021 = {
 var iucn_get_m24_2021 = {
   source_id: 201,
   data_id_code: 'iucn_get_m24_2021',
-  dataset_year: null,
+  dataset_year: 2009,
   vector_raster: 'Raster',
   ee_asset_id: repository.data_catalogue.iucn_get_m24_2021,
   band_layer_name: [''],
@@ -469,7 +469,7 @@ var iucn_get_m24_2021 = {
 var iucn_get_m31_2021 = {
   source_id: 203,
   data_id_code: 'iucn_get_m31_2021',
-  dataset_year: null,
+  dataset_year: 2009,
   vector_raster: 'Raster',
   ee_asset_id: repository.data_catalogue.iucn_get_m31_2021,
   band_layer_name: [''],
@@ -484,7 +484,7 @@ var iucn_get_m31_2021 = {
 var iucn_get_m32_2021 = {
   source_id: 204,
   data_id_code: 'iucn_get_m32_2021',
-  dataset_year: null,
+  dataset_year: 2009,
   vector_raster: 'Raster',
   ee_asset_id: repository.data_catalogue.iucn_get_m32_2021,
   band_layer_name: [''],
@@ -499,7 +499,7 @@ var iucn_get_m32_2021 = {
 var iucn_get_m33_2021 = {
   source_id: 205,
   data_id_code: 'iucn_get_m33_2021',
-  dataset_year: null,
+  dataset_year: 2009,
   vector_raster: 'Raster',
   ee_asset_id: repository.data_catalogue.iucn_get_m33_2021,
   band_layer_name: [''],
@@ -514,7 +514,7 @@ var iucn_get_m33_2021 = {
 var iucn_get_m34_2021 = {
   source_id: 206,
   data_id_code: 'iucn_get_m34_2021',
-  dataset_year: null,
+  dataset_year: 2009,
   vector_raster: 'Raster',
   ee_asset_id: repository.data_catalogue.iucn_get_m34_2021,
   band_layer_name: [''],
@@ -529,7 +529,7 @@ var iucn_get_m34_2021 = {
 var iucn_get_m35_2021 = {
   source_id: 207,
   data_id_code: 'iucn_get_m35_2021',
-  dataset_year: null,
+  dataset_year: 2009,
   vector_raster: 'Raster',
   ee_asset_id: repository.data_catalogue.iucn_get_m35_2021,
   band_layer_name: [''],
@@ -544,7 +544,7 @@ var iucn_get_m35_2021 = {
 var iucn_get_m36_2021 = {
   source_id: 208,
   data_id_code: 'iucn_get_m36_2021',
-  dataset_year: null,
+  dataset_year: 2009,
   vector_raster: 'Raster',
   ee_asset_id: repository.data_catalogue.iucn_get_m36_2021,
   band_layer_name: [''],
@@ -1024,7 +1024,7 @@ var wcs_mozam_eco_2021 = {
 var wcs_mozam_marine_2022 = {
   source_id: 183,
   data_id_code: 'wcs_mozam_marine_2022',
-  dataset_year: null,
+  dataset_year: 2019,
   vector_raster: 'Vector',
   ee_asset_id: repository.data_catalogue.wcs_mozam_marine_2022,
   band_layer_name: [''],
