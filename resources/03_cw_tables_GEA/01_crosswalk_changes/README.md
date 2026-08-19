@@ -1,3 +1,16 @@
+### Cross referencing pipeline run no. 92 on 2026-08-19 03:45 PM AEST
+
+**Changes made**
+- resources/03_cw_tables_GEA
+
+**New folders created**
+- resources/03_cw_tables_GEA/ucl_congo_lcov_2012
+- resources/03_cw_tables_GEA/ucl_congo_lcov_2012/per_layer_name
+- resources/03_cw_tables_GEA/vecea_eastafrica_veg_2011
+- resources/03_cw_tables_GEA/vecea_eastafrica_veg_2011/per_layer_name
+
+---
+
 ### Cross referencing pipeline run no. 91 on 2026-08-19 02:52 PM AEST
 
 **Changes made**
