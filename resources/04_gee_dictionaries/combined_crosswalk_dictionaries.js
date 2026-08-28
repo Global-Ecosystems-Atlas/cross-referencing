@@ -240,6 +240,21 @@ var drtmth_global_rivermine_2023 = {
   efg_codes: ['F3.2']
 };
 
+//ecnu_global_owt_2020
+var ecnu_global_owt_2020 = {
+  source_id: 397,
+  data_id_code: 'ecnu_global_owt_2020',
+  dataset_year: 2019,
+  vector_raster: 'Point',
+  ee_asset_id: repository.data_catalogue.ecnu_global_owt_2020,
+  band_layer_name: [''],
+  in_class_field_name: ['class'],
+  in_class_value: [1],
+  pixel_value: [154],
+  efg_names: ['Submerged artificial structures'],
+  efg_codes: ['M4.1']
+};
+
 //entc_eswatini_eco_2025
 var entc_eswatini_eco_2025 = {
   source_id: 257,
@@ -358,6 +373,21 @@ var goog_global_forest_2026 = {
   pixel_value: [0, 0, 48, 48, 48, 0],
   efg_names: ['No data', 'No data', 'Plantations', 'Plantations', 'Plantations', 'No data'],
   efg_codes: ['0', '0', 'T7.3', 'T7.3', 'T7.3', '0']
+};
+
+//grsdc_global_owt_2022
+var grsdc_global_owt_2022 = {
+  source_id: 398,
+  data_id_code: 'grsdc_global_owt_2022',
+  dataset_year: 2021,
+  vector_raster: 'Point',
+  ee_asset_id: repository.data_catalogue.grsdc_global_owt_2022,
+  band_layer_name: [''],
+  in_class_field_name: ['Y2025Q1', 'Y2025Q1', 'Y2025Q1'],
+  in_class_value: ['offshore wind farm substation', 'offshore wind turbine', 'under construction'],
+  pixel_value: [154, 154, 154],
+  efg_names: ['Submerged artificial structures', 'Submerged artificial structures', 'Submerged artificial structures'],
+  efg_codes: ['M4.1', 'M4.1', 'M4.1']
 };
 
 //ibge_brazil_veg_2021
@@ -763,6 +793,21 @@ var sbi_italy_eco_2021 = {
   pixel_value: [49, 49, 49, 46, 48, 109, 48, 48, 48, 48, 47, 48, 48, 12, 8, 25, 25, 25, 25, 8, 8, 8, 8, 8, 12, 8, 8, 8, 8, 8, 8, 71, 71, 71, 71, 12, 255, 255, 255, 255, 12, 12, 12, 7, 7, 7, 12, 7, 7, 7, 255, 8, 8, 8, 8, 8, 8, 255, 50, 50, 255, 50, 50, 50, 50, 41, 50, 50, 255, 255, 50, 17, 17, 163, 163, 163, 39, 255, 19, 38, 255, 255, 255, 255, 255, 255, 255, 117, 117, 117, 255, 255, 255, 170, 170, 170, 255, 255],
   efg_names: ['Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Annual croplands', 'Plantations', 'Rice paddies', 'Plantations', 'Plantations', 'Plantations', 'Plantations', 'Sown pastures and fields', 'Plantations', 'Plantations', 'Temperate pyric sclerophyll forests and woodlands', 'Deciduous temperate forests', 'Temperate woodlands', 'Temperate woodlands', 'Temperate woodlands', 'Temperate woodlands', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Temperate pyric sclerophyll forests and woodlands', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Subtropical/temperate forested wetlands', 'Subtropical/temperate forested wetlands', 'Subtropical/temperate forested wetlands', 'Subtropical/temperate forested wetlands', 'Temperate pyric sclerophyll forests and woodlands', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Temperate pyric sclerophyll forests and woodlands', 'Temperate pyric sclerophyll forests and woodlands', 'Temperate pyric sclerophyll forests and woodlands', 'Boreal and temperate high montane forests and woodlands', 'Boreal and temperate high montane forests and woodlands', 'Boreal and temperate high montane forests and woodlands', 'Temperate pyric sclerophyll forests and woodlands', 'Boreal and temperate high montane forests and woodlands', 'Boreal and temperate high montane forests and woodlands', 'Boreal and temperate high montane forests and woodlands', 'Not referable', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Not referable', 'Derived semi-natural pastures and old fields', 'Derived semi-natural pastures and old fields', 'Not referable', 'Derived semi-natural pastures and old fields', 'Derived semi-natural pastures and old fields', 'Derived semi-natural pastures and old fields', 'Derived semi-natural pastures and old fields', 'Temperate alpine grasslands and shrublands', 'Derived semi-natural pastures and old fields', 'Derived semi-natural pastures and old fields', 'Not referable', 'Not referable', 'Derived semi-natural pastures and old fields', 'Seasonally dry temperate heath and shrublands', 'Seasonally dry temperate heath and shrublands', 'Coastal shrublands and grasslands', 'Coastal shrublands and grasslands', 'Coastal shrublands and grasslands', 'Polar/alpine cliffs, screes, outcrops and lava flows', 'Not referable', 'Young rocky pavements, lava flows and screes', 'Ice sheets, glaciers and perennial snowfields', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Intermittently closed and open lakes and lagoons', 'Intermittently closed and open lakes and lagoons', 'Intermittently closed and open lakes and lagoons', 'Not referable', 'Not referable', 'Not referable', 'Coastal saltmarshes and reedbeds', 'Coastal saltmarshes and reedbeds', 'Coastal saltmarshes and reedbeds', 'Not referable', 'Not referable'],
   efg_codes: ['T7.4', 'T7.4', 'T7.4', 'T7.1', 'T7.3', 'F3.3', 'T7.3', 'T7.3', 'T7.3', 'T7.3', 'T7.2', 'T7.3', 'T7.3', 'T2.6', 'T2.2', 'T4.4', 'T4.4', 'T4.4', 'T4.4', 'T2.2', 'T2.2', 'T2.2', 'T2.2', 'T2.2', 'T2.6', 'T2.2', 'T2.2', 'T2.2', 'T2.2', 'T2.2', 'T2.2', 'TF1.2', 'TF1.2', 'TF1.2', 'TF1.2', 'T2.6', 'NA', 'NA', 'NA', 'NA', 'T2.6', 'T2.6', 'T2.6', 'T2.1', 'T2.1', 'T2.1', 'T2.6', 'T2.1', 'T2.1', 'T2.1', 'NA', 'T2.2', 'T2.2', 'T2.2', 'T2.2', 'T2.2', 'T2.2', 'NA', 'T7.5', 'T7.5', 'NA', 'T7.5', 'T7.5', 'T7.5', 'T7.5', 'T6.4', 'T7.5', 'T7.5', 'NA', 'NA', 'T7.5', 'T3.2', 'T3.2', 'MT2.1', 'MT2.1', 'MT2.1', 'T6.2', 'NA', 'T3.4', 'T6.1', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'FM1.3', 'FM1.3', 'FM1.3', 'NA', 'NA', 'NA', 'MFT1.3', 'MFT1.3', 'MFT1.3', 'NA', 'NA']
+};
+
+//statcan_can_marine_2023
+var statcan_can_marine_2023 = {
+  source_id: 498,
+  data_id_code: 'statcan_can_marine_2023',
+  dataset_year: 2023,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.statcan_can_marine_2023,
+  band_layer_name: [''],
+  in_class_field_name: ['Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code', 'Raster code'],
+  in_class_value: [1, 11, 12, 13, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 4, 5, 1, 2, 3, 4, 5],
+  pixel_value: [170, 125, 255, 255, 120, 145, 146, 146, 143, 143, 143, 144, 255, 255, 255, 255, 121, 124, 138, 137, 136, 135, 135],
+  efg_names: ['Coastal saltmarshes and reedbeds', 'Subtidal rocky reefs', 'Not referable', 'Not referable', 'Seagrass meadows', 'Abyssal plains', 'Seamounts, ridges and plateaus', 'Seamounts, ridges and plateaus', 'Continental and island slopes', 'Continental and island slopes', 'Continental and island slopes', 'Submarine canyons', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Kelp forests', 'Photo-limited marine animal forests', 'Abyssopelagic ocean waters', 'Bathypelagic ocean waters', 'Mesopelagic ocean water', 'Epipelagic ocean waters', 'Epipelagic ocean waters'],
+  efg_codes: ['MFT1.3', 'M1.6', 'NA', 'NA', 'M1.1', 'M3.3', 'M3.4', 'M3.4', 'M3.1', 'M3.1', 'M3.1', 'M3.2', 'NA', 'NA', 'NA', 'NA', 'M1.2', 'M1.5', 'M2.4', 'M2.3', 'M2.2', 'M2.1', 'M2.1']
 };
 
 //syke_finland_eco_2018b
