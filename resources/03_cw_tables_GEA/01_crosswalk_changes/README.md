@@ -1,3 +1,18 @@
+### Cross referencing pipeline run no. 95 on 2026-08-28 03:58 PM AEST
+
+**Changes made**
+- resources/03_cw_tables_GEA
+
+**New folders created**
+- resources/03_cw_tables_GEA/ecnu_global_owt_2020
+- resources/03_cw_tables_GEA/ecnu_global_owt_2020/per_layer_name
+- resources/03_cw_tables_GEA/grsdc_global_owt_2022
+- resources/03_cw_tables_GEA/grsdc_global_owt_2022/per_layer_name
+- resources/03_cw_tables_GEA/statcan_can_marine_2023
+- resources/03_cw_tables_GEA/statcan_can_marine_2023/per_layer_name
+
+---
+
 ### Cross referencing pipeline run no. 94 on 2026-08-28 02:44 PM AEST
 
 **Changes made**
