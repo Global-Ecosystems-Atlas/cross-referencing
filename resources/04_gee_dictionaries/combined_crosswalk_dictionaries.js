@@ -244,8 +244,8 @@ var drtmth_global_rivermine_2023 = {
 var ecnu_global_owt_2020 = {
   source_id: 397,
   data_id_code: 'ecnu_global_owt_2020',
-  dataset_year: 2019,
-  vector_raster: 'Point',
+  dataset_year: null,
+  vector_raster: null,
   ee_asset_id: repository.data_catalogue.ecnu_global_owt_2020,
   band_layer_name: [''],
   in_class_field_name: ['class'],
