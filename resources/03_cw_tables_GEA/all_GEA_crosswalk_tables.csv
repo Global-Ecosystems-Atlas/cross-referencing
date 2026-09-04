@@ -1380,6 +1380,122 @@ Oct 17 2025,Alli Lynn and Tess Harmer,2.1,245,iinh_iceland_eco_2024,1835,ni_vg25
 Oct 17 2025,Alli Lynn and Tess Harmer,2.1,245,iinh_iceland_eco_2024,1835,ni_vg25r_3utg,Value,95,L14.2 T�n og akurlendi,"Fields and fields; agricultural land where perennial (meadow grasses) and annual (cereals, potatoes, vegetables) crops are grown.",NA,Not referable,Not referable,255
 Oct 17 2025,Alli Lynn and Tess Harmer,2.1,245,iinh_iceland_eco_2024,1835,ni_vg25r_3utg,Value,98,V1 V�tn,Rather small lakes on vegetated flatlands. The watershed is generally well vegetated. The banks of the lake are well vegetated and rocky shorelines are rarely present. The lakes are very shallow (<2 m) and the water basin is fairly uniform in depth. Aerial vegetation (plants that grow out of the water) is prominent along the banks.,F2.4,Freeze-thaw freshwater lakes,F2.4 Freeze-thaw freshwater lakes,95
 Oct 17 2025,Alli Lynn and Tess Harmer,2.1,245,iinh_iceland_eco_2024,1835,ni_vg25r_3utg,Value,99,V2 �r,"Spring rivers and spring-fed rivers on the younger bedrock of the country (<0.8 million years old). The sources are in springs and the rivers are characterized by a constant flow and water temperature that is also low year-round, especially closest to the sources. Erosion of water banks is low and the banks are often well vegetated. The rivers do not bury themselves much because the river discharge is low. Eddy currents are dominant, but sections of river with laminar flow can occur.",F1.3,Freeze-thaw rivers and streams,F1.3 Freeze-thaw rivers and streams,83
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,0,No data,NA,0,No data,No data,0
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,101,Alnus,NA,T7.3,Plantations,T7.3 Plantations,48
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,102,Mixed plantation,NA,T7.3,Plantations,T7.3 Plantations,48
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,103,Gliricidia plantation,NA,T7.3,Plantations,T7.3 Plantations,48
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,106,Degraded forest,NA,NA,Not referable,Not referable,255
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,107,Shifting cultivation,NA,T7.1,Annual croplands,T7.1 Annual croplands,46
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,108,Abandoned jhum,NA,NA,Not referable,Not referable,255
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,109,Current jhum,NA,NA,Not referable,Not referable,255
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,11,Evergreen,NA,T1.1,Tropical/Subtropical lowland rainforests,T1.1 Tropical/Subtropical lowland rainforests,1
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,115,Woodland,NA,NA,Not referable,Not referable,255
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,116,Tree savannah,NA,T4.2,Pyric tussock savannas,T4.2 Pyric tussock savannas,23
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,117,Shrub savannah,NA,T4.2,Pyric tussock savannas,T4.2 Pyric tussock savannas,23
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,12,Andaman  evergreen,NA,T1.1,Tropical/Subtropical lowland rainforests,T1.1 Tropical/Subtropical lowland rainforests,1
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,120,Scrub,NA,NA,Not referable,Not referable,255
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,121,Open scrub,NA,NA,Not referable,Not referable,255
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,122,Dry evergreen scrub,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,123,Dry deciduous scrub,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,124,Ziziphus,NA,T4.2,Pyric tussock savannas,T4.2 Pyric tussock savannas,23
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,125,Euphorbia scrub,NA,T5.2,Succulent or Thorny deserts and semi-deserts,T5.2 Succulent or Thorny deserts and semi-deserts,31
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,126,Moist alpine scrub,NA,T6.4,Temperate alpine grasslands and shrublands,T6.4 Temperate alpine grasslands and shrublands,41
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,127,Dry alpine scrub,NA,T6.4,Temperate alpine grasslands and shrublands,T6.4 Temperate alpine grasslands and shrublands,41
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,128,Prosopis juliflora,NA,T4.1,Trophic savannas,T4.1 Trophic savannas,22
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,129,Lantana scrub,NA,T4.1,Trophic savannas,T4.1 Trophic savannas,22
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,131,Desert dune scrub,NA,T5.1,Semi-desert steppe,T5.1 Semi-desert steppe,30
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,132,Thorn scrub,NA,T4.2,Pyric tussock savannas,T4.2 Pyric tussock savannas,23
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,133,Prosopis cineraria,NA,NA,Not referable,Not referable,255
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,134,Calotropis procera,NA,T5.2,Succulent or Thorny deserts and semi-deserts,T5.2 Succulent or Thorny deserts and semi-deserts,31
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,135,Grassland,NA,NA,Not referable,Not referable,255
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,136,Wet grasslands,NA,T6.4,Temperate alpine grasslands and shrublands,T6.4 Temperate alpine grasslands and shrublands,41
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,137,Riverine grasslands,NA,NA,Not referable,Not referable,255
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,138,Moist alpine pasture,NA,T6.4,Temperate alpine grasslands and shrublands,T6.4 Temperate alpine grasslands and shrublands,41
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,139,Dry alpine pasture,NA,T6.4,Temperate alpine grasslands and shrublands,T6.4 Temperate alpine grasslands and shrublands,41
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,14,Southern Hilltop,NA,T1.1,Tropical/Subtropical lowland rainforests,T1.1 Tropical/Subtropical lowland rainforests,1
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,141,Dry grassland,NA,T4.1,Trophic savannas,T4.1 Trophic savannas,22
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,143,Swampy grassland,NA,TF1.4,Seasonal floodplain marshes,TF1.4 Seasonal floodplain marshes,73
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,144,Lasiurus-Panicum grassland,NA,T4.1,Trophic savannas,T4.1 Trophic savannas,22
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,145,Cenchrus-Dactyloctenium grassland,NA,T5.1,Semi-desert steppe,T5.1 Semi-desert steppe,30
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,147,Sehima-Dichanthium grassland,NA,T4.2,Pyric tussock savannas,T4.2 Pyric tussock savannas,23
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,148,Coastal swampy grassland,NA,T4.1,Trophic savannas,T4.1 Trophic savannas,22
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,15,Secondary evergreen,NA,T1.1,Tropical/Subtropical lowland rainforests,T1.1 Tropical/Subtropical lowland rainforests,1
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,150,Orchard,NA,T7.3,Plantations,T7.3 Plantations,48
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,151,Tea,NA,T7.3,Plantations,T7.3 Plantations,48
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,153,Arecanut,NA,T7.3,Plantations,T7.3 Plantations,48
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,154,Coconut,NA,T7.3,Plantations,T7.3 Plantations,48
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,157,Mango,NA,T7.3,Plantations,T7.3 Plantations,48
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,158,Saffron,NA,T7.1,Annual croplands,T7.1 Annual croplands,46
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,16,Sub-tropical broadleaved,NA,T2.4,Warm temperate laurophyll forests,T2.4 Warm temperate laurophyll forests,10
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,160,Cryptomeria,NA,T7.3,Plantations,T7.3 Plantations,48
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,163,Padauk,NA,T7.3,Plantations,T7.3 Plantations,48
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,17,Sub-tropical dry evergreen,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,170,Agriculture,NA,T7.1,Annual croplands,T7.1 Annual croplands,46
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,171,Cold deserts,NA,T5.4,Cool deserts and semi-deserts,T5.4 Cool deserts and semi-deserts,33
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,172,No data,NA,0,No data,No data,0
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,173,Abandoned jhum,NA,NA,Not referable,Not referable,255
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,18,Montane wet temperate,NA,T2.4,Warm temperate laurophyll forests,T2.4 Warm temperate laurophyll forests,10
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,180,Barren land,NA,NA,Not referable,Not referable,255
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,181,River bed,NA,NA,Not referable,Not referable,255
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,185,Run of Kutchh,NA,TF1.5,Episodic arid floodplains,TF1.5 Episodic arid floodplains,74
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,188,No data,NA,0,No data,No data,0
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,19,Himalayan moist temperate,NA,T2.1,Boreal and temperate high montane forests and woodlands,T2.1 Boreal and temperate high montane forests and woodlands,7
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,190,Water body,NA,NA,Not referable,Not referable,255
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,191,Wet lands,NA,NA,Not referable,Not referable,255
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,200,Settlement,NA,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,21,Sub alpine,NA,T2.1,Boreal and temperate high montane forests and woodlands,T2.1 Boreal and temperate high montane forests and woodlands,7
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,211,Snow,NA,T6.1,"Ice sheets, glaciers and perennial snowfields","T6.1 Ice sheets, glaciers and perennial snowfields",38
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,22,Semi-evergreen,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,23,Moist deciduous,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,24,Sal mixed moist deciduous,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,25,Teak mixed moist deciduous,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,255,Reject class,NA,0,No data,No data,0
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,26,Dry deciduous,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,27,Sal mixed dry deciduous,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,28,Teak mixed dry deciduous,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,29,Thorn forest,NA,T4.1,Trophic savannas,T4.1 Trophic savannas,22
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,30,Bamboo mixed,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,31,Temperate coniferous,NA,T2.1,Boreal and temperate high montane forests and woodlands,T2.1 Boreal and temperate high montane forests and woodlands,7
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,32,Pine mixed,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,36,Sal,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,37,Teak,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,38,Dipterocarpus,NA,T1.1,Tropical/Subtropical lowland rainforests,T1.1 Tropical/Subtropical lowland rainforests,1
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,40,Bamboo,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,41,Pine,NA,T2.1,Boreal and temperate high montane forests and woodlands,T2.1 Boreal and temperate high montane forests and woodlands,7
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,42,Fir,NA,T2.1,Boreal and temperate high montane forests and woodlands,T2.1 Boreal and temperate high montane forests and woodlands,7
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,44,Oak,NA,T2.4,Warm temperate laurophyll forests,T2.4 Warm temperate laurophyll forests,10
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,45,Deodar,NA,T2.1,Boreal and temperate high montane forests and woodlands,T2.1 Boreal and temperate high montane forests and woodlands,7
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,46,Hardwickia,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,47,Red sanders,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,48,Cleistanthus,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,49,Boswellia,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,53,Acacia catechu,NA,T4.1,Trophic savannas,T4.1 Trophic savannas,22
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,54,Anogeissus pendula,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,55,Acacia senegal,NA,T4.1,Trophic savannas,T4.1 Trophic savannas,22
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,56,Cypress,NA,T2.1,Boreal and temperate high montane forests and woodlands,T2.1 Boreal and temperate high montane forests and woodlands,7
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,58,Rhododendron,NA,T2.4,Warm temperate laurophyll forests,T2.4 Warm temperate laurophyll forests,10
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,63,Juniper,NA,T2.1,Boreal and temperate high montane forests and woodlands,T2.1 Boreal and temperate high montane forests and woodlands,7
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,66,Mangrove,NA,MFT1.2,Intertidal forests and shrublands,MFT1.2 Intertidal forests and shrublands,169
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,67,Avicennia,NA,MFT1.2,Intertidal forests and shrublands,MFT1.2 Intertidal forests and shrublands,169
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,71,Lumnitzera,NA,MFT1.2,Intertidal forests and shrublands,MFT1.2 Intertidal forests and shrublands,169
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,72,Mangrove scrub,NA,MFT1.2,Intertidal forests and shrublands,MFT1.2 Intertidal forests and shrublands,169
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,73,Phoenix,NA,MFT1.2,Intertidal forests and shrublands,MFT1.2 Intertidal forests and shrublands,169
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,74,Rhizophora,NA,MFT1.2,Intertidal forests and shrublands,MFT1.2 Intertidal forests and shrublands,169
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,75,Xylocarpus,NA,MFT1.2,Intertidal forests and shrublands,MFT1.2 Intertidal forests and shrublands,169
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,76,Littoral forest,NA,T1.1,Tropical/Subtropical lowland rainforests,T1.1 Tropical/Subtropical lowland rainforests,1
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,77,Fresh water swamp forest,NA,TF1.1,Tropical flooded forests and peat forests,TF1.1 Tropical flooded forests and peat forests,70
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,78,Lowland swamp forest,NA,TF1.1,Tropical flooded forests and peat forests,TF1.1 Tropical flooded forests and peat forests,70
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,80,Syzigium swamp,NA,TF1.1,Tropical flooded forests and peat forests,TF1.1 Tropical flooded forests and peat forests,70
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,81,Sholas,NA,T1.3,Tropical/Subtropical montane rainforests,T1.3 Tropical/Subtropical montane rainforests,3
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,82,Riverine,NA,NA,Not referable,Not referable,255
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,84,Ravine,NA,T4.1,Trophic savannas,T4.1 Trophic savannas,22
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,85,Sacred groves,NA,T1.1,Tropical/Subtropical lowland rainforests,T1.1 Tropical/Subtropical lowland rainforests,1
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,86,Tropical seasonal swamp forest,NA,TF1.1,Tropical flooded forests and peat forests,TF1.1 Tropical flooded forests and peat forests,70
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,87,Kans,NA,T1.1,Tropical/Subtropical lowland rainforests,T1.1 Tropical/Subtropical lowland rainforests,1
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,90,Forest plantations,NA,T7.3,Plantations,T7.3 Plantations,48
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,94,Acacia,NA,T7.3,Plantations,T7.3 Plantations,48
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,95,Pine,NA,T2.1,Boreal and temperate high montane forests and woodlands,T2.1 Boreal and temperate high montane forests and woodlands,7
+3/09/2026,Alli Lynn,2.1,277,iirs_india_vegetation_2015,30712,VegetationTypeMap_India,raster code,96,Casuriana,NA,T7.3,Plantations,T7.3 Plantations,48
 4/09/2024 0:00,INEGI_NCAVES,2.1,122,inegi_mex_lcov_2021,51465,cdv_usuev250sVII_cnal,DESCRIPCIO,ACUÍCOLA,ACUÍCOLA,No further information,F3.4,Freshwater aquafarms,F3.4 Freshwater aquafarms,110
 4/09/2024 0:00,INEGI_NCAVES,2.1,122,inegi_mex_lcov_2021,51465,cdv_usuev250sVII_cnal,DESCRIPCIO,AGRICULTURA DE HUMEDAD ANUAL,AGRICULTURA DE HUMEDAD ANUAL,No further information,T7.1,Annual croplands,T7.1 Annual croplands,46
 4/09/2024 0:00,INEGI_NCAVES,2.1,122,inegi_mex_lcov_2021,51465,cdv_usuev250sVII_cnal,DESCRIPCIO,AGRICULTURA DE HUMEDAD ANUAL Y PERMANENTE,AGRICULTURA DE HUMEDAD ANUAL Y PERMANENTE,No further information,T7.1,Annual croplands,T7.1 Annual croplands,46
