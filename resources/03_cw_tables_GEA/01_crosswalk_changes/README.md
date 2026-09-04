@@ -1,3 +1,14 @@
+### Cross referencing pipeline run no. 97 on 2026-09-04 05:26 PM AEST
+
+**Changes made**
+- resources/03_cw_tables_GEA
+
+**New folders created**
+- resources/03_cw_tables_GEA/iirs_india_vegetation_2015
+- resources/03_cw_tables_GEA/iirs_india_vegetation_2015/per_layer_name
+
+---
+
 ### Cross referencing pipeline run no. 96 on 2026-09-04 10:12 AM AEST
 
 **Changes made**
