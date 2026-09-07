@@ -660,6 +660,51 @@ var lde_lesotho_eco_2025 = {
   efg_codes: ['0', 'T7.4', 'T7.1', 'T4.5', 'F2.3', 'F3.1', 'F3.2']
 };
 
+//mapb_argen_lcov_2026
+var mapb_argen_lcov_2026 = {
+  source_id: 488,
+  data_id_code: 'mapb_argen_lcov_2026',
+  dataset_year: 2024,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.mapb_argen_lcov_2026,
+  band_layer_name: [''],
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
+  in_class_value: [11, 12, 15, 19, 21, 24, 25, 27, 3, 33, 34, 36, 4, 6, 63, 66, 73, 77, 9],
+  pixel_value: [73, 26, 47, 46, 255, 49, 255, 0, 255, 255, 38, 48, 255, 71, 255, 255, 75, 255, 48],
+  efg_names: ['Seasonal floodplain marshes', 'Temperate subhumid grasslands', 'Sown pastures and fields', 'Annual croplands', 'Not referable', 'Urban and industrial ecosystems', 'Not referable', 'No data', 'Not referable', 'Not referable', 'Ice sheets, glaciers and perennial snowfields', 'Plantations', 'Not referable', 'Subtropical/temperate forested wetlands', 'Not referable', 'Not referable', 'Boreal, temperate and montane peat bogs', 'Not referable', 'Plantations'],
+  efg_codes: ['TF1.4', 'T4.5', 'T7.2', 'T7.1', 'NA', 'T7.4', 'NA', '0', 'NA', 'NA', 'T6.1', 'T7.3', 'NA', 'TF1.2', 'NA', 'NA', 'TF1.6', 'NA', 'T7.3']
+};
+
+//mapb_boliv_lcov_2024
+var mapb_boliv_lcov_2024 = {
+  source_id: 482,
+  data_id_code: 'mapb_boliv_lcov_2024',
+  dataset_year: 2024,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.mapb_boliv_lcov_2024,
+  band_layer_name: [''],
+  in_class_field_name: ['NA'],
+  in_class_value: ['NA'],
+  pixel_value: [255],
+  efg_names: ['Not referable'],
+  efg_codes: ['NA']
+};
+
+//mapb_uruguay_lcov_2026
+var mapb_uruguay_lcov_2026 = {
+  source_id: 486,
+  data_id_code: 'mapb_uruguay_lcov_2026',
+  dataset_year: 2024,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.mapb_uruguay_lcov_2026,
+  band_layer_name: [''],
+  in_class_field_name: ['Wetland', 'Grassland', 'Pasture', 'Agriculture', 'Non vegetated area', 'Forest formation', 'River, lake or ocean', 'Pinus plantation', 'Eucalyptus plantation', 'Other forestry uses'],
+  in_class_value: [11, 12, 15, 19, 22, 3, 33, 79, 80, 83],
+  pixel_value: [255, 26, 48, 46, 0, 25, 0, 48, 48, 48],
+  efg_names: ['Not referable', 'Temperate subhumid grasslands', 'Plantations', 'Annual croplands', 'No data', 'Temperate woodlands', 'No data', 'Plantations', 'Plantations', 'Plantations'],
+  efg_codes: ['NA', 'T4.5', 'T7.3', 'T7.1', '0', 'T4.4', '0', 'T7.3', 'T7.3', 'T7.3']
+};
+
 //must_malawi_eco_2024
 var must_malawi_eco_2024 = {
   source_id: 215,
