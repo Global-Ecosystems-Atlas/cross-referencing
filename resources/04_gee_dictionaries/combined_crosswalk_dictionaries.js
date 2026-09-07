@@ -690,6 +690,21 @@ var mapb_boliv_lcov_2024 = {
   efg_codes: ['NA']
 };
 
+//mapb_peru_lcov_2026
+var mapb_peru_lcov_2026 = {
+  source_id: 483,
+  data_id_code: 'mapb_peru_lcov_2026',
+  dataset_year: 2025,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.mapb_peru_lcov_2026,
+  band_layer_name: [''],
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
+  in_class_value: [12, 15, 21, 23, 24, 25, 27, 3, 30, 31, 33, 34, 35, 4, 40, 5, 51, 52, 6, 61, 66, 68, 70, 82, 9, 92],
+  pixel_value: [255, 47, 255, 255, 49, 255, 0, 255, 49, 155, 255, 38, 48, 255, 109, 169, 73, 255, 70, 98, 255, 255, 255, 255, 48, 19],
+  efg_names: ['Not referable', 'Sown pastures and fields', 'Not referable', 'Not referable', 'Urban and industrial ecosystems', 'Not referable', 'No data', 'Not referable', 'Urban and industrial ecosystems', 'Marine aquafarms', 'Not referable', 'Ice sheets, glaciers and perennial snowfields', 'Plantations', 'Not referable', 'Rice paddies', 'Intertidal forests and shrublands', 'Seasonal floodplain marshes', 'Not referable', 'Tropical flooded forests and peat forests', 'Ephemeral salt lakes', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Plantations', 'Young rocky pavements, lava flows and screes'],
+  efg_codes: ['NA', 'T7.2', 'NA', 'NA', 'T7.4', 'NA', '0', 'NA', 'T7.4', 'M4.2', 'NA', 'T6.1', 'T7.3', 'NA', 'F3.3', 'MFT1.2', 'TF1.4', 'NA', 'TF1.1', 'F2.7', 'NA', 'NA', 'NA', 'NA', 'T7.3', 'T3.4']
+};
+
 //mapb_uruguay_lcov_2026
 var mapb_uruguay_lcov_2026 = {
   source_id: 486,
