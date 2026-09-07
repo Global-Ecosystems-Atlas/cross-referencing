@@ -1,3 +1,18 @@
+### Cross referencing pipeline run no. 99 on 2026-09-07 11:58 AM AEST
+
+**Changes made**
+- resources/03_cw_tables_GEA
+
+**New folders created**
+- resources/03_cw_tables_GEA/mapb_argen_lcov_2026
+- resources/03_cw_tables_GEA/mapb_argen_lcov_2026/per_layer_name
+- resources/03_cw_tables_GEA/mapb_boliv_lcov_2024
+- resources/03_cw_tables_GEA/mapb_boliv_lcov_2024/per_layer_name
+- resources/03_cw_tables_GEA/mapb_uruguay_lcov_2026
+- resources/03_cw_tables_GEA/mapb_uruguay_lcov_2026/per_layer_name
+
+---
+
 ### Cross referencing pipeline run no. 98 on 2026-09-07 09:47 AM AEST
 
 **Changes made**
