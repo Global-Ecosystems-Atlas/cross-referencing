@@ -1,3 +1,18 @@
+### Cross referencing pipeline run no. 101 on 2026-09-08 09:10 AM AEST
+
+**Changes made**
+- resources/03_cw_tables_GEA
+
+**New folders created**
+- resources/03_cw_tables_GEA/leca_europe_eco_2025
+- resources/03_cw_tables_GEA/leca_europe_eco_2025/per_layer_name
+- resources/03_cw_tables_GEA/nies_japan_lcov_2024
+- resources/03_cw_tables_GEA/nies_japan_lcov_2024/per_layer_name
+- resources/03_cw_tables_GEA/unc_global_river_2018
+- resources/03_cw_tables_GEA/unc_global_river_2018/per_layer_name
+
+---
+
 ### Cross referencing pipeline run no. 100 on 2026-09-07 02:39 PM AEST
 
 **Changes made**
