@@ -698,11 +698,11 @@ var mapb_boliv_lcov_2024 = {
   vector_raster: 'Raster',
   ee_asset_id: repository.data_catalogue.mapb_boliv_lcov_2024,
   band_layer_name: [''],
-  in_class_field_name: ['NA'],
-  in_class_value: ['NA'],
-  pixel_value: [255],
-  efg_names: ['Not referable'],
-  efg_codes: ['NA']
+  in_class_field_name: ['Flooded grassland/shrubland', 'Grassland/shrubland', 'Other non-forest natural formation', 'Pasture', 'Mosaic of uses', 'Beach, dune and sand spot', 'Urban infrastructure', 'Other non-vegetated anthropic area', 'Rocky outcrop', 'Forest', 'Mining', 'Aquaculture', 'River, lake', 'Glacier', 'Soybean', 'Open forest', 'Flooded forest', 'Salt flat', 'Scrublands', 'Other non-vegetated natural area', 'Other crops', 'Andean grassland and shrubland', 'Flooded Andean grassland and shrubland'],
+  in_class_value: [11, 12, 13, 15, 21, 23, 24, 25, 29, 3, 30, 31, 33, 34, 39, 4, 6, 61, 66, 68, 72, 81, 82],
+  pixel_value: [73, 23, 2, 47, 255, 81, 49, 255, 19, 255, 49, 110, 255, 38, 46, 23, 70, 98, 41, 41, 46, 41, 74],
+  efg_names: ['Seasonal floodplain marshes', 'Pyric tussock savannas', 'Tropical/Subtropical dry forests and thickets', 'Sown pastures and fields', 'Not referable', 'Permanent upland streams', 'Urban and industrial ecosystems', 'Not referable', 'Young rocky pavements, lava flows and screes', 'Not referable', 'Urban and industrial ecosystems', 'Freshwater aquafarms', 'Not referable', 'Ice sheets, glaciers and perennial snowfields', 'Annual croplands', 'Pyric tussock savannas', 'Tropical flooded forests and peat forests', 'Ephemeral salt lakes', 'Temperate alpine grasslands and shrublands', 'Temperate alpine grasslands and shrublands', 'Annual croplands', 'Temperate alpine grasslands and shrublands', 'Episodic arid floodplains'],
+  efg_codes: ['TF1.4', 'T4.2', 'T1.2', 'T7.2', 'NA', 'F1.1', 'T7.4', 'NA', 'T3.4', 'NA', 'T7.4', 'F3.4', 'NA', 'T6.1', 'T7.1', 'T4.2', 'TF1.1', 'F2.7', 'T6.4', 'T6.4', 'T7.1', 'T6.4', 'TF1.5']
 };
 
 //mapb_peru_lcov_2026
@@ -720,13 +720,13 @@ var mapb_peru_lcov_2026 = {
   efg_codes: ['NA', 'T7.2', 'NA', 'NA', 'T7.4', 'NA', '0', 'NA', 'T7.4', 'M4.2', 'NA', 'T6.1', 'T7.3', 'NA', 'F3.3', 'MFT1.2', 'TF1.4', 'NA', 'TF1.1', 'F2.7', 'NA', 'NA', 'NA', 'NA', 'T7.3', 'T3.4']
 };
 
-//mapb_uruguay_lcov_2026
-var mapb_uruguay_lcov_2026 = {
+//mapbiomas-uruguay-collection-30-2024.tif
+var mapbiomas-uruguay-collection-30-2024.tif = {
   source_id: 486,
-  data_id_code: 'mapb_uruguay_lcov_2026',
+  data_id_code: 'mapbiomas-uruguay-collection-30-2024.tif',
   dataset_year: 2024,
   vector_raster: 'Raster',
-  ee_asset_id: repository.data_catalogue.mapb_uruguay_lcov_2026,
+  ee_asset_id: repository.data_catalogue.mapbiomas-uruguay-collection-30-2024.tif,
   band_layer_name: [''],
   in_class_field_name: ['Wetland', 'Grassland', 'Pasture', 'Agriculture', 'Non vegetated area', 'Forest formation', 'River, lake or ocean', 'Pinus plantation', 'Eucalyptus plantation', 'Other forestry uses'],
   in_class_value: [11, 12, 15, 19, 22, 3, 33, 79, 80, 83],
