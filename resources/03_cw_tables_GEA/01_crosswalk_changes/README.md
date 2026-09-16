@@ -1,3 +1,14 @@
+### Cross referencing pipeline run no. 107 on 2026-09-16 02:18 PM AEST
+
+**Changes made**
+- resources/03_cw_tables_GEA
+
+**New folders created**
+- resources/03_cw_tables_GEA/bcc_armenia_eco_2025
+- resources/03_cw_tables_GEA/bcc_armenia_eco_2025/per_layer_name
+
+---
+
 ### Cross referencing pipeline run no. 106 on 2026-09-16 10:31 AM AEST
 
 **Changes made**
