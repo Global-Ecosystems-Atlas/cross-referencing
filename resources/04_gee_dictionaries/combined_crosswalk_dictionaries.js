@@ -75,6 +75,21 @@ var asu_global_seagrass_2026 = {
   efg_codes: ['M1.1']
 };
 
+//bcc_armenia_eco_2025
+var bcc_armenia_eco_2025 = {
+  source_id: 327,
+  data_id_code: 'bcc_armenia_eco_2025',
+  dataset_year: 2023,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.bcc_armenia_eco_2025,
+  band_layer_name: [''],
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
+  in_class_value: [1, 1001, 12, 13, 14, 15, 16, 18, 2, 20, 21, 22, 25, 3, 31, 32, 33, 34, 35, 36, 37, 39, 4, 41, 43, 44, 5, 6, 7, 8],
+  pixel_value: [39, 255, 46, 46, 49, 48, 49, 49, 41, 8, 39, 19, 25, 26, 8, 8, 8, 8, 8, 8, 8, 8, 26, 25, 25, 25, 30, 30, 76, 72],
+  efg_names: ['Polar/alpine cliffs, screes, outcrops and lava flows', 'Not referable', 'Annual croplands', 'Annual croplands', 'Urban and industrial ecosystems', 'Plantations', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Temperate alpine grasslands and shrublands', 'Deciduous temperate forests', 'Polar/alpine cliffs, screes, outcrops and lava flows', 'Young rocky pavements, lava flows and screes', 'Temperate woodlands', 'Temperate subhumid grasslands', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Deciduous temperate forests', 'Temperate subhumid grasslands', 'Temperate woodlands', 'Temperate woodlands', 'Temperate woodlands', 'Semi-desert steppe', 'Semi-desert steppe', 'Boreal and temperate fens', 'Permanent marshes'],
+  efg_codes: ['T6.2', 'NA', 'T7.1', 'T7.1', 'T7.4', 'T7.3', 'T7.4', 'T7.4', 'T6.4', 'T2.2', 'T6.2', 'T3.4', 'T4.4', 'T4.5', 'T2.2', 'T2.2', 'T2.2', 'T2.2', 'T2.2', 'T2.2', 'T2.2', 'T2.2', 'T4.5', 'T4.4', 'T4.4', 'T4.4', 'T5.1', 'T5.1', 'TF1.7', 'TF1.3']
+};
+
 //bnetd_cotedivoire_lcov_2020
 var bnetd_cotedivoire_lcov_2020 = {
   source_id: 394,

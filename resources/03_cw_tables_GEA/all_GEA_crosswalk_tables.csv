@@ -58,6 +58,36 @@ crossref_date,crossref_by,GET_vsn,Source_ID,data_id_code,layer_id,layer_name,in_
 10-Dec-25,Alli Lynn,2.1,291,airi_seasia_ricepaddy_2019,31,MSEAsia2019,raster code,0,NA,NA,0,No data,No data,0
 10-Dec-25,Alli Lynn,2.1,291,airi_seasia_ricepaddy_2019,31,MSEAsia2019,raster code,255,NA,NA,F3.3,Rice paddies,F3.3 Rice paddies,109
 25/06/2026,Ben_Cresswell,2.1,438,asu_global_seagrass_2026,47606,GlobalSeagrass2023_2024-XXX.tif,Raster code,1,NA,Seagrass,M1.1,Seagrass meadows,M1.1 Seagrass meadows,120
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,1,High mountain,NA,T6.2,"Polar/alpine cliffs, screes, outcrops and lava flows","T6.2 Polar/alpine cliffs, screes, outcrops and lava flows",39
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,1001,Water bodies,NA,NA,Not referable,Not referable,255
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,12,Actively cultivated landscapes,NA,T7.1,Annual croplands,T7.1 Annual croplands,46
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,13,Actively used croplands,NA,T7.1,Annual croplands,T7.1 Annual croplands,46
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,14,Settlements,NA,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,15,"Tree, vine and shrub crops",NA,T7.3,Plantations,T7.3 Plantations,48
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,16,Buildings,NA,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,18,Quarries,NA,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,2,Alpine,NA,T6.4,Temperate alpine grasslands and shrublands,T6.4 Temperate alpine grasslands and shrublands,41
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,20,Forest-like woody vegetation in human-modified landscapes,NA,T2.2,Deciduous temperate forests,T2.2 Deciduous temperate forests,8
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,21,High-mountain,NA,T6.2,"Polar/alpine cliffs, screes, outcrops and lava flows","T6.2 Polar/alpine cliffs, screes, outcrops and lava flows",39
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,22,Rocky habitats,NA,T3.4,"Young rocky pavements, lava flows and screes","T3.4 Young rocky pavements, lava flows and screes",19
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,25,Open woodland-like woody vegetation in human-modified landscapes,NA,T4.4,Temperate woodlands,T4.4 Temperate woodlands,25
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,3,Subalpine,NA,T4.5,Temperate subhumid grasslands,T4.5 Temperate subhumid grasslands,26
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,31,Fagus orientalis and other deciduous,NA,T2.2,Deciduous temperate forests,T2.2 Deciduous temperate forests,8
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,32,Quercus macranthera and other deciduous,NA,T2.2,Deciduous temperate forests,T2.2 Deciduous temperate forests,8
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,33,Quercus macranthera,NA,T2.2,Deciduous temperate forests,T2.2 Deciduous temperate forests,8
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,34,Quercus iberica and other deciduous,NA,T2.2,Deciduous temperate forests,T2.2 Deciduous temperate forests,8
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,35,Quercus iberica,NA,T2.2,Deciduous temperate forests,T2.2 Deciduous temperate forests,8
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,36,Pinus kochiana,NA,T2.2,Deciduous temperate forests,T2.2 Deciduous temperate forests,8
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,37,Closed-canopy forest plantations,NA,T2.2,Deciduous temperate forests,T2.2 Deciduous temperate forests,8
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,39,Open-canopy forest plantations,NA,T2.2,Deciduous temperate forests,T2.2 Deciduous temperate forests,8
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,4,Steppe,NA,T4.5,Temperate subhumid grasslands,T4.5 Temperate subhumid grasslands,26
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,41,Subalpine woodlands,NA,T4.4,Temperate woodlands,T4.4 Temperate woodlands,25
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,43,Mixed woodlands,NA,T4.4,Temperate woodlands,T4.4 Temperate woodlands,25
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,44,Juniper woodlands,NA,T4.4,Temperate woodlands,T4.4 Temperate woodlands,25
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,5,Semi-desert,NA,T5.1,Semi-desert steppe,T5.1 Semi-desert steppe,30
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,6,Desert,NA,T5.1,Semi-desert steppe,T5.1 Semi-desert steppe,30
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,7,Fens and wet meadows,NA,TF1.7,Boreal and temperate fens,TF1.7 Boreal and temperate fens,76
+16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,8,Permanent marshes in the Ararat Valley,NA,TF1.3,Permanent marshes,TF1.3 Permanent marshes,72
 27/03/2026,Alli Lynn,2.1,394,bnetd_cotedivoire_lcov_2020,16436,ocs2020,raster code,1,Dense forest,"Natural formations of the primary type, closed stand with
 trees and shrubs reaching various heights between 5 and 50 m; the
 tree crowns are relatively close together;
