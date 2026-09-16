@@ -248,8 +248,8 @@ var drtmth_global_rivermine_2023 = {
   vector_raster: 'Vector',
   ee_asset_id: repository.data_catalogue.drtmth_global_rivermine_2023,
   band_layer_name: [''],
-  in_class_field_name: ['Shape'],
-  in_class_value: ['Polygon'],
+  in_class_field_name: ['class'],
+  in_class_value: [1],
   pixel_value: [108],
   efg_names: ['Constructed lacustrine wetlands'],
   efg_codes: ['F3.2']

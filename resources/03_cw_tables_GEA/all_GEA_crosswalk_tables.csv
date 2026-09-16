@@ -1230,7 +1230,7 @@ straight line boundaries of the patches.",T7.3,Plantations,T7.3 Plantations,48
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,42521,2018_dominant_esc,Raster code,97,NA,NA,0,No data,No data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,42521,2018_dominant_esc,Raster code,98,NA,NA,0,No data,No data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,42521,2018_dominant_esc,Raster code,99,NA,NA,0,No data,No data,0
-8/07/2026,Tess_Harmer,2.1,434,drtmth_global_rivermine_2023,6373,ASGM_global_polygons_20230404,Shape,Polygon,NA,NA,F3.2,Constructed lacustrine wetlands,F3.2 Constructed lacustrine wetlands,108
+8/07/2026,Tess_Harmer,2.1,434,drtmth_global_rivermine_2023,6373,ASGM_global_polygons_20230404,class,1,NA,NA,F3.2,Constructed lacustrine wetlands,F3.2 Constructed lacustrine wetlands,108
 28/8/26,Naema_GrosDubois,2.1,397,ecnu_global_owt_2020,53705,GOWF_V2021,class,1,Offshore wind turbine,NA,M4.1,Submerged artificial structures,M4.1 Submerged artificial structures,154
 11-Dec-25,Eswatini National Trust Commission,2.1,257,entc_eswatini_eco_2025,46438,Eswatini_Raster_100m,NA,1,NA,NA,T7.3,Plantations,T7.3 Plantations,48
 11-Dec-25,Eswatini National Trust Commission,2.1,257,entc_eswatini_eco_2025,46438,Eswatini_Raster_100m,NA,10,NA,NA,T4.5,Temperate subhumid grasslands,T4.5 Temperate subhumid grasslands,26
