@@ -1,3 +1,15 @@
+### Cross referencing pipeline run no. 106 on 2026-09-16 10:31 AM AEST
+
+**Changes made**
+- resources/03_cw_tables_GEA
+- resources/03_cw_tables_GEA/drtmth_global_rivermine_2023
+- resources/03_cw_tables_GEA/drtmth_global_rivermine_2023/per_layer_name
+
+**New folders created**
+no new folders
+
+---
+
 ### Cross referencing pipeline run no. 105 on 2026-09-15 10:32 AM AEST
 
 **Changes made**
