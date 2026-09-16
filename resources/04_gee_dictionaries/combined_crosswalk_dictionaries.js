@@ -780,6 +780,21 @@ var must_malawi_eco_2024 = {
   efg_codes: ['T1.3', 'T1.3', 'T4.2', 'F1.2', 'F2.1', 'TF1.4', 'F2.1', 'T4.2', 'T4.2', 'F1.2', 'TF1.3', 'F2.1', 'T4.2', 'T4.2', 'TF1.3', 'F1.2', 'TF1.4', 'F2.1', 'F2.2', 'F1.2', 'TF1.3', 'F1.2', 'TF1.4', 'F2.2', 'T4.2', 'F1.2', 'TF1.4', 'TF1.3', 'TF1.4', 'T4.2', 'T3.1', 'T4.2', 'T1.3', 'T3.1', 'T4.2', 'TF1.3', 'F1.2', 'TF1.4', 'F2.1', 'F2.1', 'F1.2', 'TF1.4', 'F1.2', 'TF1.4', 'T4.2', 'F2.1', 'F2.1', 'T4.2', 'F1.2', 'F1.2', 'TF1.4', 'F1.2', 'TF1.3', 'F1.2', 'TF1.3', 'F1.2', 'TF1.4', 'F1.2', 'F2.1', 'T4.1', 'T4.2', 'T4.1', 'TF1.3', 'T4.2', 'T4.2', 'T1.1', 'T1.3']
 };
 
+//mvot_uruguay_lcov_2024
+var mvot_uruguay_lcov_2024 = {
+  source_id: 409,
+  data_id_code: 'mvot_uruguay_lcov_2024',
+  dataset_year: 2022,
+  vector_raster: 'Vector',
+  ee_asset_id: repository.data_catalogue.mvot_uruguay_lcov_2024,
+  band_layer_name: [''],
+  in_class_field_name: ['SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE', 'SUBCLASE'],
+  in_class_value: ['Arbusto', 'Area Impermeable', 'Area Impermeable Dispersa', 'Arena', 'Ba¤ados/Humedales', 'Bosque Nativo', 'Bosque Nativo Disperso', 'Cantera, Arenera, Mina a Cielo Abierto', 'Cuerpo de Agua Artificial', 'Cuerpo de Agua Natural', 'Cultivo de Arroz', 'Cultivo de Ca¤a de Azucar', 'Cultivo de invierno', 'Cultivo de invierno y verano (Doble Cultivo)', 'Cultivo de verano', 'Cultivos peque¤os', 'Cultivos pequeños', 'Frutales', 'Monte de abrigo y sombra', 'Palmares', 'Pastizal', 'Pastizal Con Afloramiento Rocoso', 'Pastizal Húmedo y/o Periodicamente Inundado', 'Pastizal de Uso Agrícola', 'Pastizal de uso agrícola', 'Pastizal y Palmares', 'Plantaci¢n Forestal nueva o cosechada', 'Plantación Forestal Eucaliptus', 'Plantación Forestal Mixta o Desconocida', 'Plantación Forestal Pino', 'Plantación Forestal nueva o cosechada', 'Roca Consolidada', 'Suelo Desnudo', 'Suelo Desnudo de Uso Agrícola'],
+  pixel_value: [255, 49, 49, 255, 72, 25, 25, 49, 108, 255, 109, 46, 46, 46, 46, 46, 46, 48, 48, 23, 255, 19, 73, 46, 46, 23, 48, 48, 48, 48, 48, 19, 255, 46],
+  efg_names: ['Not referable', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Not referable', 'Permanent marshes', 'Temperate woodlands', 'Temperate woodlands', 'Urban and industrial ecosystems', 'Constructed lacustrine wetlands', 'Not referable', 'Rice paddies', 'Annual croplands', 'Annual croplands', 'Annual croplands', 'Annual croplands', 'Annual croplands', 'Annual croplands', 'Plantations', 'Plantations', 'Pyric tussock savannas', 'Not referable', 'Young rocky pavements, lava flows and screes', 'Seasonal floodplain marshes', 'Annual croplands', 'Annual croplands', 'Pyric tussock savannas', 'Plantations', 'Plantations', 'Plantations', 'Plantations', 'Plantations', 'Young rocky pavements, lava flows and screes', 'Not referable', 'Annual croplands'],
+  efg_codes: ['NA', 'T7.4', 'T7.4', 'NA', 'TF1.3', 'T4.4', 'T4.4', 'T7.4', 'F3.2', 'NA', 'F3.3', 'T7.1', 'T7.1', 'T7.1', 'T7.1', 'T7.1', 'T7.1', 'T7.3', 'T7.3', 'T4.2', 'NA', 'T3.4', 'TF1.4', 'T7.1', 'T7.1', 'T4.2', 'T7.3', 'T7.3', 'T7.3', 'T7.3', 'T7.3', 'T3.4', 'NA', 'T7.1']
+};
+
 //ncs_singapore_eco_2019
 var ncs_singapore_eco_2019 = {
   source_id: 412,
