@@ -1,3 +1,14 @@
+### Cross referencing pipeline run no. 108 on 2026-09-17 09:13 AM AEST
+
+**Changes made**
+- resources/03_cw_tables_GEA
+
+**New folders created**
+- resources/03_cw_tables_GEA/mvot_uruguay_lcov_2024
+- resources/03_cw_tables_GEA/mvot_uruguay_lcov_2024/per_layer_name
+
+---
+
 ### Cross referencing pipeline run no. 107 on 2026-09-16 02:18 PM AEST
 
 **Changes made**
