@@ -745,9 +745,9 @@ var mapb_ecuad_lcov_2025 = {
   band_layer_name: [''],
   in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'NA'],
   in_class_value: [11, 12, 13, 21, 23, 24, 25, 29, 3, 30, 31, 33, 34, 4, 5, 6, 68, 74, 81, 82, 9, 27],
-  pixel_value: [255, 255, 255, 255, 255, 255, 255, 255, 255, 1, 255, 255, 1, 255, 255, 255, 255, 255, 255, 255, 255, 1],
-  efg_names: ['Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Tropical/Subtropical lowland rainforests', 'Not referable', 'Not referable', 'Tropical/Subtropical lowland rainforests', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Tropical/Subtropical lowland rainforests'],
-  efg_codes: ['NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'T1.1', 'NA', 'NA', 'T1.1', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'T1.1']
+  pixel_value: [255, 255, 255, 255, 255, 255, 255, 255, 255, 1, 255, 255, 1, 255, 255, 1, 255, 255, 255, 255, 255, 1],
+  efg_names: ['Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Tropical/Subtropical lowland rainforests', 'Not referable', 'Not referable', 'Tropical/Subtropical lowland rainforests', 'Not referable', 'Not referable', 'Tropical/Subtropical lowland rainforests', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Tropical/Subtropical lowland rainforests'],
+  efg_codes: ['NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'T1.1', 'NA', 'NA', 'T1.1', 'NA', 'NA', 'T1.1', 'NA', 'NA', 'NA', 'NA', 'NA', 'T1.1']
 };
 
 //mapb_peru_lcov_2026
