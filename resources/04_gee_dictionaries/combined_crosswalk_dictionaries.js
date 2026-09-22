@@ -735,6 +735,21 @@ var mapb_boliv_lcov_2024 = {
   efg_codes: ['TF1.4', 'T4.2', 'T1.2', 'T7.2', 'NA', 'F1.1', 'T7.4', 'NA', 'T3.4', 'NA', 'T7.4', 'F3.4', 'NA', 'T6.1', 'T7.1', 'T4.2', 'TF1.1', 'F2.7', 'T6.4', 'T6.4', 'T7.1', 'T6.4', 'TF1.5']
 };
 
+//mapb_ecuad_lcov_2025
+var mapb_ecuad_lcov_2025 = {
+  source_id: 487,
+  data_id_code: 'mapb_ecuad_lcov_2025',
+  dataset_year: 2024,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.mapb_ecuad_lcov_2025,
+  band_layer_name: [''],
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'NA'],
+  in_class_value: [11, 12, 13, 21, 23, 24, 25, 29, 3, 30, 31, 33, 34, 4, 5, 6, 68, 74, 81, 82, 9, 27],
+  pixel_value: [255, 255, 255, 255, 255, 255, 255, 255, 255, 1, 255, 255, 1, 255, 255, 255, 255, 255, 255, 255, 255, 1],
+  efg_names: ['Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Tropical/Subtropical lowland rainforests', 'Not referable', 'Not referable', 'Tropical/Subtropical lowland rainforests', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Tropical/Subtropical lowland rainforests'],
+  efg_codes: ['NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'T1.1', 'NA', 'NA', 'T1.1', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'T1.1']
+};
+
 //mapb_peru_lcov_2026
 var mapb_peru_lcov_2026 = {
   source_id: 483,
