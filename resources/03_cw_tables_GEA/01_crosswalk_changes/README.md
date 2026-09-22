@@ -1,3 +1,14 @@
+### Cross referencing pipeline run no. 110 on 2026-09-22 10:32 AM AEST
+
+**Changes made**
+- resources/03_cw_tables_GEA
+
+**New folders created**
+- resources/03_cw_tables_GEA/mapb_ecuad_lcov_2025
+- resources/03_cw_tables_GEA/mapb_ecuad_lcov_2025/per_layer_name
+
+---
+
 ### Cross referencing pipeline run no. 109 on 2026-09-22 10:24 AM AEST
 
 **Changes made**
