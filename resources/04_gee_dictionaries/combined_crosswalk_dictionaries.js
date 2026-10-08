@@ -75,6 +75,21 @@ var asu_global_seagrass_2026 = {
   efg_codes: ['M1.1']
 };
 
+//bas_antarctica_ice_2026
+var bas_antarctica_ice_2026 = {
+  source_id: 535,
+  data_id_code: 'bas_antarctica_ice_2026',
+  dataset_year: 2026,
+  vector_raster: 'Vector',
+  ee_asset_id: repository.data_catalogue.bas_antarctica_ice_2026,
+  band_layer_name: [''],
+  in_class_field_name: ['surface', 'surface', 'surface', 'surface'],
+  in_class_value: ['ice shelf', 'ice tongue', 'land', 'rumple'],
+  pixel_value: [139, 139, 38, 255],
+  efg_names: ['Sea ice', 'Sea ice', 'Ice sheets, glaciers and perennial snowfields', 'Not referable'],
+  efg_codes: ['M2.5', 'M2.5', 'T6.1', 'NA']
+};
+
 //bcc_armenia_eco_2025
 var bcc_armenia_eco_2025 = {
   source_id: 327,

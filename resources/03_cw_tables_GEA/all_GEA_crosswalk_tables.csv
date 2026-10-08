@@ -58,6 +58,10 @@ crossref_date,crossref_by,GET_vsn,Source_ID,data_id_code,layer_id,layer_name,in_
 10-Dec-25,Alli Lynn,2.1,291,airi_seasia_ricepaddy_2019,31,MSEAsia2019,raster code,0,NA,NA,0,No data,No data,0
 10-Dec-25,Alli Lynn,2.1,291,airi_seasia_ricepaddy_2019,31,MSEAsia2019,raster code,255,NA,NA,F3.3,Rice paddies,F3.3 Rice paddies,109
 25/06/2026,Ben_Cresswell,2.1,438,asu_global_seagrass_2026,47606,GlobalSeagrass2023_2024-XXX.tif,Raster code,1,NA,Seagrass,M1.1,Seagrass meadows,M1.1 Seagrass meadows,120
+8/10/2026,Tess_Harmer,2.1,535,bas_antarctica_ice_2026,44859,add_coastline_high_res_polygon_v7_12,surface,ice shelf,ice shelf,NA,M2.5,Sea ice,M2.5 Sea ice,139
+8/10/2026,Tess_Harmer,2.1,535,bas_antarctica_ice_2026,44859,add_coastline_high_res_polygon_v7_12,surface,ice tongue,ice tongue,NA,M2.5,Sea ice,M2.5 Sea ice,139
+8/10/2026,Tess_Harmer,2.1,535,bas_antarctica_ice_2026,44859,add_coastline_high_res_polygon_v7_12,surface,land,land,NA,T6.1,"Ice sheets, glaciers and perennial snowfields","T6.1 Ice sheets, glaciers and perennial snowfields",38
+8/10/2026,Tess_Harmer,2.1,535,bas_antarctica_ice_2026,44859,add_coastline_high_res_polygon_v7_12,surface,rumple,rumple,NA,NA,Not referable,Not referable,255
 16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,1,High mountain,NA,T6.2,"Polar/alpine cliffs, screes, outcrops and lava flows","T6.2 Polar/alpine cliffs, screes, outcrops and lava flows",39
 16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,1001,Water bodies,NA,NA,Not referable,Not referable,255
 16/09/2026,Alli Lynn,2.1,327,bcc_armenia_eco_2025,53918,Ecosystem_Map_of_Armenia_Final_10m_without_23_24.tif,raster code,12,Actively cultivated landscapes,NA,T7.1,Annual croplands,T7.1 Annual croplands,46
