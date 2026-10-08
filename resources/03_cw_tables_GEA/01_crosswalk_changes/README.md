@@ -1,3 +1,14 @@
+### Cross referencing pipeline run no. 114 on 2026-10-08 11:57 AM AEST
+
+**Changes made**
+- resources/03_cw_tables_GEA
+
+**New folders created**
+- resources/03_cw_tables_GEA/bas_antarctica_ice_2026
+- resources/03_cw_tables_GEA/bas_antarctica_ice_2026/per_layer_name
+
+---
+
 ### Cross referencing pipeline run no. 113 on 2026-10-08 11:34 AM AEST
 
 **Changes made**
