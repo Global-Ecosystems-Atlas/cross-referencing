@@ -5,8 +5,8 @@ crossref_date,crossref_by,GET_vsn,Source_ID,data_id_code,layer_id,layer_name,in_
 1/07/2026,Andrew Skowno,2.1,501,ucl_congo_lcov_2012,37765,congobasin_with_dry_forest_v4_GEA,WB_value,12,Plantation,NA,T7.3,Plantations,T7.3 Plantations,48
 1/07/2026,Andrew Skowno,2.1,501,ucl_congo_lcov_2012,37765,congobasin_with_dry_forest_v4_GEA,WB_value,13,Built-up,NA,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
 1/07/2026,Andrew Skowno,2.1,501,ucl_congo_lcov_2012,37765,congobasin_with_dry_forest_v4_GEA,WB_value,14,Mangroves,NA,MFT1.2,Intertidal forests and shrublands,MFT1.2 Intertidal forests and shrublands,169
-1/07/2026,Andrew Skowno,2.1,501,ucl_congo_lcov_2012,37765,congobasin_with_dry_forest_v4_GEA,WB_value,15,Open water,NA,NA,Not referable,Not referable,255
-1/07/2026,Andrew Skowno,2.1,501,ucl_congo_lcov_2012,37765,congobasin_with_dry_forest_v4_GEA,WB_value,16,Ocean,NA,NA,Not referable,Not referable,255
+1/07/2026,Andrew Skowno,2.1,501,ucl_congo_lcov_2012,37765,congobasin_with_dry_forest_v4_GEA,WB_value,15,Open water,NA,NOTREF,Not referable,Not referable,255
+1/07/2026,Andrew Skowno,2.1,501,ucl_congo_lcov_2012,37765,congobasin_with_dry_forest_v4_GEA,WB_value,16,Ocean,NA,NOTREF,Not referable,Not referable,255
 1/07/2026,Andrew Skowno,2.1,501,ucl_congo_lcov_2012,37765,congobasin_with_dry_forest_v4_GEA,WB_value,17,Dry forest,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
 1/07/2026,Andrew Skowno,2.1,501,ucl_congo_lcov_2012,37765,congobasin_with_dry_forest_v4_GEA,WB_value,2,Submontane forest,NA,T1.3,Tropical/Subtropical montane rainforests,T1.3 Tropical/Subtropical montane rainforests,3
 1/07/2026,Andrew Skowno,2.1,501,ucl_congo_lcov_2012,37765,congobasin_with_dry_forest_v4_GEA,WB_value,3,Montane forest,NA,T1.3,Tropical/Subtropical montane rainforests,T1.3 Tropical/Subtropical montane rainforests,3

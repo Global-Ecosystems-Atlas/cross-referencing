@@ -2,4 +2,4 @@ crossref_date,crossref_by,GET_vsn,Source_ID,data_id_code,layer_id,layer_name,in_
 8/10/2026,Tess_Harmer,2.1,535,bas_antarctica_ice_2026,44859,add_coastline_high_res_polygon_v7_12,surface,ice shelf,ice shelf,NA,M2.5,Sea ice,M2.5 Sea ice,139
 8/10/2026,Tess_Harmer,2.1,535,bas_antarctica_ice_2026,44859,add_coastline_high_res_polygon_v7_12,surface,ice tongue,ice tongue,NA,M2.5,Sea ice,M2.5 Sea ice,139
 8/10/2026,Tess_Harmer,2.1,535,bas_antarctica_ice_2026,44859,add_coastline_high_res_polygon_v7_12,surface,land,land,NA,T6.1,"Ice sheets, glaciers and perennial snowfields","T6.1 Ice sheets, glaciers and perennial snowfields",38
-8/10/2026,Tess_Harmer,2.1,535,bas_antarctica_ice_2026,44859,add_coastline_high_res_polygon_v7_12,surface,rumple,rumple,NA,NA,Not referable,Not referable,255
+8/10/2026,Tess_Harmer,2.1,535,bas_antarctica_ice_2026,44859,add_coastline_high_res_polygon_v7_12,surface,rumple,rumple,NA,NOTREF,Not referable,Not referable,255

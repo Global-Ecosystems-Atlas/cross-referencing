@@ -19,7 +19,7 @@ crossref_date,crossref_by,GET_vsn,Source_ID,data_id_code,layer_id,layer_name,in_
 9/09/2026,Alli Lynn,2.1,251,csiro_aus_eco_2025,21099,GET_MarineTerrestrial_2020_250m,raster code,23,FM1.1 Deepwater coastal inlets,NA,FM1.1,Deepwater coastal inlets,FM1.1 Deepwater coastal inlets,115
 9/09/2026,Alli Lynn,2.1,251,csiro_aus_eco_2025,21099,GET_MarineTerrestrial_2020_250m,raster code,24,FM1.2 Permanently open riverine estuaries and bays,NA,FM1.2,Permanently open riverine estuaries and bays,FM1.2 Permanently open riverine estuaries and bays,116
 9/09/2026,Alli Lynn,2.1,251,csiro_aus_eco_2025,21099,GET_MarineTerrestrial_2020_250m,raster code,25,FM1.3 Intermittently closed and open lakes and lagoons,NA,FM1.3,Intermittently closed and open lakes and lagoons,FM1.3 Intermittently closed and open lakes and lagoons,117
-9/09/2026,Alli Lynn,2.1,251,csiro_aus_eco_2025,21099,GET_MarineTerrestrial_2020_250m,raster code,255,Unclassified,NA,NA,Not referable,Not referable,255
+9/09/2026,Alli Lynn,2.1,251,csiro_aus_eco_2025,21099,GET_MarineTerrestrial_2020_250m,raster code,255,Unclassified,NA,NOTREF,Not referable,Not referable,255
 9/09/2026,Alli Lynn,2.1,251,csiro_aus_eco_2025,21099,GET_MarineTerrestrial_2020_250m,raster code,26,MFT1.1 Coastal river deltas,NA,MFT1.1,Coastal river deltas,MFT1.1 Coastal river deltas,168
 9/09/2026,Alli Lynn,2.1,251,csiro_aus_eco_2025,21099,GET_MarineTerrestrial_2020_250m,raster code,27,MFT1.2 Intertidal forests and shrublands,NA,MFT1.2,Intertidal forests and shrublands,MFT1.2 Intertidal forests and shrublands,169
 9/09/2026,Alli Lynn,2.1,251,csiro_aus_eco_2025,21099,GET_MarineTerrestrial_2020_250m,raster code,28,MFT1.3 Coastal saltmarshes and reedbeds,NA,MFT1.3,Coastal saltmarshes and reedbeds,MFT1.3 Coastal saltmarshes and reedbeds,170
@@ -58,7 +58,7 @@ crossref_date,crossref_by,GET_vsn,Source_ID,data_id_code,layer_id,layer_name,in_
 9/09/2026,Alli Lynn,2.1,251,csiro_aus_eco_2025,21099,GET_MarineTerrestrial_2020_250m,raster code,58,T5.4 Cool deserts and semi-deserts,NA,T5.4,Cool deserts and semi-deserts,T5.4 Cool deserts and semi-deserts,33
 9/09/2026,Alli Lynn,2.1,251,csiro_aus_eco_2025,21099,GET_MarineTerrestrial_2020_250m,raster code,59,T5.5 Hyper-arid deserts,NA,T5.5,Hyper-arid deserts,T5.5 Hyper-arid deserts,34
 9/09/2026,Alli Lynn,2.1,251,csiro_aus_eco_2025,21099,GET_MarineTerrestrial_2020_250m,raster code,6,F1.6 Episodic arid rivers,NA,F1.6,Episodic arid rivers,F1.6 Episodic arid rivers,86
-9/09/2026,Alli Lynn,2.1,251,csiro_aus_eco_2025,21099,GET_MarineTerrestrial_2020_250m,raster code,60,T5.6 Semi-arid open woodlands,NA,NA,Not referable,Not referable,255
+9/09/2026,Alli Lynn,2.1,251,csiro_aus_eco_2025,21099,GET_MarineTerrestrial_2020_250m,raster code,60,T5.6 Semi-arid open woodlands,NA,NOTREF,Not referable,Not referable,255
 9/09/2026,Alli Lynn,2.1,251,csiro_aus_eco_2025,21099,GET_MarineTerrestrial_2020_250m,raster code,61,"T6.1 Ice sheets, glaciers and perennial snowfields",NA,T6.1,"Ice sheets, glaciers and perennial snowfields","T6.1 Ice sheets, glaciers and perennial snowfields",38
 9/09/2026,Alli Lynn,2.1,251,csiro_aus_eco_2025,21099,GET_MarineTerrestrial_2020_250m,raster code,62,"T6.2 Polar/alpine cliffs, screes, outcrops and lava flows",NA,T6.2,"Polar/alpine cliffs, screes, outcrops and lava flows","T6.2 Polar/alpine cliffs, screes, outcrops and lava flows",39
 9/09/2026,Alli Lynn,2.1,251,csiro_aus_eco_2025,21099,GET_MarineTerrestrial_2020_250m,raster code,63,T6.3 Polar tundra and deserts,NA,T6.3,Polar tundra and deserts,T6.3 Polar tundra and deserts,40

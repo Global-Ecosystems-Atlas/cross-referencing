@@ -167,7 +167,7 @@ crossref_date,crossref_by,GET_vsn,Source_ID,data_id_code,layer_id,layer_name,in_
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,42521,2018_dominant_esc,Raster code,247,NA,NA,0,No data,No data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,42521,2018_dominant_esc,Raster code,248,NA,NA,0,No data,No data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,42521,2018_dominant_esc,Raster code,249,NA,NA,0,No data,No data,0
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,42521,2018_dominant_esc,Raster code,25,Feldhecken,Hedgerows,NA,Not referable,Not referable,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,42521,2018_dominant_esc,Raster code,25,Feldhecken,Hedgerows,NOTREF,Not referable,Not referable,255
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,42521,2018_dominant_esc,Raster code,250,NA,NA,0,No data,No data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,42521,2018_dominant_esc,Raster code,251,NA,NA,0,No data,No data,0
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,42521,2018_dominant_esc,Raster code,252,NA,NA,0,No data,No data,0
@@ -197,7 +197,7 @@ crossref_date,crossref_by,GET_vsn,Source_ID,data_id_code,layer_id,layer_name,in_
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,42521,2018_dominant_esc,Raster code,44,Natürliche oder renaturierte Zwischen- und Hochmoore,Natural and renaturalized peat bogs,TF1.6,"Boreal, temperate and montane peat bogs","TF1.6 Boreal, temperate and montane peat bogs",75
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,42521,2018_dominant_esc,Raster code,45,Natürliche oder renaturierte An- und Niedermoore,Natural and renaturalized fens,TF1.7,Boreal and temperate fens,TF1.7 Boreal and temperate fens,76
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,42521,2018_dominant_esc,Raster code,46,Salzwiesen,Salt marshes,MFT1.3,Coastal saltmarshes and reedbeds,MFT1.3 Coastal saltmarshes and reedbeds,170
-2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,42521,2018_dominant_esc,Raster code,47,NA,Other wetlands,NA,Not referable,Not referable,255
+2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,42521,2018_dominant_esc,Raster code,47,NA,Other wetlands,NOTREF,Not referable,Not referable,255
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,42521,2018_dominant_esc,Raster code,48,(künstlicher) Sandstrand,Shorelines biome,MT1.3,Sandy shorelines,MT1.3 Sandy shorelines,159
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,42521,2018_dominant_esc,Raster code,49,Küstendünen,Coastal dunes,MT1.3,Sandy shorelines,MT1.3 Sandy shorelines,159
 2024/07/22 00:00:00,Destatis_ARIES_team,2.1,152,destatis_germ_eco_2021,42521,2018_dominant_esc,Raster code,5,Industrieflächen mit niedriger Baudichte,Industrial areas with low building density,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49

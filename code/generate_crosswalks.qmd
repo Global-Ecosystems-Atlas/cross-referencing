@@ -81,28 +81,32 @@ dir_create(output_folder)
 
 
 # Function to process membership matrix template for one dataset
+# For each class in each membership matrix we need to assess which EFG code has the highest membership score. If that score is below a threshold (currently 0.5) then we assign "NA" for that class. If there are no membership scores for a class, we also assign "NA". If two EFG codes both score 0.5, we will also assign "NA".
+
 ```{r}
-process_membmat <- function(file_path, membership_threshold = 0.5) { # Set membership threshold here. Currently 0.5 (50%)
+process_membmat <- function(file_path, membership_threshold = 0.5) { 
   
   # Derive data_id_code from folder name
   data_id <- basename(dirname(file_path))
   
   # Read membership matrix
-  # Trying to coerce these all to the same var types for downstream work but fails on reload, so need a fix there...
-dat <- read_csv(file_path, show_col_types = FALSE) |>
-  mutate(
-    crossref_date               = as.character(crossref_date),
-    crossref_by                 = as.character(crossref_by),
-    data_id_code                = as.character(data_id_code),
-    layer_id                    = as.integer(layer_id),
-    layer_name                  = as.character(layer_name),
-    in_class_field_name         = as.character(in_class_field_name),
-    in_class_value              = as.character(in_class_value),
-    in_class_description        = as.character(in_class_description),
-    in_class_description_detail = as.character(in_class_description_detail),
-    GET_vsn                     = as.double(GET_vsn),
-    Source_ID                   = as.double(Source_ID)
-  )  
+  dat <- read_csv(file_path, show_col_types = FALSE) |>
+    # Using any_of() ensures the loop won't break if a file already uses "NOTREF" instead of "NA"
+    rename(any_of(c(NOTREF = "NA"))) |> 
+    mutate(
+      crossref_date               = as.character(crossref_date),
+      crossref_by                 = as.character(crossref_by),
+      data_id_code                = as.character(data_id_code),
+      layer_id                    = as.integer(layer_id),
+      layer_name                  = as.character(layer_name),
+      in_class_field_name         = as.character(in_class_field_name),
+      in_class_value              = as.character(in_class_value),
+      in_class_description        = as.character(in_class_description),
+      in_class_description_detail = as.character(in_class_description_detail),
+      GET_vsn                     = as.double(GET_vsn),
+      Source_ID                   = as.double(Source_ID)
+    )  
+  
   # Pivot longer across all EFG codes
   dat_long <- dat |>
     pivot_longer(
@@ -111,21 +115,23 @@ dat <- read_csv(file_path, show_col_types = FALSE) |>
       values_to = "membership"
     )
   
-  
-dat_out <- dat_long |> 
-  group_by(data_id_code, layer_name, in_class_value) |> 
-  # filter to top membership score. Needs to handle sub-0.5 scores, full NA assignment and true "No data"
-  filter(membership >= membership_threshold | membership == max(membership, na.rm = TRUE) | all(is.na(membership))) |> 
-  slice_head(n = 1) |> 
-  ungroup() |> 
-  # If  winning candidate failed threshold, assign "NA" for efg_code
-  mutate(
-    efg_code = if_else(membership < membership_threshold | is.na(membership), "NA", efg_code),
-    membership = if_else(efg_code == "NA", NA_real_, membership)
-  )
+  dat_out <- dat_long |> 
+    group_by(data_id_code, layer_name, in_class_value) |> 
+    # Calculate if the maximum membership score is shared by more than one EFG
+    mutate(
+      max_mem = max(membership, na.rm = TRUE),
+      is_tie = sum(membership == max_mem, na.rm = TRUE) > 1
+    ) |> 
+    # Sort to bring maximum membership to the top of the group
+    arrange(desc(membership), .by_group = TRUE) |> 
+    slice_head(n = 1) |> 
+    ungroup() |> 
+    # If winning candidate failed threshold, was tied, or is NA, assign "NOTREF" for efg_code
+    mutate(
+      efg_code = if_else(is_tie | is.na(membership) | membership < membership_threshold, "NOTREF", efg_code)) |> 
+    select(-max_mem, -is_tie)
 
-  
-  # Join with metadata (will yield NA for EFG fields)
+  # Join with metadata
   dat_out <- dat_out |>
     left_join(efg_pixelvalues, by = "efg_code") |>
     select(
@@ -146,8 +152,6 @@ dat_out <- dat_long |>
       pixel_value
     ) |>
     arrange(data_id_code, layer_name, in_class_value)
-  
-  
   
   # Define output subdir and ensure it exists
   sub_dir <- path(output_folder, data_id)
