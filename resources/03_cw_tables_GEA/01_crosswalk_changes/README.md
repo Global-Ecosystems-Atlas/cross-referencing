@@ -1,3 +1,16 @@
+### Cross referencing pipeline run no. 117 on 2026-10-21 01:59 PM AEST
+
+**Changes made**
+- resources/03_cw_tables_GEA
+- resources/03_cw_tables_GEA/mapb_uruguay_lcov_2026
+- resources/03_cw_tables_GEA/mapb_uruguay_lcov_2026/per_layer_name
+
+**New folders created**
+- resources/03_cw_tables_GEA/gww_global_wetland_2026
+- resources/03_cw_tables_GEA/gww_global_wetland_2026/per_layer_name
+
+---
+
 ### Cross referencing pipeline run no. 116 on 2026-10-21 10:06 AM AEST
 
 **Changes made**
