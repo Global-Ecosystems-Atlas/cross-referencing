@@ -435,6 +435,21 @@ var grsdc_global_owt_2022 = {
   efg_codes: ['M4.1', 'M4.1', 'M4.1']
 };
 
+//gww_global_wetland_2026
+var gww_global_wetland_2026 = {
+  source_id: 532,
+  data_id_code: 'gww_global_wetland_2026',
+  dataset_year: 2025,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.gww_global_wetland_2026,
+  band_layer_name: [''],
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
+  in_class_value: [1, 10, 11, 12, 13, 14, 15, 16, 2, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 4, 5],
+  pixel_value: [159, 255, 255, 255, 110, 75, 255, 109, 158, 255, 255, 97, 98, 255, 116, 255, 255, 255, 157, 117, 255, 255, 169],
+  efg_names: ['Sandy shorelines', 'Not referable', 'Not referable', 'Not referable', 'Freshwater aquafarms', 'Boreal, temperate and montane peat bogs', 'Not referable', 'Rice paddies', 'Muddy shorelines', 'Not referable', 'Not referable', 'Permanent salt and soda lakes', 'Ephemeral salt lakes', 'Not referable', 'Permanently open riverine estuaries and bays', 'Not referable', 'Not referable', 'Not referable', 'Rocky shorelines', 'Intermittently closed and open lakes and lagoons', 'Not referable', 'Not referable', 'Intertidal forests and shrublands'],
+  efg_codes: ['MT1.3', 'NOTREF', 'NOTREF', 'NOTREF', 'F3.4', 'TF1.6', 'NOTREF', 'F3.3', 'MT1.2', 'NOTREF', 'NOTREF', 'F2.6', 'F2.7', 'NOTREF', 'FM1.2', 'NOTREF', 'NOTREF', 'NOTREF', 'MT1.1', 'FM1.3', 'NOTREF', 'NOTREF', 'MFT1.2']
+};
+
 //ibge_brazil_veg_2021
 var ibge_brazil_veg_2021 = {
   source_id: 138,
@@ -790,9 +805,9 @@ var mapbiomas-uruguay-collection-30-2024.tif = {
   band_layer_name: [''],
   in_class_field_name: ['Wetland', 'Grassland', 'Pasture', 'Agriculture', 'Non vegetated area', 'Forest formation', 'River, lake or ocean', 'Pinus plantation', 'Eucalyptus plantation', 'Other forestry uses'],
   in_class_value: [11, 12, 15, 19, 22, 3, 33, 79, 80, 83],
-  pixel_value: [255, 26, 48, 46, 0, 25, 0, 48, 48, 48],
-  efg_names: ['Not referable', 'Temperate subhumid grasslands', 'Plantations', 'Annual croplands', 'No data', 'Temperate woodlands', 'No data', 'Plantations', 'Plantations', 'Plantations'],
-  efg_codes: ['NOTREF', 'T4.5', 'T7.3', 'T7.1', '0', 'T4.4', '0', 'T7.3', 'T7.3', 'T7.3']
+  pixel_value: [255, 50, 47, 46, 0, 25, 0, 48, 48, 48],
+  efg_names: ['Not referable', 'Derived semi-natural pastures and old fields', 'Sown pastures and fields', 'Annual croplands', 'No data', 'Temperate woodlands', 'No data', 'Plantations', 'Plantations', 'Plantations'],
+  efg_codes: ['NOTREF', 'T7.5', 'T7.2', 'T7.1', '0', 'T4.4', '0', 'T7.3', 'T7.3', 'T7.3']
 };
 
 //must_malawi_eco_2024
