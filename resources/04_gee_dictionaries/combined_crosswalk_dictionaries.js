@@ -758,7 +758,7 @@ var mapb_boliv_lcov_2024 = {
   vector_raster: 'Raster',
   ee_asset_id: repository.data_catalogue.mapb_boliv_lcov_2024,
   band_layer_name: [''],
-  in_class_field_name: ['Flooded grassland/shrubland', 'Grassland/shrubland', 'Other non-forest natural formation', 'Pasture', 'Mosaic of uses', 'Beach, dune and sand spot', 'Urban infrastructure', 'Other non-vegetated anthropic area', 'Rocky outcrop', 'Forest', 'Mining', 'Aquaculture', 'River, lake', 'Glacier', 'Soybean', 'Open forest', 'Flooded forest', 'Salt flat', 'Scrublands', 'Other non-vegetated natural area', 'Other crops', 'Andean grassland and shrubland', 'Flooded Andean grassland and shrubland'],
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
   in_class_value: [11, 12, 13, 15, 21, 23, 24, 25, 29, 3, 30, 31, 33, 34, 39, 4, 6, 61, 66, 68, 72, 81, 82],
   pixel_value: [73, 23, 2, 47, 255, 255, 49, 255, 19, 255, 49, 110, 255, 38, 46, 23, 70, 98, 41, 41, 46, 41, 74],
   efg_names: ['Seasonal floodplain marshes', 'Pyric tussock savannas', 'Tropical/Subtropical dry forests and thickets', 'Sown pastures and fields', 'Not referable', 'Not referable', 'Urban and industrial ecosystems', 'Not referable', 'Young rocky pavements, lava flows and screes', 'Not referable', 'Urban and industrial ecosystems', 'Freshwater aquafarms', 'Not referable', 'Ice sheets, glaciers and perennial snowfields', 'Annual croplands', 'Pyric tussock savannas', 'Tropical flooded forests and peat forests', 'Ephemeral salt lakes', 'Temperate alpine grasslands and shrublands', 'Temperate alpine grasslands and shrublands', 'Annual croplands', 'Temperate alpine grasslands and shrublands', 'Episodic arid floodplains'],
@@ -795,15 +795,15 @@ var mapb_peru_lcov_2026 = {
   efg_codes: ['NOTREF', 'T7.2', 'NOTREF', 'NOTREF', 'T7.4', 'NOTREF', '0', 'NOTREF', 'T7.4', 'M4.2', 'NOTREF', 'T6.1', 'T7.3', 'NOTREF', 'F3.3', 'MFT1.2', 'TF1.4', 'NOTREF', 'TF1.1', 'F2.7', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'T7.3', 'T3.4']
 };
 
-//mapbiomas-uruguay-collection-30-2024.tif
-var mapbiomas-uruguay-collection-30-2024.tif = {
+//mapb_uruguay_lcov_2026
+var mapb_uruguay_lcov_2026 = {
   source_id: 486,
-  data_id_code: 'mapbiomas-uruguay-collection-30-2024.tif',
+  data_id_code: 'mapb_uruguay_lcov_2026',
   dataset_year: 2024,
   vector_raster: 'Raster',
-  ee_asset_id: repository.data_catalogue.mapbiomas-uruguay-collection-30-2024.tif,
+  ee_asset_id: repository.data_catalogue.mapb_uruguay_lcov_2026,
   band_layer_name: [''],
-  in_class_field_name: ['Wetland', 'Grassland', 'Pasture', 'Agriculture', 'Non vegetated area', 'Forest formation', 'River, lake or ocean', 'Pinus plantation', 'Eucalyptus plantation', 'Other forestry uses'],
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
   in_class_value: [11, 12, 15, 19, 22, 3, 33, 79, 80, 83],
   pixel_value: [255, 50, 47, 46, 0, 25, 0, 48, 48, 48],
   efg_names: ['Not referable', 'Derived semi-natural pastures and old fields', 'Sown pastures and fields', 'Annual croplands', 'No data', 'Temperate woodlands', 'No data', 'Plantations', 'Plantations', 'Plantations'],
