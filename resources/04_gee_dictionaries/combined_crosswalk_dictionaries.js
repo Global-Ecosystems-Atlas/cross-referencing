@@ -405,6 +405,21 @@ var gmw_global_mangrove_2022 = {
   efg_codes: ['MFT1.2']
 };
 
+//gmw_global_mangrove_2024
+var gmw_global_mangrove_2024 = {
+  source_id: 512,
+  data_id_code: 'gmw_global_mangrove_2024',
+  dataset_year: 2020,
+  vector_raster: 'Vector',
+  ee_asset_id: repository.data_catalogue.gmw_global_mangrove_2024,
+  band_layer_name: [''],
+  in_class_field_name: ['ClassID'],
+  in_class_value: [1],
+  pixel_value: [169],
+  efg_names: ['Intertidal forests and shrublands'],
+  efg_codes: ['MFT1.2']
+};
+
 //goog_global_forest_2026
 var goog_global_forest_2026 = {
   source_id: 433,
