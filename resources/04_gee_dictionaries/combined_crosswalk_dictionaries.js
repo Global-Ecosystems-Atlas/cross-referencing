@@ -784,7 +784,7 @@ var mapb_boliv_lcov_2024 = {
 var mapb_ecuad_lcov_2025 = {
   source_id: 487,
   data_id_code: 'mapb_ecuad_lcov_2025',
-  dataset_year: 2024,
+  dataset_year: 2025,
   vector_raster: 'Raster',
   ee_asset_id: repository.data_catalogue.mapb_ecuad_lcov_2025,
   band_layer_name: [''],
