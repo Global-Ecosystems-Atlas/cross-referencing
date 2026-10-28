@@ -780,19 +780,19 @@ var mapb_boliv_lcov_2024 = {
   efg_codes: ['TF1.4', 'T4.2', 'T1.2', 'T7.2', 'NOTREF', 'NOTREF', 'T7.4', 'NOTREF', 'T3.4', 'NOTREF', 'T7.4', 'F3.4', 'NOTREF', 'T6.1', 'T7.1', 'T4.2', 'TF1.1', 'F2.7', 'T6.4', 'T6.4', 'T7.1', 'T6.4', 'TF1.5']
 };
 
-//mapb_ecuad_lcov_2025
-var mapb_ecuad_lcov_2025 = {
+//mapb_ecuad_lcov_2026
+var mapb_ecuad_lcov_2026 = {
   source_id: 487,
-  data_id_code: 'mapb_ecuad_lcov_2025',
+  data_id_code: 'mapb_ecuad_lcov_2026',
   dataset_year: 2025,
   vector_raster: 'Raster',
-  ee_asset_id: repository.data_catalogue.mapb_ecuad_lcov_2025,
+  ee_asset_id: repository.data_catalogue.mapb_ecuad_lcov_2026,
   band_layer_name: [''],
-  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'NA'],
-  in_class_value: [11, 12, 13, 21, 23, 24, 25, 29, 3, 30, 31, 33, 34, 4, 5, 6, 68, 74, 81, 82, 9, 27],
-  pixel_value: [255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255],
-  efg_names: ['Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable'],
-  efg_codes: ['NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF']
+  in_class_field_name: ['81', '31', '74', '23', '6', '82', '3', '34', '12', '5', '30', '21', '11', '27', '4', '25', '68', '13', '33', '29', '9', '24'],
+  in_class_value: ['Andinean herbaceous and shrubby vegetation', 'Aquaculture', 'Banana', 'Beach, dune and sand spot', 'Floodable forest', 'Flooded Andinean herbaceous', 'Forest', 'Glacier', 'Grassland', 'Mangrove', 'Mining', 'Mosaic of uses', 'Non forest wetland', 'Not observed', 'Open forest', 'Other anthropic non-vegetated area', 'Other natural non-vegetated area', 'Other non-forest natural formation', 'River, lake or ocean', 'Rocky outcrop', 'Silviculture', 'Urban infrastructure'],
+  pixel_value: [42, 255, 48, 255, 70, 75, 255, 38, 255, 169, 49, 255, 73, 0, 255, 255, 255, 255, 255, 19, 48, 49],
+  efg_names: ['Tropical alpine grasslands and herbfields', 'Not referable', 'Plantations', 'Not referable', 'Tropical flooded forests and peat forests', 'Boreal, temperate and montane peat bogs', 'Not referable', 'Ice sheets, glaciers and perennial snowfields', 'Not referable', 'Intertidal forests and shrublands', 'Urban and industrial ecosystems', 'Not referable', 'Seasonal floodplain marshes', 'No data', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Not referable', 'Young rocky pavements, lava flows and screes', 'Plantations', 'Urban and industrial ecosystems'],
+  efg_codes: ['T6.5', 'NOTREF', 'T7.3', 'NOTREF', 'TF1.1', 'TF1.6', 'NOTREF', 'T6.1', 'NOTREF', 'MFT1.2', 'T7.4', 'NOTREF', 'TF1.4', '0', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'NOTREF', 'T3.4', 'T7.3', 'T7.4']
 };
 
 //mapb_peru_lcov_2026
