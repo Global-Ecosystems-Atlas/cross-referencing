@@ -345,6 +345,21 @@ var gbrmpa_aus_benth_2021 = {
   efg_codes: ['M1.7', 'M1.3', 'M1.3', 'M1.3']
 };
 
+//gea_maldives_eco_2026
+var gea_maldives_eco_2026 = {
+  source_id: 567,
+  data_id_code: 'gea_maldives_eco_2026',
+  dataset_year: 2025,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.gea_maldives_eco_2026,
+  band_layer_name: [''],
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
+  in_class_value: [0, 157, 159, 163, 166, 169, 200, 46, 48, 49, 72],
+  pixel_value: [0, 157, 159, 163, 166, 169, 0, 46, 48, 49, 72],
+  efg_names: ['No data', 'Rocky shorelines', 'Sandy shorelines', 'Coastal shrublands and grasslands', 'Artificial shorelines', 'Intertidal forests and shrublands', 'No data', 'Annual croplands', 'Plantations', 'Urban and industrial ecosystems', 'Permanent marshes'],
+  efg_codes: ['0', 'MT1.1', 'MT1.3', 'MT2.1', 'MT3.1', 'MFT1.2', '0', 'T7.1', 'T7.3', 'T7.4', 'TF1.3']
+};
+
 //gfw_global_plant_2024
 var gfw_global_plant_2024 = {
   source_id: 171,
