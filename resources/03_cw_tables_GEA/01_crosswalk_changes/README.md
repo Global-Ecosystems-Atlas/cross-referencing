@@ -1,3 +1,14 @@
+### Cross referencing pipeline run no. 127 on 2026-10-30 10:56 AM AEST
+
+**Changes made**
+- resources/03_cw_tables_GEA
+
+**New folders created**
+- resources/03_cw_tables_GEA/mapb_venez_lcov_2025
+- resources/03_cw_tables_GEA/mapb_venez_lcov_2025/per_layer_name
+
+---
+
 ### Cross referencing pipeline run no. 126 on 2026-10-30 09:49 AM AEST
 
 **Changes made**
