@@ -840,6 +840,21 @@ var mapb_uruguay_lcov_2026 = {
   efg_codes: ['NOTREF', 'T7.5', 'T7.2', 'T7.1', '0', 'T4.4', '0', 'T7.3', 'T7.3', 'T7.3']
 };
 
+//mapb_venez_lcov_2025
+var mapb_venez_lcov_2025 = {
+  source_id: 485,
+  data_id_code: 'mapb_venez_lcov_2025',
+  dataset_year: 2024,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.mapb_venez_lcov_2025,
+  band_layer_name: [''],
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
+  in_class_value: [11, 12, 13, 15, 18, 21, 23, 24, 25, 29, 3, 30, 31, 32, 33, 34, 4, 5, 50, 6, 66, 68, 81, 82, 9],
+  pixel_value: [73, 23, 255, 47, 255, 255, 255, 49, 49, 19, 255, 49, 255, 255, 255, 38, 23, 169, 255, 70, 255, 255, 42, 75, 48],
+  efg_names: ['Seasonal floodplain marshes', 'Pyric tussock savannas', 'Not referable', 'Sown pastures and fields', 'Not referable', 'Not referable', 'Not referable', 'Urban and industrial ecosystems', 'Urban and industrial ecosystems', 'Young rocky pavements, lava flows and screes', 'Not referable', 'Urban and industrial ecosystems', 'Not referable', 'Not referable', 'Not referable', 'Ice sheets, glaciers and perennial snowfields', 'Pyric tussock savannas', 'Intertidal forests and shrublands', 'Not referable', 'Tropical flooded forests and peat forests', 'Not referable', 'Not referable', 'Tropical alpine grasslands and herbfields', 'Boreal, temperate and montane peat bogs', 'Plantations'],
+  efg_codes: ['TF1.4', 'T4.2', 'NOTREF', 'T7.2', 'NOTREF', 'NOTREF', 'NOTREF', 'T7.4', 'T7.4', 'T3.4', 'NOTREF', 'T7.4', 'NOTREF', 'NOTREF', 'NOTREF', 'T6.1', 'T4.2', 'MFT1.2', 'NOTREF', 'TF1.1', 'NOTREF', 'NOTREF', 'T6.5', 'TF1.6', 'T7.3']
+};
+
 //must_malawi_eco_2024
 var must_malawi_eco_2024 = {
   source_id: 215,
