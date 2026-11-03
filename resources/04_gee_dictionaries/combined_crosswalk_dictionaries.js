@@ -834,7 +834,7 @@ var mapb_uruguay_lcov_2026 = {
   ee_asset_id: repository.data_catalogue.mapb_uruguay_lcov_2026,
   band_layer_name: [''],
   in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
-  in_class_value: [11, 12, 15, 19, 22, 3, 33, 79, 80, 83],
+  in_class_value: [11, 12, 15, 18, 22, 3, 33, 79, 80, 83],
   pixel_value: [255, 50, 47, 46, 0, 25, 0, 48, 48, 48],
   efg_names: ['Not referable', 'Derived semi-natural pastures and old fields', 'Sown pastures and fields', 'Annual croplands', 'No data', 'Temperate woodlands', 'No data', 'Plantations', 'Plantations', 'Plantations'],
   efg_codes: ['NOTREF', 'T7.5', 'T7.2', 'T7.1', '0', 'T4.4', '0', 'T7.3', 'T7.3', 'T7.3']
