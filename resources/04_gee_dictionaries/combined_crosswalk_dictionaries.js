@@ -1144,7 +1144,7 @@ var ubonn_chile_veg_2022 = {
 var ucl_congo_lcov_2012 = {
   source_id: 501,
   data_id_code: 'ucl_congo_lcov_2012',
-  dataset_year: 2007,
+  dataset_year: 2020,
   vector_raster: 'Raster',
   ee_asset_id: repository.data_catalogue.ucl_congo_lcov_2012,
   band_layer_name: [''],
