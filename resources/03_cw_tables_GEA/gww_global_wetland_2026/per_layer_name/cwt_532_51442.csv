@@ -11,7 +11,7 @@ crossref_date,crossref_by,GET_vsn,Source_ID,data_id_code,layer_id,layer_name,in_
 21/10/2026,Alli Lynn,2.1,532,gww_global_wetland_2026,51442,final_merged_wetland,raster code,21,Reservoirs,NA,NOTREF,Not referable,Not referable,255
 21/10/2026,Alli Lynn,2.1,532,gww_global_wetland_2026,51442,final_merged_wetland,raster code,22,Canals,NA,NOTREF,Not referable,Not referable,255
 21/10/2026,Alli Lynn,2.1,532,gww_global_wetland_2026,51442,final_merged_wetland,raster code,23,Salt lakes,NA,F2.6,Permanent salt and soda lakes,F2.6 Permanent salt and soda lakes,97
-21/10/2026,Alli Lynn,2.1,532,gww_global_wetland_2026,51442,final_merged_wetland,raster code,24,Saltpans,NA,F2.7,Ephemeral salt lakes,F2.7 Ephemeral salt lakes,98
+21/10/2026,Alli Lynn,2.1,532,gww_global_wetland_2026,51442,final_merged_wetland,raster code,24,Saltpans,NA,NOTREF,Not referable,Not referable,255
 21/10/2026,Alli Lynn,2.1,532,gww_global_wetland_2026,51442,final_merged_wetland,raster code,25,Lakes,NA,NOTREF,Not referable,Not referable,255
 21/10/2026,Alli Lynn,2.1,532,gww_global_wetland_2026,51442,final_merged_wetland,raster code,26,Deltas & estuaries,NA,FM1.2,Permanently open riverine estuaries and bays,FM1.2 Permanently open riverine estuaries and bays,116
 21/10/2026,Alli Lynn,2.1,532,gww_global_wetland_2026,51442,final_merged_wetland,raster code,27,Ocean,NA,NOTREF,Not referable,Not referable,255

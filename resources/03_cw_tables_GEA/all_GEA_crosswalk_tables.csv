@@ -1281,6 +1281,23 @@ straight line boundaries of the patches.",T7.3,Plantations,T7.3 Plantations,48
 28/06/2024 0:00,Ben_Cresswell,NA,153,gbrmpa_aus_benth_2021,74522,GBR10_GBRMP_Benthic,Value,12,Rubble,"Any habitat featuring loose, rough fragments of broken reef material.",M1.3,Photic coral reefs,M1.3 Photic coral reefs,122
 28/06/2024 0:00,Ben_Cresswell,NA,153,gbrmpa_aus_benth_2021,74522,GBR10_GBRMP_Benthic,Value,13,Rock,Any exposed hardbottom area with uncommon to scarce corals and fleshy macroalgae.,M1.3,Photic coral reefs,M1.3 Photic coral reefs,122
 28/06/2024 0:00,Ben_Cresswell,NA,153,gbrmpa_aus_benth_2021,74522,GBR10_GBRMP_Benthic,Value,15,Coral/Algae,Any hardbottom area supporting living coral and/or algae,M1.3,Photic coral reefs,M1.3 Photic coral reefs,122
+19/11/2026,Andrew_Skowno,2.1,501,gea_congo_lcov_2026,37765,CongoBasin_EarthEngine,raster code,1,Lowland forest,NA,T1.1,Tropical/Subtropical lowland rainforests,T1.1 Tropical/Subtropical lowland rainforests,1
+19/11/2026,Andrew_Skowno,2.1,501,gea_congo_lcov_2026,37765,CongoBasin_EarthEngine,raster code,10,Forest-farm mosaic,NA,T7.1,Annual croplands,T7.1 Annual croplands,46
+19/11/2026,Andrew_Skowno,2.1,501,gea_congo_lcov_2026,37765,CongoBasin_EarthEngine,raster code,11,Cropland,NA,T7.1,Annual croplands,T7.1 Annual croplands,46
+19/11/2026,Andrew_Skowno,2.1,501,gea_congo_lcov_2026,37765,CongoBasin_EarthEngine,raster code,12,Plantation,NA,T7.3,Plantations,T7.3 Plantations,48
+19/11/2026,Andrew_Skowno,2.1,501,gea_congo_lcov_2026,37765,CongoBasin_EarthEngine,raster code,13,Built-up,NA,T7.4,Urban and industrial ecosystems,T7.4 Urban and industrial ecosystems,49
+19/11/2026,Andrew_Skowno,2.1,501,gea_congo_lcov_2026,37765,CongoBasin_EarthEngine,raster code,14,Mangroves,NA,MFT1.2,Intertidal forests and shrublands,MFT1.2 Intertidal forests and shrublands,169
+19/11/2026,Andrew_Skowno,2.1,501,gea_congo_lcov_2026,37765,CongoBasin_EarthEngine,raster code,15,Open water,NA,0,No data,No data,0
+19/11/2026,Andrew_Skowno,2.1,501,gea_congo_lcov_2026,37765,CongoBasin_EarthEngine,raster code,16,Ocean,NA,0,No data,No data,0
+19/11/2026,Andrew_Skowno,2.1,501,gea_congo_lcov_2026,37765,CongoBasin_EarthEngine,raster code,17,Dry forest,NA,T1.2,Tropical/Subtropical dry forests and thickets,T1.2 Tropical/Subtropical dry forests and thickets,2
+19/11/2026,Andrew_Skowno,2.1,501,gea_congo_lcov_2026,37765,CongoBasin_EarthEngine,raster code,2,Submontane forest,NA,T1.3,Tropical/Subtropical montane rainforests,T1.3 Tropical/Subtropical montane rainforests,3
+19/11/2026,Andrew_Skowno,2.1,501,gea_congo_lcov_2026,37765,CongoBasin_EarthEngine,raster code,3,Montane forest,NA,T1.3,Tropical/Subtropical montane rainforests,T1.3 Tropical/Subtropical montane rainforests,3
+19/11/2026,Andrew_Skowno,2.1,501,gea_congo_lcov_2026,37765,CongoBasin_EarthEngine,raster code,4,Swamp forest (non-peat),NA,TF1.1,Tropical flooded forests and peat forests,TF1.1 Tropical flooded forests and peat forests,70
+19/11/2026,Andrew_Skowno,2.1,501,gea_congo_lcov_2026,37765,CongoBasin_EarthEngine,raster code,5,Peat forest,NA,TF1.1,Tropical flooded forests and peat forests,TF1.1 Tropical flooded forests and peat forests,70
+19/11/2026,Andrew_Skowno,2.1,501,gea_congo_lcov_2026,37765,CongoBasin_EarthEngine,raster code,6,Woodland,NA,T4.2,Pyric tussock savannas,T4.2 Pyric tussock savannas,23
+19/11/2026,Andrew_Skowno,2.1,501,gea_congo_lcov_2026,37765,CongoBasin_EarthEngine,raster code,7,Savanna,NA,T4.2,Pyric tussock savannas,T4.2 Pyric tussock savannas,23
+19/11/2026,Andrew_Skowno,2.1,501,gea_congo_lcov_2026,37765,CongoBasin_EarthEngine,raster code,8,Wetland,NA,TF1.3,Permanent marshes,TF1.3 Permanent marshes,72
+19/11/2026,Andrew_Skowno,2.1,501,gea_congo_lcov_2026,37765,CongoBasin_EarthEngine,raster code,9,Sparse vegetation,NA,T7.5,Derived semi-natural pastures and old fields,T7.5 Derived semi-natural pastures and old fields,50
 29/10/2026,Naema_GrosDubois,2.1,567,gea_maldives_eco_2026,75936,maldives_efg_accelerator_v0_0_4,raster code,0,NODATA,NA,0,No data,No data,0
 29/10/2026,Naema_GrosDubois,2.1,567,gea_maldives_eco_2026,75936,maldives_efg_accelerator_v0_0_4,raster code,157,Rocky shorelines,NA,MT1.1,Rocky shorelines,MT1.1 Rocky shorelines,157
 29/10/2026,Naema_GrosDubois,2.1,567,gea_maldives_eco_2026,75936,maldives_efg_accelerator_v0_0_4,raster code,159,Sandy shorelines,NA,MT1.3,Sandy shorelines,MT1.3 Sandy shorelines,159
@@ -1324,7 +1341,7 @@ straight line boundaries of the patches.",T7.3,Plantations,T7.3 Plantations,48
 21/10/2026,Alli Lynn,2.1,532,gww_global_wetland_2026,51442,final_merged_wetland,raster code,21,Reservoirs,NA,NOTREF,Not referable,Not referable,255
 21/10/2026,Alli Lynn,2.1,532,gww_global_wetland_2026,51442,final_merged_wetland,raster code,22,Canals,NA,NOTREF,Not referable,Not referable,255
 21/10/2026,Alli Lynn,2.1,532,gww_global_wetland_2026,51442,final_merged_wetland,raster code,23,Salt lakes,NA,F2.6,Permanent salt and soda lakes,F2.6 Permanent salt and soda lakes,97
-21/10/2026,Alli Lynn,2.1,532,gww_global_wetland_2026,51442,final_merged_wetland,raster code,24,Saltpans,NA,F2.7,Ephemeral salt lakes,F2.7 Ephemeral salt lakes,98
+21/10/2026,Alli Lynn,2.1,532,gww_global_wetland_2026,51442,final_merged_wetland,raster code,24,Saltpans,NA,NOTREF,Not referable,Not referable,255
 21/10/2026,Alli Lynn,2.1,532,gww_global_wetland_2026,51442,final_merged_wetland,raster code,25,Lakes,NA,NOTREF,Not referable,Not referable,255
 21/10/2026,Alli Lynn,2.1,532,gww_global_wetland_2026,51442,final_merged_wetland,raster code,26,Deltas & estuaries,NA,FM1.2,Permanently open riverine estuaries and bays,FM1.2 Permanently open riverine estuaries and bays,116
 21/10/2026,Alli Lynn,2.1,532,gww_global_wetland_2026,51442,final_merged_wetland,raster code,27,Ocean,NA,NOTREF,Not referable,Not referable,255

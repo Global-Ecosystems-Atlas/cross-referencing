@@ -345,6 +345,21 @@ var gbrmpa_aus_benth_2021 = {
   efg_codes: ['M1.7', 'M1.3', 'M1.3', 'M1.3']
 };
 
+//gea_congo_lcov_2026
+var gea_congo_lcov_2026 = {
+  source_id: 501,
+  data_id_code: 'gea_congo_lcov_2026',
+  dataset_year: 2020,
+  vector_raster: 'Raster',
+  ee_asset_id: repository.data_catalogue.gea_congo_lcov_2026,
+  band_layer_name: [''],
+  in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
+  in_class_value: [1, 10, 11, 12, 13, 14, 15, 16, 17, 2, 3, 4, 5, 6, 7, 8, 9],
+  pixel_value: [1, 46, 46, 48, 49, 169, 0, 0, 2, 3, 3, 70, 70, 23, 23, 72, 50],
+  efg_names: ['Tropical/Subtropical lowland rainforests', 'Annual croplands', 'Annual croplands', 'Plantations', 'Urban and industrial ecosystems', 'Intertidal forests and shrublands', 'No data', 'No data', 'Tropical/Subtropical dry forests and thickets', 'Tropical/Subtropical montane rainforests', 'Tropical/Subtropical montane rainforests', 'Tropical flooded forests and peat forests', 'Tropical flooded forests and peat forests', 'Pyric tussock savannas', 'Pyric tussock savannas', 'Permanent marshes', 'Derived semi-natural pastures and old fields'],
+  efg_codes: ['T1.1', 'T7.1', 'T7.1', 'T7.3', 'T7.4', 'MFT1.2', '0', '0', 'T1.2', 'T1.3', 'T1.3', 'TF1.1', 'TF1.1', 'T4.2', 'T4.2', 'TF1.3', 'T7.5']
+};
+
 //gea_maldives_eco_2026
 var gea_maldives_eco_2026 = {
   source_id: 567,
@@ -475,9 +490,9 @@ var gww_global_wetland_2026 = {
   band_layer_name: [''],
   in_class_field_name: ['raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code', 'raster code'],
   in_class_value: [1, 10, 11, 12, 13, 14, 15, 16, 2, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 4, 5],
-  pixel_value: [159, 255, 255, 255, 110, 75, 255, 109, 158, 255, 255, 97, 98, 255, 116, 255, 255, 255, 157, 117, 255, 255, 169],
-  efg_names: ['Sandy shorelines', 'Not referable', 'Not referable', 'Not referable', 'Freshwater aquafarms', 'Boreal, temperate and montane peat bogs', 'Not referable', 'Rice paddies', 'Muddy shorelines', 'Not referable', 'Not referable', 'Permanent salt and soda lakes', 'Ephemeral salt lakes', 'Not referable', 'Permanently open riverine estuaries and bays', 'Not referable', 'Not referable', 'Not referable', 'Rocky shorelines', 'Intermittently closed and open lakes and lagoons', 'Not referable', 'Not referable', 'Intertidal forests and shrublands'],
-  efg_codes: ['MT1.3', 'NOTREF', 'NOTREF', 'NOTREF', 'F3.4', 'TF1.6', 'NOTREF', 'F3.3', 'MT1.2', 'NOTREF', 'NOTREF', 'F2.6', 'F2.7', 'NOTREF', 'FM1.2', 'NOTREF', 'NOTREF', 'NOTREF', 'MT1.1', 'FM1.3', 'NOTREF', 'NOTREF', 'MFT1.2']
+  pixel_value: [159, 255, 255, 255, 110, 75, 255, 109, 158, 255, 255, 97, 255, 255, 116, 255, 255, 255, 157, 117, 255, 255, 169],
+  efg_names: ['Sandy shorelines', 'Not referable', 'Not referable', 'Not referable', 'Freshwater aquafarms', 'Boreal, temperate and montane peat bogs', 'Not referable', 'Rice paddies', 'Muddy shorelines', 'Not referable', 'Not referable', 'Permanent salt and soda lakes', 'Not referable', 'Not referable', 'Permanently open riverine estuaries and bays', 'Not referable', 'Not referable', 'Not referable', 'Rocky shorelines', 'Intermittently closed and open lakes and lagoons', 'Not referable', 'Not referable', 'Intertidal forests and shrublands'],
+  efg_codes: ['MT1.3', 'NOTREF', 'NOTREF', 'NOTREF', 'F3.4', 'TF1.6', 'NOTREF', 'F3.3', 'MT1.2', 'NOTREF', 'NOTREF', 'F2.6', 'NOTREF', 'NOTREF', 'FM1.2', 'NOTREF', 'NOTREF', 'NOTREF', 'MT1.1', 'FM1.3', 'NOTREF', 'NOTREF', 'MFT1.2']
 };
 
 //ibge_brazil_veg_2021
