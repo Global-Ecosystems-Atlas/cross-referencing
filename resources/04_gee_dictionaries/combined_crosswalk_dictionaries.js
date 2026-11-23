@@ -240,6 +240,21 @@ var cuni_global_tcrop_2026 = {
   efg_codes: ['0', '0', 'T7.3']
 };
 
+//dea_botsw_eco_2022
+var dea_botsw_eco_2022 = {
+  source_id: 143,
+  data_id_code: 'dea_botsw_eco_2022',
+  dataset_year: 2021,
+  vector_raster: 'Vector',
+  ee_asset_id: repository.data_catalogue.dea_botsw_eco_2022,
+  band_layer_name: [''],
+  in_class_field_name: ['MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode', 'MBPCode'],
+  in_class_value: [1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 7, 70, 71, 72, 73, 8, 9],
+  pixel_value: [22, 74, 22, 22, 22, 22, 22, 22, 22, 22, 74, 74, 74, 74, 74, 74, 98, 98, 23, 22, 22, 74, 22, 74, 74, 22, 22, 74, 74, 74, 22, 22, 22, 22, 22, 22, 22, 22, 74, 23, 22, 22, 22, 23, 22, 22, 22, 22, 74, 74, 74, 74, 74, 74, 74, 74, 74, 74, 74, 74, 23, 23, 22, 74, 74, 74, 74, 73, 74, 74, 74, 74, 23],
+  efg_names: ['Trophic savannas', 'Episodic arid floodplains', 'Trophic savannas', 'Trophic savannas', 'Trophic savannas', 'Trophic savannas', 'Trophic savannas', 'Trophic savannas', 'Trophic savannas', 'Trophic savannas', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Ephemeral salt lakes', 'Ephemeral salt lakes', 'Pyric tussock savannas', 'Trophic savannas', 'Trophic savannas', 'Episodic arid floodplains', 'Trophic savannas', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Trophic savannas', 'Trophic savannas', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Trophic savannas', 'Trophic savannas', 'Trophic savannas', 'Trophic savannas', 'Trophic savannas', 'Trophic savannas', 'Trophic savannas', 'Trophic savannas', 'Episodic arid floodplains', 'Pyric tussock savannas', 'Trophic savannas', 'Trophic savannas', 'Trophic savannas', 'Pyric tussock savannas', 'Trophic savannas', 'Trophic savannas', 'Trophic savannas', 'Trophic savannas', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Pyric tussock savannas', 'Pyric tussock savannas', 'Trophic savannas', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Seasonal floodplain marshes', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Episodic arid floodplains', 'Pyric tussock savannas'],
+  efg_codes: ['T4.1', 'TF1.5', 'T4.1', 'T4.1', 'T4.1', 'T4.1', 'T4.1', 'T4.1', 'T4.1', 'T4.1', 'TF1.5', 'TF1.5', 'TF1.5', 'TF1.5', 'TF1.5', 'TF1.5', 'F2.7', 'F2.7', 'T4.2', 'T4.1', 'T4.1', 'TF1.5', 'T4.1', 'TF1.5', 'TF1.5', 'T4.1', 'T4.1', 'TF1.5', 'TF1.5', 'TF1.5', 'T4.1', 'T4.1', 'T4.1', 'T4.1', 'T4.1', 'T4.1', 'T4.1', 'T4.1', 'TF1.5', 'T4.2', 'T4.1', 'T4.1', 'T4.1', 'T4.2', 'T4.1', 'T4.1', 'T4.1', 'T4.1', 'TF1.5', 'TF1.5', 'TF1.5', 'TF1.5', 'TF1.5', 'TF1.5', 'TF1.5', 'TF1.5', 'TF1.5', 'TF1.5', 'TF1.5', 'TF1.5', 'T4.2', 'T4.2', 'T4.1', 'TF1.5', 'TF1.5', 'TF1.5', 'TF1.5', 'TF1.4', 'TF1.5', 'TF1.5', 'TF1.5', 'TF1.5', 'T4.2']
+};
+
 //des_qld_veg_2021
 var des_qld_veg_2021 = {
   source_id: 8,
