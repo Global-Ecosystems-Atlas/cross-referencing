@@ -1,3 +1,14 @@
+### Cross referencing pipeline run no. 133 on 2026-11-23 04:29 PM AEST
+
+**Changes made**
+- resources/03_cw_tables_GEA
+
+**New folders created**
+- resources/03_cw_tables_GEA/dea_botsw_eco_2022
+- resources/03_cw_tables_GEA/dea_botsw_eco_2022/per_layer_name
+
+---
+
 ### Cross referencing pipeline run no. 132 on 2026-11-23 11:41 AM AEST
 
 **Changes made**
